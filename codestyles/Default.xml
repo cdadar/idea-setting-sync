@@ -281,6 +281,20 @@
         <section>
           <rule>
             <match>
+              <SETTER />
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <GETTER />
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
               <ENUM>true</ENUM>
             </match>
           </rule>

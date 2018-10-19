@@ -295,14 +295,14 @@
         <section>
           <rule>
             <match>
-              <SETTER />
+              <GETTER />
             </match>
           </rule>
         </section>
         <section>
           <rule>
             <match>
-              <GETTER />
+              <SETTER />
             </match>
           </rule>
         </section>

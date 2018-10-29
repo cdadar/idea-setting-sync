@@ -15,9 +15,6 @@
         <mark key="^" line="174" column="60" />
         <mark key="." line="177" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535076656656">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/custom/icregister/form/icregister_edit_check.html" timestamp="1535076483579">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="22" />
@@ -40,6 +37,42 @@
         <mark key="]" line="147" column="0" />
         <mark key="^" line="147" column="0" />
         <mark key="." line="147" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/action/BszbFuhuaqiBusinessAction.java" timestamp="1540798260729" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/custom/invoice/grid/invoice_list_fuhuaqi.html" timestamp="1533198463493">
+        <mark key="[" line="55" column="69" />
+        <mark key="]" line="55" column="69" />
+        <mark key="." line="55" column="69" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/fuhuaqi/oregistapp/form/oregistapp_edit_check.html" timestamp="1535076507199">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/IBszbIncomeService.java" timestamp="1533286106685">
+        <mark key="[" line="296" column="80" />
+        <mark key="]" line="293" column="16" />
+        <mark key="^" line="293" column="16" />
+        <mark key="." line="293" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/BszbLoan.java" timestamp="1531897088367">
+        <mark key="[" line="403" column="51" />
+        <mark key="]" line="403" column="52" />
+        <mark key="." line="403" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/strategy/recoup/RecoupBossStrategy.java" timestamp="1531885623582">
+        <mark key="[" line="12" column="73" />
+        <mark key="]" line="12" column="72" />
+        <mark key="." line="12" column="72" />
+        <mark key="^" line="12" column="72" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/dto/BszbIncomeStatisticBalanceDTO.java" timestamp="1533287507664">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="60" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1535076656656">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/model/dto/ContractApplyAssignationDTO.java" timestamp="1536912824078">
         <mark key="[" line="24" column="24" />
@@ -64,11 +97,6 @@
         <mark key="." line="37" column="50" />
         <mark key="^" line="33" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/custom/invoice/grid/invoice_list_fuhuaqi.html" timestamp="1533198463493">
-        <mark key="[" line="55" column="69" />
-        <mark key="]" line="55" column="69" />
-        <mark key="." line="55" column="69" />
-      </file>
       <file name="$USER_HOME$/workspace/bcclub/server/src/main/resources/config/liquibase/changelog/00000000000027_modified_wallet.xml" timestamp="1532093795372">
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="26" />
@@ -80,44 +108,24 @@
         <mark key="." line="10" column="19" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/fuhuaqi/oregistapp/form/oregistapp_edit_check.html" timestamp="1535076507199">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/IBszbIncomeService.java" timestamp="1533286106685">
-        <mark key="[" line="296" column="80" />
-        <mark key="]" line="293" column="16" />
-        <mark key="^" line="293" column="16" />
-        <mark key="." line="293" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/BszbLoan.java" timestamp="1531897088367">
-        <mark key="[" line="403" column="51" />
-        <mark key="]" line="403" column="52" />
-        <mark key="." line="403" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/strategy/recoup/RecoupBossStrategy.java" timestamp="1531885623582">
-        <mark key="[" line="12" column="73" />
-        <mark key="]" line="12" column="72" />
-        <mark key="." line="12" column="72" />
-        <mark key="^" line="12" column="72" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/pub/util/StringUtil.java" timestamp="1533285151515">
         <mark key="[" line="479" column="21" />
         <mark key="]" line="479" column="45" />
         <mark key="^" line="479" column="45" />
         <mark key="." line="479" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/wf/model/WfInstanceActivity.java" timestamp="1540546464150">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="18" column="4" />
+      </file>
       <file name="/fragment.java" timestamp="1535014162949">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/dto/BszbIncomeStatisticBalanceDTO.java" timestamp="1533287507664">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="28" />
-        <mark key="." line="60" column="4" />
-      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIndepositBackServiceImpl.java" timestamp="1540798029438" />
       <file name="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/domain/GainWeek.java" timestamp="1531813158526">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="34" column="24" />
@@ -228,8 +236,19 @@
       <jump line="307" column="15" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbFundsRecordServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">OiA=</text>
+      <register name="&quot;" type="8">
+        <text>age com.eazer.wf.model;
+rt com.eazer.base.BaseM
+rt com.eazer.base.ICmmC
+rt com.eazer.base.ICmmC
+rt java.util.Date;
+f_instance_activity(WfI
+version 1.0
+author: eazer
+date 2018/10/16
+ic class WfInstanceActi
+//=====================
+private static final lo</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">OiA=</text>
@@ -240,35 +259,62 @@
       <register name="0" type="4">
         <text>statisticsBusinessIncome</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3QKKAoJc2VsZWN0CgkJSU5DT01FX0NVUlJFTlQKCWZyb20KCQlic3piX2luY29tZQoJam9pbiBic3piX2Jvb2tzIG9uCgkJYnN6Yl9pbmNvbWUuSU5DT01FX0JPT0tTVVVJRCA9IGJzemJfYm9va3MuQk9PS1NfVVVJRAoJd2hlcmUKCQlJTkNPTUVfQk9PS1NVVUlEID0gYWEuQk9PS1NfVVVJRAoJCWFuZCBJTkNPTUVfREFURSA8PSAnMjAxOC0wNy0zMScKCW9yZGVyIGJ5CgkJSU5DT01FX0RBVEUgZGVzYwoJbGltaXQgMSApIGFzIGluY29tZUN1cnJlbnQsCglhYS5CT09LU19VVUlEIGFzIGluY29tZVV1aWQgICAgICAgIGZyb20gYnN6Yl9ib29rcyBhcyBhYSBvcmRlciBieSBhYS5CT09LU19VVUlECg==</text>
+      <register name="1" type="8">
+        <text>age com.eazer.wf.model;
+rt com.eazer.base.BaseM
+rt com.eazer.base.ICmmC
+rt com.eazer.base.ICmmC
+rt java.util.Date;
+f_instance_activity(WfI
+version 1.0
+author: eazer
+date 2018/10/16
+ic class WfInstanceActi
+//=====================
+private static final lo</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKHNlbGVjdAogICAgICAgICAgICBJTkNPTUVfQ1VSUkVOVAogICAgICAgIGZyb20KICAgICAgICAgICAgYnN6Yl9pbmNvbWUKICAgICAgICBqb2luIGJzemJfYm9va3Mgb24KICAgICAgICAgICAgYnN6Yl9pbmNvbWUuSU5DT01FX0JPT0tTVVVJRCA9IGJzemJfYm9va3MuQk9PS1NfVVVJRAogICAgICAgIHdoZXJlCiAgICAgICAgICAgIElOQ09NRV9CT09LU1VVSUQgPSBhYS5CT09LU19VVUlECiAgICAgICAgICAgIGFuZCBJTkNPTUVfREFURSAmbHQ7PSAke3N0ck1hcC5lbmREYXRlfQogICAgICAgIG9yZGVyIGJ5CiAgICAgICAgICAgIElOQ09NRV9EQVRFIGRlc2MgbGltaXQgMQogICAgICAgICkgYXMgaW5jb21lQ3VycmVudCwKICAgICAgICAgICAgICAgYWEuQk9PS1NfVVVJRCBhcyBpbmNvbWVVdWlkCgo=</text>
+      <register name="2" type="8">
+        <text>age com.eazer.wf.model;
+rt com.eazer.base.BaseM
+rt com.eazer.base.ICmmC
+rt com.eazer.base.ICmmC
+rt java.util.Date;
+f_instance_activity(WfI
+version 1.0
+author: eazer
+date 2018/10/16
+ic class WfInstanceActi
+//=====================
+private static final lo
+/**
+ * UNID
+ */
+@ACF(CF = CF.UNID)
+private Integer activit</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1QgTUFYKGEuaW5jb21lX2RhdGUpIEFTIGluY29tZUNkYXRlLAogICAgICAgIGEuQk9PS1NfVVVJRCBBUyBpbmNvbWVVdWlkICwKICAgICAgICBhLklOQ09NRV9DVVJSRU5UIEFTIGluY29tZUN1cnJlbnQKICAgICAgICBGUk9NCiAgICAgICAgKHNlbGVjdDxpbmNsdWRlIHJlZmlkPSJmaWVsZCIvPiw8aW5jbHVkZSByZWZpZD0iY29tLmVhemVyLmJzemIuZGFvLm1hcHBlci5JQnN6YkJvb2tzTWFwcGVyLmZpZWxkIi8+RlJPTQogICAgICAgIGJzemJfaW5jb21lIEpPSU4gYnN6Yl9ib29rcyBPTiBic3piX2luY29tZS5JTkNPTUVfQk9PS1NVVUlEPWJzemJfYm9va3MuQk9PS1NfVVVJRAogICAgICAgIDx3aGVyZT4ke2NvbmRpdGlvbn08L3doZXJlPgogICAgICAgIE9SREVSIEJZIElOQ09NRV9EQVRFIERFU0MsSU5DT01FX1VOSUQgREVTQylhcyBhCiAgICAgICAgR1JPVVAgQlkgYS5JTkNPTUVfQk9PS1NVVUlECg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3QKKAoJc2VsZWN0CgkJSU5DT01FX0NVUlJFTlQKCWZyb20KCQlic3piX2luY29tZQoJam9pbiBic3piX2Jvb2tzIG9uCgkJYnN6Yl9pbmNvbWUuSU5DT01FX0JPT0tTVVVJRCA9IGJzemJfYm9va3MuQk9PS1NfVVVJRAoJd2hlcmUKCQlJTkNPTUVfQk9PS1NVVUlEID0gYWEuQk9PS1NfVVVJRAoJCWFuZCBJTkNPTUVfREFURSA8PSAnMjAxOC0wNy0zMScKCW9yZGVyIGJ5CgkJSU5DT01FX0RBVEUgZGVzYwoJbGltaXQgMSApIGFzIGluY29tZUN1cnJlbnQsCglhYS5CT09LU19VVUlEIGFzIGluY29tZVV1aWQgICAgICAgIGZyb20gYnN6Yl9ib29rcyBhcyBhYSBvcmRlciBieSBhYS5CT09LU19VVUlECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1QgTUFYKGEuaW5jb21lX2RhdGUpIEFTIGluY29tZUNkYXRlLAogICAgICAgIGEuQk9PS1NfVVVJRCBBUyBpbmNvbWVVdWlkICwKICAgICAgICBhLklOQ09NRV9DVVJSRU5UIEFTIGluY29tZUN1cnJlbnQKICAgICAgICBGUk9NCiAgICAgICAgKHNlbGVjdDxpbmNsdWRlIHJlZmlkPSJmaWVsZCIvPiw8aW5jbHVkZSByZWZpZD0iY29tLmVhemVyLmJzemIuZGFvLm1hcHBlci5JQnN6YkJvb2tzTWFwcGVyLmZpZWxkIi8+RlJPTQogICAgICAgIGJzemJfaW5jb21lIEpPSU4gYnN6Yl9ib29rcyBPTiBic3piX2luY29tZS5JTkNPTUVfQk9PS1NVVUlEPWJzemJfYm9va3MuQk9PS1NfVVVJRAogICAgICAgIDx3aGVyZT4ke2NvbmRpdGlvbn08L3doZXJlPgogICAgICAgIE9SREVSIEJZIElOQ09NRV9EQVRFIERFU0MsSU5DT01FX1VOSUQgREVTQylhcyBhCiAgICAgICAgR1JPVVAgQlkgYS5JTkNPTUVfQk9PS1NVVUlECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKHNlbGVjdAogICAgICAgICAgICBJTkNPTUVfQ1VSUkVOVAogICAgICAgIGZyb20KICAgICAgICAgICAgYnN6Yl9pbmNvbWUKICAgICAgICBqb2luIGJzemJfYm9va3Mgb24KICAgICAgICAgICAgYnN6Yl9pbmNvbWUuSU5DT01FX0JPT0tTVVVJRCA9IGJzemJfYm9va3MuQk9PS1NfVVVJRAogICAgICAgIHdoZXJlCiAgICAgICAgICAgIElOQ09NRV9CT09LU1VVSUQgPSBhYS5CT09LU19VVUlECiAgICAgICAgICAgIGFuZCBJTkNPTUVfREFURSAmbHQ7PSAke3N0ck1hcC5lbmREYXRlfQogICAgICAgIG9yZGVyIGJ5CiAgICAgICAgICAgIElOQ09NRV9EQVRFIGRlc2MgbGltaXQgMQogICAgICAgICkgYXMgaW5jb21lQ3VycmVudCwKICAgICAgICAgICAgICAgYWEuQk9PS1NfVVVJRCBhcyBpbmNvbWVVdWlkCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QgTUFYKGEuaW5jb21lX2RhdGUpIEFTIGluY29tZUNkYXRlLAogICAgICAgIGEuQk9PS1NfVVVJRCBBUyBpbmNvbWVVdWlkICwKICAgICAgICBhLklOQ09NRV9DVVJSRU5UIEFTIGluY29tZUN1cnJlbnQKICAgICAgICBGUk9NCiAgICAgICAgKHNlbGVjdDxpbmNsdWRlIHJlZmlkPSJmaWVsZCIvPiw8aW5jbHVkZSByZWZpZD0iY29tLmVhemVyLmJzemIuZGFvLm1hcHBlci5JQnN6YkJvb2tzTWFwcGVyLmZpZWxkIi8+RlJPTQogICAgICAgIGJzemJfaW5jb21lIEpPSU4gYnN6Yl9ib29rcyBPTiBic3piX2luY29tZS5JTkNPTUVfQk9PS1NVVUlEPWJzemJfYm9va3MuQk9PS1NfVVVJRAogICAgICAgIDx3aGVyZT4ke2NvbmRpdGlvbn08L3doZXJlPgogICAgICAgIE9SREVSIEJZIElOQ09NRV9EQVRFIERFU0MsSU5DT01FX1VOSUQgREVTQylhcyBhCiAgICAgICAgR1JPVVAgQlkgYS5JTkNPTUVfQk9PS1NVVUlECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QgTUFYKGEuaW5jb21lX2RhdGUpIEFTIGluY29tZUNkYXRlLAogICAgICAgIGEuQk9PS1NfVVVJRCBBUyBpbmNvbWVVdWlkICwKICAgICAgICBhLklOQ09NRV9DVVJSRU5UIEFTIGluY29tZUN1cnJlbnQKICAgICAgICBGUk9NCiAgICAgICAgKHNlbGVjdDxpbmNsdWRlIHJlZmlkPSJmaWVsZCIvPiw8aW5jbHVkZSByZWZpZD0iY29tLmVhemVyLmJzemIuZGFvLm1hcHBlci5JQnN6YkJvb2tzTWFwcGVyLmZpZWxkIi8+RlJPTQogICAgICAgIGJzemJfaW5jb21lIEpPSU4gYnN6Yl9ib29rcyBPTiBic3piX2luY29tZS5JTkNPTUVfQk9PS1NVVUlEPWJzemJfYm9va3MuQk9PS1NfVVVJRAogICAgICAgIDx3aGVyZT4ke2NvbmRpdGlvbn08L3doZXJlPgogICAgICAgIE9SREVSIEJZIElOQ09NRV9EQVRFIERFU0MsSU5DT01FX1VOSUQgREVTQylhcyBhCiAgICAgICAgR1JPVVAgQlkgYS5JTkNPTUVfQk9PS1NVVUlECg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3QgKHNlbGVjdCBpbmNvbWVfQ1VTKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExpc3QgaWdub3JlcyA9IExpc3RzLm5ld0FycmF5TGlzdCgiMCIsICIxIik7CiAgICBtb2RlbC5zZXRPYmpMaXN0KGlnbm9yZXMpOwogICAgYy5hbmRJbigiaW5jb21lSWdub3JlIiwgIm9iakxpc3QiLCBtb2RlbC5nZXRPYmpMaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/BszbPayment/BszbIchapterapp/g</text>

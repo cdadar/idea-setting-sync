@@ -4,6 +4,6 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="VimPluginToggle">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
 </keymap>

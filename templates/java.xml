@@ -1,5 +1,5 @@
 <templateSet group="java">
-  <template name="transactional" value="@Transactional(rollbackFor = {CoreBaseException.class, Exception.class})" toReformat="false" toShortenFQNames="true">
+  <template name="transactional" value="@Transactional(rollbackFor = {CoreBaseException.class, Exception.class})" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

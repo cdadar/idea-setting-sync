@@ -1,0 +1,7 @@
+<templateSet group="java">
+  <template name="transactional" value="@Transactional(rollbackFor = {CoreBaseException.class, Exception.class})" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

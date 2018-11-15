@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
+    <histories>
+      <item value="AGREE" />
+    </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>

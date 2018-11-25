@@ -1,16 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="用户" />
-      <item value="invoice Cusuuid" />
+      <item value="AGREE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>

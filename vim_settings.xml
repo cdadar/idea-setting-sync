@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/BszbRecoup.java" timestamp="1531885594889">
@@ -75,6 +75,12 @@
         <mark key="." line="12" column="72" />
         <mark key="^" line="12" column="72" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/java/com/eazer/bszb/crm/service/impl/CrmCustomServiceImpl.java" timestamp="1545373179687">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="^" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/dto/BszbIncomeStatisticBalanceDTO.java" timestamp="1533287507664">
         <mark key="[" line="15" column="23" />
         <mark key="]" line="15" column="28" />
@@ -110,6 +116,9 @@
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="26" />
         <mark key="." line="18" column="26" />
+      </file>
+      <file name="/crm_custom [cang@120.26.120.234]" timestamp="1545373157794">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/fuhuaqi/advanced/form/advanced_edit_check.html" timestamp="1535082239670">
         <mark key="[" line="10" column="18" />

@@ -3,6 +3,9 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>

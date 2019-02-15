@@ -6,6 +6,7 @@
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".giteek" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <removed_mapping ext="html" approved="true" type="HTML" />
     </extensionMap>
   </component>

@@ -95,7 +95,6 @@
         <mark key="^" line="24" column="23" />
         <mark key="." line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/webapp/WEB-INF/web.xml" timestamp="1550650228953" />
       <file name="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/service/WalletService.java" timestamp="1532093981371">
         <mark key="[" line="229" column="1" />
         <mark key="]" line="229" column="26" />
@@ -117,6 +116,12 @@
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="26" />
         <mark key="." line="18" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/tuodao/src/main/java/com/eazer/bszb/service/impl/BszbWageDetailServiceImpl.java" timestamp="1551685183017">
+        <mark key="[" line="93" column="12" />
+        <mark key="]" line="93" column="11" />
+        <mark key="^" line="93" column="11" />
+        <mark key="." line="93" column="11" />
       </file>
       <file name="/crm_custom [cang@120.26.120.234]" timestamp="1545373157794">
         <mark key="[" line="0" column="0" />

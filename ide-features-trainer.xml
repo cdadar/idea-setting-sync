@@ -14,7 +14,7 @@
         <entry key="Collapse" value="PASSED" />
         <entry key="Comment Line" value="PASSED" />
         <entry key="Completions.BasicCompletion" value="NOT_PASSED" />
-        <entry key="Completions.CompletionwithTab" value="NOT_PASSED" />
+        <entry key="Completions.CompletionwithTab" value="PASSED" />
         <entry key="Completions.SmartTypeCompletion" value="NOT_PASSED" />
         <entry key="Completions.StatementCompletion" value="NOT_PASSED" />
         <entry key="Duplicate" value="PASSED" />
@@ -90,6 +90,14 @@
             <StatisticData>
               <option name="state" value="PASSED" />
               <option name="timestamp" value="102981" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Completions.CompletionwithTab">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="6876" />
             </StatisticData>
           </value>
         </entry>

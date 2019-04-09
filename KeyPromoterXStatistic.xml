@@ -9,6 +9,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'cang'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'cang'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="MakeJson">
         <Item>
           <IdeaActionID>BMPOJOtoJson.Convert2</IdeaActionID>
@@ -57,6 +65,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Service">
+        <Item>
+          <IdeaActionID>Toolkit.GotoService</IdeaActionID>
+          <ShortCut>'Ctrl+\' or 'Ctrl+Alt+N'</ShortCut>
+          <Description>Service</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
@@ -70,7 +86,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="go to definition">

@@ -86,7 +86,7 @@
           <IdeaActionID>BMPOJOtoJson.Convert2</IdeaActionID>
           <ShortCut>'Meta+Alt+Shift+J'</ShortCut>
           <Description>MakeJson</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -166,7 +166,7 @@
           <IdeaActionID>Toolkit.GotoService</IdeaActionID>
           <ShortCut>'Ctrl+\' or 'Ctrl+Alt+N'</ShortCut>
           <Description>Service</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
     </option>

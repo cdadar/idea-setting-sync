@@ -1,0 +1,22 @@
+<templateSet group="java">
+  <template name="transactional" value="@Transactional(rollbackFor = {CoreBaseException.class, Exception.class})" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="jsonIgnoreProperties" value="@JsonIgnoreProperties(ignoreUnknown = true)" description="@JsonIgnoreProperties(ignoreUnknown = true)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="date" value="@DateTimeFormat(pattern = &quot;yyyy-MM-dd&quot;)&#10;" description="date" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="time" value="@DateTimeFormat(pattern = &quot;yyyy-MM-dd HH:mm:ss&quot;)&#10;" description="time" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,12 @@
+<keymap version="1" name="my key map" parent="$default">
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+</keymap>

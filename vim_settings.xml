@@ -1,0 +1,481 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/faa1d309-926b-4cee-972d-e4b19f7ff8ca/console_3.sql" timestamp="1554977348267">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/BszbRecoup.java" timestamp="1531885594889">
+        <mark key="[" line="409" column="52" />
+        <mark key="]" line="409" column="56" />
+        <mark key="." line="409" column="52" />
+        <mark key="^" line="409" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/service/FundRecordService.java" timestamp="1532100564019">
+        <mark key="[" line="177" column="12" />
+        <mark key="]" line="177" column="12" />
+        <mark key="^" line="174" column="60" />
+        <mark key="." line="177" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/custom/icregister/form/icregister_edit_check.html" timestamp="1535076483579">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/custom/invoice/grid/invoice_list_check.html" timestamp="1533198474301">
+        <mark key="[" line="72" column="86" />
+        <mark key="]" line="72" column="86" />
+        <mark key="." line="72" column="86" />
+        <mark key="^" line="65" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/BszbFundsBook.java" timestamp="1535003036970">
+        <mark key="[" line="223" column="4" />
+        <mark key="]" line="234" column="0" />
+        <mark key="." line="234" column="0" />
+        <mark key="^" line="234" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/domain/GainDetail.java" timestamp="1531988784742">
+        <mark key="[" line="129" column="29" />
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="147" column="0" />
+        <mark key="." line="147" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/dao/mapper/IBszbFuhuaqiBusinessMapper.xml" timestamp="1540800146929">
+        <mark key="[" line="214" column="30" />
+        <mark key="]" line="228" column="107" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/custom/invoice/grid/invoice_list_fuhuaqi.html" timestamp="1533198463493">
+        <mark key="[" line="55" column="69" />
+        <mark key="]" line="55" column="69" />
+        <mark key="." line="55" column="69" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/workflow.http" timestamp="1542005502986">
+        <mark key="[" line="45" column="5" />
+        <mark key="]" line="45" column="4" />
+        <mark key="." line="45" column="4" />
+        <mark key="^" line="45" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/fuhuaqi/oregistapp/form/oregistapp_edit_check.html" timestamp="1535076507199">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/IBszbIncomeService.java" timestamp="1533286106685">
+        <mark key="[" line="296" column="80" />
+        <mark key="]" line="293" column="16" />
+        <mark key="^" line="293" column="16" />
+        <mark key="." line="293" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/BszbLoan.java" timestamp="1531897088367">
+        <mark key="[" line="403" column="51" />
+        <mark key="]" line="403" column="52" />
+        <mark key="." line="403" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/strategy/recoup/RecoupBossStrategy.java" timestamp="1531885623582">
+        <mark key="[" line="12" column="73" />
+        <mark key="]" line="12" column="72" />
+        <mark key="." line="12" column="72" />
+        <mark key="^" line="12" column="72" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/java/com/eazer/bszb/crm/service/impl/CrmCustomServiceImpl.java" timestamp="1545373179687">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="^" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/dto/BszbIncomeStatisticBalanceDTO.java" timestamp="1533287507664">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="60" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1535076656656">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/model/dto/ContractApplyAssignationDTO.java" timestamp="1536912824078">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="23" />
+        <mark key="^" line="24" column="23" />
+        <mark key="." line="24" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/service/WalletService.java" timestamp="1532093981371">
+        <mark key="[" line="229" column="1" />
+        <mark key="]" line="229" column="26" />
+        <mark key="." line="229" column="26" />
+        <mark key="^" line="229" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/service/mapper/GainMapper.java" timestamp="1531989127310">
+        <mark key="[" line="75" column="47" />
+        <mark key="]" line="75" column="47" />
+        <mark key="." line="75" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/strategy/recoup/RecoupComloaderStrategy.java" timestamp="1531893186000">
+        <mark key="[" line="37" column="50" />
+        <mark key="]" line="37" column="60" />
+        <mark key="." line="37" column="50" />
+        <mark key="^" line="33" column="66" />
+      </file>
+      <file name="$USER_HOME$/workspace/bcclub/server/src/main/resources/config/liquibase/changelog/00000000000027_modified_wallet.xml" timestamp="1532093795372">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/tuodao/src/main/java/com/eazer/bszb/service/impl/BszbWageDetailServiceImpl.java" timestamp="1551685183017">
+        <mark key="[" line="93" column="12" />
+        <mark key="]" line="93" column="11" />
+        <mark key="^" line="93" column="11" />
+        <mark key="." line="93" column="11" />
+      </file>
+      <file name="/crm_custom [cang@120.26.120.234]" timestamp="1545373157794">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/fuhuaqi/advanced/form/advanced_edit_check.html" timestamp="1535082239670">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/pub/util/StringUtil.java" timestamp="1533285151515">
+        <mark key="[" line="479" column="21" />
+        <mark key="]" line="479" column="45" />
+        <mark key="^" line="479" column="45" />
+        <mark key="." line="479" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/wf/model/WfInstanceActivity.java" timestamp="1540546464150">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="18" column="4" />
+      </file>
+      <file name="/fragment.java" timestamp="1535014162949">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/domain/GainWeek.java" timestamp="1531813158526">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="34" column="24" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="28" column="3" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="977" column="57" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="87" column="53" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="94" column="21" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="835" column="69" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="871" column="0" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="187" column="17" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/domain/WalletRecord.java" />
+      <jump line="110" column="25" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/service/WalletService.java" />
+      <jump line="92" column="29" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/service/FundRecordService.java" />
+      <jump line="230" column="16" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/domain/WalletRecord.java" />
+      <jump line="166" column="18" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/service/WalletService.java" />
+      <jump line="49" column="24" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/repository/UserRepository.java" />
+      <jump line="136" column="31" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/UserResource.java" />
+      <jump line="7" column="24" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/dto/FundRecordAdminDTO.java" />
+      <jump line="32" column="8" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="389" column="9" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="419" column="23" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="422" column="33" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="73" column="55" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="421" column="34" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/bcclub/server/src/main/resources/config/liquibase/changelog/00000000000001_add_entity.xml" />
+      <jump line="90" column="55" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/config/SecurityConfiguration.java" />
+      <jump line="15" column="72" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/config/SecurityConfiguration.java" />
+      <jump line="96" column="50" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/UserJWTController.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/bcclub/server/src/main/resources/https/auth.http" />
+      <jump line="86" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.5.RELEASE/spring-security-config-4.2.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java" />
+      <jump line="154" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.5.RELEASE/spring-security-config-4.2.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java" />
+      <jump line="174" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.5.RELEASE/spring-security-config-4.2.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java" />
+      <jump line="1673" column="31" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
+      <jump line="1631" column="22" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
+      <jump line="1698" column="27" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
+      <jump line="1621" column="41" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/http/income.http" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/http/income.http" />
+      <jump line="24" column="149" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/http/income.http" />
+      <jump line="18" column="43" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
+      <jump line="69" column="12" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
+      <jump line="25" column="22" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
+      <jump line="13" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
+      <jump line="7" column="15" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
+      <jump line="98" column="18" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
+      <jump line="37" column="26" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
+      <jump line="108" column="11" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
+      <jump line="116" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
+      <jump line="164" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
+      <jump line="163" column="16" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
+      <jump line="131" column="36" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="127" column="39" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="133" column="45" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="134" column="48" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="380" column="25" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="381" column="24" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
+      <jump line="27" column="19" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/config/ApplicationProperties.java" />
+      <jump line="545" column="8" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbBusinessServiceImpl.java" />
+      <jump line="558" column="16" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbBusinessServiceImpl.java" />
+      <jump line="14" column="18" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/IWifisongListenService.java" />
+      <jump line="138" column="14" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/core/util/SpecialValue.java" />
+      <jump line="124" column="9" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/core/util/SpecialValue.java" />
+      <jump line="149" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/core/util/SpecialValue.java" />
+      <jump line="349" column="90" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
+      <jump line="385" column="71" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
+      <jump line="486" column="34" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
+      <jump line="300" column="21" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
+      <jump line="155" column="16" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
+      <jump line="175" column="16" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
+      <jump line="216" column="28" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
+      <jump line="377" column="26" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
+      <jump line="23" column="35" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/domain/Gain.java" />
+      <jump line="16" column="56" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/strategy/ichapterapp/IchapterappComloaderStrategy.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/BszbIchapterapp.java" />
+      <jump line="633" column="25" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbLoanServiceImpl.java" />
+      <jump line="505" column="24" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbLoanServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/dto/GainDTO.java" />
+      <jump line="87" column="34" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/dto/GainDTO.java" />
+      <jump line="309" column="0" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/dto/GainDTO.java" />
+      <jump line="182" column="4" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/dto/GainDTO.java" />
+      <jump line="183" column="0" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/dto/GainDTO.java" />
+      <jump line="132" column="63" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbCustomInvoiceServiceImpl.java" />
+      <jump line="405" column="16" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbCustomInvoiceServiceImpl.java" />
+      <jump line="401" column="21" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbCustomInvoiceServiceImpl.java" />
+      <jump line="458" column="47" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="138" column="35" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbCustomInvoiceServiceImpl.java" />
+      <jump line="190" column="36" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbCustomInvoiceServiceImpl.java" />
+      <jump line="2314" column="35" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
+      <jump line="17" column="11" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/public/include/header.ftl" />
+      <jump line="29" column="19" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/public/include/header.ftl" />
+      <jump line="199" column="16" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="194" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="1448" column="6" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
+      <jump line="2089" column="35" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
+      <jump line="257" column="58" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/finance/controller/BszbIncomeController.java" />
+      <jump line="228" column="29" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/IBszbIncomeService.java" />
+      <jump line="2090" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
+      <jump line="2093" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
+      <jump line="2268" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
+      <jump line="2269" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
+      <jump line="1490" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
+      <jump line="288" column="35" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/dao/mapper/IBszbIncomeMapper.xml" />
+      <jump line="290" column="50" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/dao/mapper/IBszbIncomeMapper.xml" />
+      <jump line="307" column="15" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbFundsRecordServiceImpl.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8sCiAgICAgICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8sCiAgICAgICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8sCiAgICAgICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8=</text>
+      </register>
+      <register name="-" type="4">
+        <text>str</text>
+      </register>
+      <register name="/" type="4">
+        <text>Bigde</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICBjb2FsZXNjZShzdW0oY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlVTSU5FU1NfSUJBQ0tVVUlEIGlzIG5vdCBudWxsIGFuZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKChzZWxlY3QgY291bnQoKikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnJvbSBic3piX2luZGVwb3NpdF9iYWNrIGFhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpvaW4gd2ZfZW5naW5lIGVlIG9uIGFhLklCQUNLX1VVSUQgPSBlZS5XRkVOR0lORV9JVEVNVVVJRAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVyZSBhYS5JQkFDS19VVUlEID0gQlVTSU5FU1NfSUJBQ0tVVUlECiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kIGVlLldGRU5HSU5FX1dPUktGTE9XU1RBVFVTID0gJ0ZJTklTSCcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmQgYWEuaWJhY2tfc3RhdHVzICE9IDApID4gMCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIHcuV0ZFTkdJTkVfV09SS0ZMT1dTVEFUVVMgPSAnRklOSVNIJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gVEVSTV9JTkRFUE9TSVQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBleHRQYXJhbTQs</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8sCiAgICAgICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8sCiAgICAgICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8sCiAgICAgICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="8">
+        <text>age com.eazer.wf.model;
+rt com.eazer.base.BaseM
+rt com.eazer.base.ICmmC
+rt com.eazer.base.ICmmC
+rt java.util.Date;
+f_instance_activity(WfI
+version 1.0
+author: eazer
+date 2018/10/16
+ic class WfInstanceActi
+//=====================
+private static final lo</text>
+      </register>
+      <register name="3" type="8">
+        <text>age com.eazer.wf.model;
+rt com.eazer.base.BaseM
+rt com.eazer.base.ICmmC
+rt com.eazer.base.ICmmC
+rt java.util.Date;
+f_instance_activity(WfI
+version 1.0
+author: eazer
+date 2018/10/16
+ic class WfInstanceActi
+//=====================
+private static final lo
+/**
+ * UNID
+ */
+@ACF(CF = CF.UNID)
+private Integer activit</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxlY3QKKAoJc2VsZWN0CgkJSU5DT01FX0NVUlJFTlQKCWZyb20KCQlic3piX2luY29tZQoJam9pbiBic3piX2Jvb2tzIG9uCgkJYnN6Yl9pbmNvbWUuSU5DT01FX0JPT0tTVVVJRCA9IGJzemJfYm9va3MuQk9PS1NfVVVJRAoJd2hlcmUKCQlJTkNPTUVfQk9PS1NVVUlEID0gYWEuQk9PS1NfVVVJRAoJCWFuZCBJTkNPTUVfREFURSA8PSAnMjAxOC0wNy0zMScKCW9yZGVyIGJ5CgkJSU5DT01FX0RBVEUgZGVzYwoJbGltaXQgMSApIGFzIGluY29tZUN1cnJlbnQsCglhYS5CT09LU19VVUlEIGFzIGluY29tZVV1aWQgICAgICAgIGZyb20gYnN6Yl9ib29rcyBhcyBhYSBvcmRlciBieSBhYS5CT09LU19VVUlECg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgKHNlbGVjdAogICAgICAgICAgICBJTkNPTUVfQ1VSUkVOVAogICAgICAgIGZyb20KICAgICAgICAgICAgYnN6Yl9pbmNvbWUKICAgICAgICBqb2luIGJzemJfYm9va3Mgb24KICAgICAgICAgICAgYnN6Yl9pbmNvbWUuSU5DT01FX0JPT0tTVVVJRCA9IGJzemJfYm9va3MuQk9PS1NfVVVJRAogICAgICAgIHdoZXJlCiAgICAgICAgICAgIElOQ09NRV9CT09LU1VVSUQgPSBhYS5CT09LU19VVUlECiAgICAgICAgICAgIGFuZCBJTkNPTUVfREFURSAmbHQ7PSAke3N0ck1hcC5lbmREYXRlfQogICAgICAgIG9yZGVyIGJ5CiAgICAgICAgICAgIElOQ09NRV9EQVRFIGRlc2MgbGltaXQgMQogICAgICAgICkgYXMgaW5jb21lQ3VycmVudCwKICAgICAgICAgICAgICAgYWEuQk9PS1NfVVVJRCBhcyBpbmNvbWVVdWlkCgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QgTUFYKGEuaW5jb21lX2RhdGUpIEFTIGluY29tZUNkYXRlLAogICAgICAgIGEuQk9PS1NfVVVJRCBBUyBpbmNvbWVVdWlkICwKICAgICAgICBhLklOQ09NRV9DVVJSRU5UIEFTIGluY29tZUN1cnJlbnQKICAgICAgICBGUk9NCiAgICAgICAgKHNlbGVjdDxpbmNsdWRlIHJlZmlkPSJmaWVsZCIvPiw8aW5jbHVkZSByZWZpZD0iY29tLmVhemVyLmJzemIuZGFvLm1hcHBlci5JQnN6YkJvb2tzTWFwcGVyLmZpZWxkIi8+RlJPTQogICAgICAgIGJzemJfaW5jb21lIEpPSU4gYnN6Yl9ib29rcyBPTiBic3piX2luY29tZS5JTkNPTUVfQk9PS1NVVUlEPWJzemJfYm9va3MuQk9PS1NfVVVJRAogICAgICAgIDx3aGVyZT4ke2NvbmRpdGlvbn08L3doZXJlPgogICAgICAgIE9SREVSIEJZIElOQ09NRV9EQVRFIERFU0MsSU5DT01FX1VOSUQgREVTQylhcyBhCiAgICAgICAgR1JPVVAgQlkgYS5JTkNPTUVfQk9PS1NVVUlECg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QgTUFYKGEuaW5jb21lX2RhdGUpIEFTIGluY29tZUNkYXRlLAogICAgICAgIGEuQk9PS1NfVVVJRCBBUyBpbmNvbWVVdWlkICwKICAgICAgICBhLklOQ09NRV9DVVJSRU5UIEFTIGluY29tZUN1cnJlbnQKICAgICAgICBGUk9NCiAgICAgICAgKHNlbGVjdDxpbmNsdWRlIHJlZmlkPSJmaWVsZCIvPiw8aW5jbHVkZSByZWZpZD0iY29tLmVhemVyLmJzemIuZGFvLm1hcHBlci5JQnN6YkJvb2tzTWFwcGVyLmZpZWxkIi8+RlJPTQogICAgICAgIGJzemJfaW5jb21lIEpPSU4gYnN6Yl9ib29rcyBPTiBic3piX2luY29tZS5JTkNPTUVfQk9PS1NVVUlEPWJzemJfYm9va3MuQk9PS1NfVVVJRAogICAgICAgIDx3aGVyZT4ke2NvbmRpdGlvbn08L3doZXJlPgogICAgICAgIE9SREVSIEJZIElOQ09NRV9EQVRFIERFU0MsSU5DT01FX1VOSUQgREVTQylhcyBhCiAgICAgICAgR1JPVVAgQlkgYS5JTkNPTUVfQk9PS1NVVUlECg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/BszbPayment/BszbIchapterapp/g</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>Bigde</last-search>
+      <last-offset />
+      <last-pattern>Bigde</last-pattern>
+      <last-replace>BszbIchapterapp</last-replace>
+      <last-substitute>BszbPayment</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>禁用</entry>
+        <entry>启动</entry>
+        <entry>启用</entry>
+        <entry>&quot;\s*</entry>
+        <entry>\s*&quot;</entry>
+        <entry>_\s*</entry>
+        <entry>\s*\_</entry>
+        <entry>\s+</entry>
+        <entry>_&quot;</entry>
+        <entry>(.*)</entry>
+        <entry encoding="base64">XDwzMDBcPg==</entry>
+        <entry encoding="base64">XDxhbGl5dW5cPg==</entry>
+        <entry>gson</entry>
+        <entry encoding="base64">XDxnZXRDdXN0b21Qcm90ZWN0TGlzdFw+</entry>
+        <entry>^.*by\schens</entry>
+        <entry>.*by\schens</entry>
+        <entry>g</entry>
+        <entry>BszbPayment</entry>
+        <entry encoding="base64">XDx3b3JrZmxvd1w+</entry>
+        <entry>Bigde</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/localhost:8080/{{url}}</entry>
+        <entry>%s/http:\/\//</entry>
+        <entry>%s/2E444DB2FCFC421E84DE845CC574B6B6/{{token}}/g</entry>
+        <entry>%s/禁用//g</entry>
+        <entry>%s/启动//g</entry>
+        <entry>%s/启用//g</entry>
+        <entry>%s/&quot;\s*/&quot;/g</entry>
+        <entry>%s/\s*&quot;/&quot;/g</entry>
+        <entry encoding="base64">JzwsJz5zL19ccyovXy9n</entry>
+        <entry encoding="base64">JzwsJz5zL1xzKlxfL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1xzKy9fL2c=</entry>
+        <entry>%s/_&quot;/&quot;/g</entry>
+        <entry encoding="base64">JzwsJz5zLyguKikvL2c=</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz4vXi4qYnlcc2NoZW5zLy9n</entry>
+        <entry encoding="base64">JzwsJz4vLipieVxzY2hlbnMvL2c=</entry>
+        <entry>%s/BszbPayment/BszbIchapterapp/g</entry>
+        <entry>:regs</entry>
+        <entry>regs</entry>
+        <entry>set:options</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

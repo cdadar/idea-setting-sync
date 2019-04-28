@@ -6,7 +6,7 @@
     <csv delimiter="," text="&quot;" forceQualifier="false" />
     <drivers />
     <databases>
-      <database name="bszb" driver="jdbc:mysql" port="3306" autoReconnect="true" host="120.26.120.234" maxReconnects="3" initialTimeout="2" user="bszb" db="bszb" characterEncoding="utf-8" current="true" />
+      <database name="bszb" driver="jdbc:mysql" autoReconnect="true" maxReconnects="3" db="bszb" port="3306" characterEncoding="utf-8" host="120.26.120.234" user="bszb" initialTimeout="2" current="true" />
     </databases>
     <queries projectClassLoader="false" save="false" stopOnError="false" />
     <results primaryKeyCols="true" primaryKeyColor="-6908186" foreignKeyColor="-6887786" loadLOBs="false" saveTableConfig="false" nullString="" useAlternateRowColors="false" alternateRowBackground="-1310741" alternateRowForeground="-16777216" showGrid="false">

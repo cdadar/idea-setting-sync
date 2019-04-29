@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="统计" />
+      <item value="statics" />
       <item value="押金" />
       <item value="indeposit" />
       <item value="clue Name" />
@@ -11,7 +13,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="ENGLISH" value="7" />
         <entry key="CHINESE_TRADITIONAL" value="4" />
         <entry key="LATIN" value="2" />
       </map>

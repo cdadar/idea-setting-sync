@@ -81,6 +81,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Disconnect">
         <Item>
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
@@ -342,7 +350,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -358,7 +366,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>133</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
     </option>

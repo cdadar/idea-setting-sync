@@ -22,9 +22,9 @@
     <mask>rec*.html</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*Mapper.xml</mask>
     <mask>*Controller.java</mask>
+    <mask>*.java</mask>
     <mask>*</mask>
   </component>
 </application>

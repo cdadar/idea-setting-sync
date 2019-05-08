@@ -38,7 +38,7 @@
           <IdeaActionID>Jdbc.OpenEditor.Grid.DDL</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Home'</ShortCut>
           <Description>DDL</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Data Source Properties">
@@ -150,6 +150,14 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Modify Column...">
+        <Item>
+          <IdeaActionID>ModifyObject</IdeaActionID>
+          <ShortCut>'Ctrl+F6'</ShortCut>
+          <Description>Modify Column...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -374,7 +382,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -414,7 +422,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>254</Count>
+          <Count>258</Count>
         </Item>
       </Statistic>
     </option>

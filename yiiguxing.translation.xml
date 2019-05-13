@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未确认" />
       <item value="取消" />
       <item value="cancal" />
       <item value="between" />

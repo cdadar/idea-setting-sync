@@ -37,6 +37,12 @@
         <mark key="." line="234" column="0" />
         <mark key="^" line="234" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/BusinessVO.java" timestamp="1558423432805">
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="19" column="16" />
+        <mark key="^" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/domain/GainDetail.java" timestamp="1531988784742">
         <mark key="[" line="129" column="29" />
         <mark key="]" line="147" column="0" />
@@ -154,7 +160,6 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiSettledServiceImpl.java" timestamp="1556433163720" />
       <file name="/fragment.java" timestamp="1535014162949">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />

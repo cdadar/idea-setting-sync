@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="到期" />
       <item value="最近" />
       <item value="between" />
       <item value="中间" />

@@ -1,10 +1,9 @@
 <application>
   <component name="StringManipulationState">
-    <option name="donationNagger">
-      <DonationNagger>
-        <option name="actionsExecuted" value="247" />
-        <option name="lastNaggingDate" value="1555310611588" />
-      </DonationNagger>
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="preserveLeadingSpaces" value="false" />
+      </SortSettings>
     </option>
     <option name="version" value="2" />
   </component>

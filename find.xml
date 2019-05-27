@@ -23,10 +23,10 @@
     <mask>*java</mask>
     <mask>rec*.html</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*Mapper.xml</mask>
     <mask>*Controller.java</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
     <mask>*</mask>
   </component>
 </application>

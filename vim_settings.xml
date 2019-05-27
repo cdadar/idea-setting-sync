@@ -43,11 +43,19 @@
         <mark key="^" line="19" column="16" />
         <mark key="." line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" timestamp="1558938805602">
-        <mark key="[" line="28" column="65" />
-        <mark key="]" line="28" column="64" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" timestamp="1558939159344">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="28" column="78" />
+        <mark key="]" line="28" column="78" />
         <mark key="^" line="28" column="64" />
-        <mark key="." line="28" column="64" />
+        <mark key="." line="28" column="78" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/task/dao/mapper/IBszbWeeklyMapper.xml" timestamp="1558939285362">
+        <mark key="[" line="407" column="22" />
+        <mark key="]" line="407" column="21" />
+        <mark key="m" line="421" column="21" />
+        <mark key="^" line="407" column="21" />
+        <mark key="." line="407" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/domain/GainDetail.java" timestamp="1531988784742">
         <mark key="[" line="129" column="29" />
@@ -103,9 +111,17 @@
         <mark key="]" line="15" column="28" />
         <mark key="." line="60" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/common/model/Region.java" timestamp="1558940315708">
+        <mark key="'" line="49" column="3" />
+        <mark key="[" line="61" column="3" />
+        <mark key="]" line="61" column="2" />
+        <mark key="." line="61" column="2" />
+        <mark key="^" line="61" column="2" />
+      </file>
       <file name="/Dummy.txt" timestamp="1535076656656">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbIncubatorbaseConverter.java" timestamp="1558940365622" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator.http" timestamp="1556433217482">
         <mark key="[" line="129" column="59" />
         <mark key="]" line="129" column="66" />
@@ -187,30 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="422" column="33" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
-      <jump line="73" column="55" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
-      <jump line="421" column="34" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/bcclub/server/src/main/resources/config/liquibase/changelog/00000000000001_add_entity.xml" />
-      <jump line="90" column="55" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/config/SecurityConfiguration.java" />
-      <jump line="15" column="72" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/config/SecurityConfiguration.java" />
-      <jump line="96" column="50" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/UserJWTController.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/workspace/bcclub/server/src/main/resources/https/auth.http" />
-      <jump line="86" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.5.RELEASE/spring-security-config-4.2.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java" />
-      <jump line="154" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.5.RELEASE/spring-security-config-4.2.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java" />
-      <jump line="174" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.5.RELEASE/spring-security-config-4.2.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java" />
-      <jump line="1673" column="31" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
-      <jump line="1631" column="22" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
-      <jump line="1698" column="27" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
-      <jump line="1621" column="41" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/http/income.http" />
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/http/income.http" />
-      <jump line="24" column="149" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/http/income.http" />
-      <jump line="18" column="43" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
-      <jump line="69" column="12" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
-      <jump line="25" column="22" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
-      <jump line="13" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
-      <jump line="7" column="15" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
-      <jump line="98" column="18" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
       <jump line="37" column="26" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
       <jump line="108" column="11" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
       <jump line="116" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
@@ -287,16 +279,40 @@
       <jump line="102" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/base/config/applicationContext-base-new.xml" />
       <jump line="105" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/base/config/applicationContext-base-new.xml" />
       <jump line="113" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/base/config/applicationContext-base-new.xml" />
+      <jump line="67" column="16" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="68" column="64" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="28" column="64" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="79" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="97" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="115" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="110" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="106" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="105" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="100" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="96" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="84" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="73" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="62" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="51" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="18" column="86" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="118" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
+      <jump line="49" column="3" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/common/model/Region.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>2B2363DEDA654269931179F9837804EB</text>
       </register>
       <register name="-" type="4">
-        <text>2B2363DEDA654269931179F9837804EB</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>Bigde</text>
+        <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="4">
         <text>locations</text>
@@ -359,23 +375,20 @@ private Integer activit</text>
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoPreviousError</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
-      <last-search>Bigde</last-search>
+      <last-search encoding="base64">XDwoXD4=</last-search>
       <last-offset />
-      <last-pattern>Bigde</last-pattern>
+      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
       <last-replace>BszbIchapterapp</last-replace>
       <last-substitute>BszbPayment</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>禁用</entry>
-        <entry>启动</entry>
-        <entry>启用</entry>
         <entry>&quot;\s*</entry>
         <entry>\s*&quot;</entry>
         <entry>_\s*</entry>
@@ -393,28 +406,31 @@ private Integer activit</text>
         <entry>BszbPayment</entry>
         <entry encoding="base64">XDx3b3JrZmxvd1w+</entry>
         <entry>Bigde</entry>
+        <entry encoding="base64">XDxkb0RvY3VtZW50T3Blblw+</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\s*&quot;/&quot;/g</entry>
-        <entry encoding="base64">JzwsJz5zL19ccyovXy9n</entry>
-        <entry encoding="base64">JzwsJz5zL1xzKlxfL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL1xzKy9fL2c=</entry>
-        <entry>%s/_&quot;/&quot;/g</entry>
-        <entry encoding="base64">JzwsJz5zLyguKikvL2c=</entry>
-        <entry>wq</entry>
-        <entry encoding="base64">JzwsJz4vXi4qYnlcc2NoZW5zLy9n</entry>
-        <entry encoding="base64">JzwsJz4vLipieVxzY2hlbnMvL2c=</entry>
-        <entry>%s/BszbPayment/BszbIchapterapp/g</entry>
-        <entry>:regs</entry>
-        <entry>regs</entry>
-        <entry>set:options</entry>
+        <entry>action ShowProjectStructureSettings</entry>
+        <entry>action Tool_Files_OpenWithEmacs</entry>
+        <entry>action Tool_Files_DeleteCurrentFile</entry>
+        <entry>e ~/.ideavimrc</entry>
+        <entry>action Tool_Files_BrowseInAlfred</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action ConvertIndentsToSpaces</entry>
+        <entry>action OptimizeImports</entry>
         <entry>action AceWordAction</entry>
-        <entry>action MethodDown</entry>
-        <entry>action MethodUp</entry>
-        <entry>action GotoNextBookmark</entry>
-        <entry>action GotoPreviousBookmark</entry>
-        <entry>action VcsShowNextChangeMarker</entry>
-        <entry>action GotoPreviousError</entry>
+        <entry>action FindInPath</entry>
+        <entry>action ShowUsages</entry>
+        <entry>action FindUsages</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action ActivateTODOToolWindow</entry>
+        <entry>action VimWindowLeft</entry>
+        <entry>action VimWindowDown</entry>
+        <entry>action VimWindowUp</entry>
+        <entry>action RefactoringMenuRenameFile</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -500,6 +516,15 @@ private Integer activit</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed ENTER</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

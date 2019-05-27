@@ -31,6 +31,10 @@
         <mark key="." line="72" column="86" />
         <mark key="^" line="65" column="63" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbFuhuaqiSettledMapper.xml" timestamp="1558944711100">
+        <mark key="[" line="304" column="0" />
+        <mark key="]" line="310" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/BszbFundsBook.java" timestamp="1535003036970">
         <mark key="[" line="223" column="4" />
         <mark key="]" line="234" column="0" />
@@ -68,10 +72,6 @@
         <mark key="]" line="50" column="24" />
         <mark key="." line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/dao/mapper/IBszbFuhuaqiBusinessMapper.xml" timestamp="1540800146929">
-        <mark key="[" line="214" column="30" />
-        <mark key="]" line="228" column="107" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/custom/invoice/grid/invoice_list_fuhuaqi.html" timestamp="1533198463493">
         <mark key="[" line="55" column="69" />
         <mark key="]" line="55" column="69" />
@@ -93,6 +93,9 @@
         <mark key="]" line="293" column="16" />
         <mark key="^" line="293" column="16" />
         <mark key="." line="293" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/IBszbTerminationService.java" timestamp="1558944204361">
+        <mark key="'" line="131" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/BszbLoan.java" timestamp="1531897088367">
         <mark key="[" line="403" column="51" />
@@ -128,9 +131,6 @@
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535076656656">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayableInfoVO.java" timestamp="1558943000933">
         <mark key="[" line="24" column="17" />
         <mark key="]" line="24" column="21" />
@@ -143,8 +143,10 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" timestamp="1558943350956">
-        <mark key="'" line="70" column="4" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" timestamp="1558944336424">
+        <mark key="'" line="57" column="16" />
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator.http" timestamp="1556433217482">
         <mark key="[" line="129" column="59" />
@@ -185,8 +187,11 @@
         <mark key="^" line="93" column="11" />
         <mark key="." line="93" column="11" />
       </file>
-      <file name="/crm_custom [cang@120.26.120.234]" timestamp="1545373157794">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" timestamp="1558944720422">
+        <mark key="'" line="430" column="0" />
+        <mark key="[" line="291" column="0" />
+        <mark key="]" line="291" column="0" />
+        <mark key="." line="291" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/base/config/applicationContext-base-new.xml" timestamp="1558938737171">
         <mark key="'" line="113" column="0" />
@@ -215,6 +220,12 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="18" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/termination.http" timestamp="1558944945567">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1558942740014">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
@@ -228,39 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="11" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
-      <jump line="116" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
-      <jump line="164" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
-      <jump line="163" column="16" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/IncomeType.java" />
-      <jump line="131" column="36" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
-      <jump line="127" column="39" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
-      <jump line="133" column="45" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
-      <jump line="134" column="48" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
-      <jump line="380" column="25" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
-      <jump line="381" column="24" filename="$USER_HOME$/workspace/bcclub/server/pom.xml" />
-      <jump line="27" column="19" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/config/ApplicationProperties.java" />
-      <jump line="545" column="8" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbBusinessServiceImpl.java" />
-      <jump line="558" column="16" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbBusinessServiceImpl.java" />
-      <jump line="14" column="18" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/IWifisongListenService.java" />
-      <jump line="138" column="14" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/core/util/SpecialValue.java" />
-      <jump line="124" column="9" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/core/util/SpecialValue.java" />
-      <jump line="149" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/core/util/SpecialValue.java" />
-      <jump line="349" column="90" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
-      <jump line="385" column="71" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
-      <jump line="486" column="34" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
-      <jump line="300" column="21" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
-      <jump line="155" column="16" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
-      <jump line="175" column="16" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
-      <jump line="216" column="28" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
-      <jump line="377" column="26" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/service/impl/XxcrmCustomersProtectServiceImpl.java" />
-      <jump line="23" column="35" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/domain/Gain.java" />
-      <jump line="16" column="56" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/strategy/ichapterapp/IchapterappComloaderStrategy.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/BszbIchapterapp.java" />
-      <jump line="633" column="25" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbLoanServiceImpl.java" />
-      <jump line="505" column="24" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbLoanServiceImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/dto/GainDTO.java" />
-      <jump line="87" column="34" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/dto/GainDTO.java" />
-      <jump line="309" column="0" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/dto/GainDTO.java" />
       <jump line="182" column="4" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/dto/GainDTO.java" />
       <jump line="183" column="0" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/dto/GainDTO.java" />
       <jump line="132" column="63" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbCustomInvoiceServiceImpl.java" />
@@ -328,33 +306,77 @@
       <jump line="118" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
       <jump line="49" column="3" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/common/model/Region.java" />
       <jump line="70" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
+      <jump line="137" column="48" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
+      <jump line="131" column="24" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/IBszbTerminationService.java" />
+      <jump line="152" column="17" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
+      <jump line="172" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
+      <jump line="40" column="52" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
+      <jump line="178" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
+      <jump line="169" column="42" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
+      <jump line="57" column="16" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="47" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="94" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="139" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="198" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="227" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="270" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="285" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="294" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="304" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="317" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="335" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="350" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="364" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="380" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="389" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="398" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="412" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="424" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>2B2363DEDA654269931179F9837804EB</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1dWlkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>Please have a look at the Version Control console for more details</text>
+        <text>GET {{url}}/api/bszb/incubator/business/termination/list?token={{token}}
+
+###</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">XHIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxhc3NvY2lhdGlvbiBwcm9wZXJ0eT0id2ZFbmdpbmUiCiAgICAgIHJlc3VsdE1hcD0iY29tLmVhemVyLmNvcmUuZGFvLm1hcHBlci5JV2ZFbmdpbmVNYXBwZXIuZmllbGRNYXBwZXJXaXRob3V0Q2xvYiI+PC9hc3NvY2lhdGlvbj4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">XHIK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICBwcml2YXRlIERhdGUgYmVnaW5EYXRlOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8sCiAgICAgICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8sCiAgICAgICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8sCiAgICAgICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8=</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text>age com.eazer.wf.model;
 rt com.eazer.base.BaseM
 rt com.eazer.base.ICmmC
@@ -368,7 +390,7 @@ ic class WfInstanceActi
 //=====================
 private static final lo</text>
       </register>
-      <register name="5" type="8">
+      <register name="8" type="8">
         <text>age com.eazer.wf.model;
 rt com.eazer.base.BaseM
 rt com.eazer.base.ICmmC
@@ -387,20 +409,11 @@ private static final lo
 @ACF(CF = CF.UNID)
 private Integer activit</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBzZWxlY3QKKAoJc2VsZWN0CgkJSU5DT01FX0NVUlJFTlQKCWZyb20KCQlic3piX2luY29tZQoJam9pbiBic3piX2Jvb2tzIG9uCgkJYnN6Yl9pbmNvbWUuSU5DT01FX0JPT0tTVVVJRCA9IGJzemJfYm9va3MuQk9PS1NfVVVJRAoJd2hlcmUKCQlJTkNPTUVfQk9PS1NVVUlEID0gYWEuQk9PS1NfVVVJRAoJCWFuZCBJTkNPTUVfREFURSA8PSAnMjAxOC0wNy0zMScKCW9yZGVyIGJ5CgkJSU5DT01FX0RBVEUgZGVzYwoJbGltaXQgMSApIGFzIGluY29tZUN1cnJlbnQsCglhYS5CT09LU19VVUlEIGFzIGluY29tZVV1aWQgICAgICAgIGZyb20gYnN6Yl9ib29rcyBhcyBhYSBvcmRlciBieSBhYS5CT09LU19VVUlECg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKHNlbGVjdAogICAgICAgICAgICBJTkNPTUVfQ1VSUkVOVAogICAgICAgIGZyb20KICAgICAgICAgICAgYnN6Yl9pbmNvbWUKICAgICAgICBqb2luIGJzemJfYm9va3Mgb24KICAgICAgICAgICAgYnN6Yl9pbmNvbWUuSU5DT01FX0JPT0tTVVVJRCA9IGJzemJfYm9va3MuQk9PS1NfVVVJRAogICAgICAgIHdoZXJlCiAgICAgICAgICAgIElOQ09NRV9CT09LU1VVSUQgPSBhYS5CT09LU19VVUlECiAgICAgICAgICAgIGFuZCBJTkNPTUVfREFURSAmbHQ7PSAke3N0ck1hcC5lbmREYXRlfQogICAgICAgIG9yZGVyIGJ5CiAgICAgICAgICAgIElOQ09NRV9EQVRFIGRlc2MgbGltaXQgMQogICAgICAgICkgYXMgaW5jb21lQ3VycmVudCwKICAgICAgICAgICAgICAgYWEuQk9PS1NfVVVJRCBhcyBpbmNvbWVVdWlkCgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1QgTUFYKGEuaW5jb21lX2RhdGUpIEFTIGluY29tZUNkYXRlLAogICAgICAgIGEuQk9PS1NfVVVJRCBBUyBpbmNvbWVVdWlkICwKICAgICAgICBhLklOQ09NRV9DVVJSRU5UIEFTIGluY29tZUN1cnJlbnQKICAgICAgICBGUk9NCiAgICAgICAgKHNlbGVjdDxpbmNsdWRlIHJlZmlkPSJmaWVsZCIvPiw8aW5jbHVkZSByZWZpZD0iY29tLmVhemVyLmJzemIuZGFvLm1hcHBlci5JQnN6YkJvb2tzTWFwcGVyLmZpZWxkIi8+RlJPTQogICAgICAgIGJzemJfaW5jb21lIEpPSU4gYnN6Yl9ib29rcyBPTiBic3piX2luY29tZS5JTkNPTUVfQk9PS1NVVUlEPWJzemJfYm9va3MuQk9PS1NfVVVJRAogICAgICAgIDx3aGVyZT4ke2NvbmRpdGlvbn08L3doZXJlPgogICAgICAgIE9SREVSIEJZIElOQ09NRV9EQVRFIERFU0MsSU5DT01FX1VOSUQgREVTQylhcyBhCiAgICAgICAgR1JPVVAgQlkgYS5JTkNPTUVfQk9PS1NVVUlECg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1QgTUFYKGEuaW5jb21lX2RhdGUpIEFTIGluY29tZUNkYXRlLAogICAgICAgIGEuQk9PS1NfVVVJRCBBUyBpbmNvbWVVdWlkICwKICAgICAgICBhLklOQ09NRV9DVVJSRU5UIEFTIGluY29tZUN1cnJlbnQKICAgICAgICBGUk9NCiAgICAgICAgKHNlbGVjdDxpbmNsdWRlIHJlZmlkPSJmaWVsZCIvPiw8aW5jbHVkZSByZWZpZD0iY29tLmVhemVyLmJzemIuZGFvLm1hcHBlci5JQnN6YkJvb2tzTWFwcGVyLmZpZWxkIi8+RlJPTQogICAgICAgIGJzemJfaW5jb21lIEpPSU4gYnN6Yl9ib29rcyBPTiBic3piX2luY29tZS5JTkNPTUVfQk9PS1NVVUlEPWJzemJfYm9va3MuQk9PS1NfVVVJRAogICAgICAgIDx3aGVyZT4ke2NvbmRpdGlvbn08L3doZXJlPgogICAgICAgIE9SREVSIEJZIElOQ09NRV9EQVRFIERFU0MsSU5DT01FX1VOSUQgREVTQylhcyBhCiAgICAgICAgR1JPVVAgQlkgYS5JTkNPTUVfQk9PS1NVVUlECg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action Gitflow.OpenGitflowPopup</text>
+        <text>action Replace</text>
       </register>
     </registers>
     <search>
@@ -436,15 +449,6 @@ private Integer activit</text>
         <entry encoding="base64">XDx1dWlkXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action ShowUsages</entry>
-        <entry encoding="base64">JzwsJz5zb3VyY2Ugfi8uaWRlYXZpbXJj</entry>
-        <entry>action Resume</entry>
-        <entry>action ViewBreakpoints</entry>
-        <entry>action ChooseDebugConfiguration</entry>
-        <entry>action DebugClass</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action ChooseRunConfiguration</entry>
-        <entry>action ReformatCode</entry>
         <entry>action SmartStepInto</entry>
         <entry>action CompileDirty</entry>
         <entry>action HideAllWindows</entry>
@@ -456,6 +460,15 @@ private Integer activit</text>
         <entry>action SliceBackward</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Gitflow.OpenGitflowPopup</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action MethodDown</entry>
+        <entry>action MethodUp</entry>
+        <entry>action GotoFile</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Find</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Replace</entry>
       </history-cmd>
       <history-expr />
       <history-input />

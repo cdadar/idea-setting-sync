@@ -40,17 +40,22 @@
         <mark key="^" line="28" column="64" />
         <mark key="." line="28" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/task/dao/mapper/IBszbWeeklyMapper.xml" timestamp="1558939285362">
-        <mark key="[" line="407" column="22" />
-        <mark key="]" line="407" column="21" />
-        <mark key="m" line="421" column="21" />
-        <mark key="^" line="407" column="21" />
-        <mark key="." line="407" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubStationConfigController.java" timestamp="1558942158151">
         <mark key="[" line="50" column="15" />
         <mark key="]" line="50" column="24" />
         <mark key="." line="50" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/pub/config/eazer-struts-extend.xml" timestamp="1558950614725">
+        <mark key="[" line="516" column="13" />
+        <mark key="]" line="517" column="3" />
+        <mark key="." line="517" column="3" />
+        <mark key="^" line="517" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/tuodao/src/main/resources/com/eazer/pub/config/eazer-struts-extend.xml" timestamp="1558950555832">
+        <mark key="[" line="393" column="0" />
+        <mark key="]" line="397" column="13" />
+        <mark key="^" line="399" column="0" />
+        <mark key="." line="399" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/fuhuaqi/oregistapp/form/oregistapp_edit_check.html" timestamp="1535076507199">
         <mark key="[" line="9" column="21" />
@@ -80,7 +85,8 @@
         <mark key="." line="8" column="17" />
       </file>
       <file name="0a7bddad-4e27-44d7-83df-de1c9ad21d25/schema/bszb/table/bszb_termination.sql" timestamp="1558949153151" />
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/BszbTermination.java" timestamp="1558949303173">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/BszbTermination.java" timestamp="1558950342125">
+        <mark key="'" line="25" column="6" />
         <mark key="[" line="285" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/model/dto/ContractApplyAssignationDTO.java" timestamp="1536912824078">
@@ -261,8 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2314" column="35" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
-      <jump line="17" column="11" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/public/include/header.ftl" />
       <jump line="29" column="19" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/public/include/header.ftl" />
       <jump line="199" column="16" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
       <jump line="194" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
@@ -361,6 +365,8 @@
       <jump line="312" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
       <jump line="337" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
       <jump line="362" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="282" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/BszbTermination.java" />
+      <jump line="25" column="6" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/BszbTermination.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -372,41 +378,41 @@
       <register name="/" type="4">
         <text encoding="base64">XDx1dWlkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>bszbPayableTerms</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxhY3Rpb24gbmFtZT0ib3JnIiBjbGFzcz0icHViU2VydmljZUFjdGlvbiI+CiAgICAgIDxyZXN1bHQgbmFtZT0ic3VjY2VzcyIgdHlwZT0icmVkaXJlY3QiPgogICAgICAgICR7dXJsfS9oci8ke3Rva2VufS9vcmcKICAgICAgPC9yZXN1bHQ+CiAgICA8L2FjdGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJzemJQYXlhYmxlcyIsIHNvdXJjZSA9ICJwYXlhYmxlcyIpCg==</text>
+        <text encoding="base64">ICAgIDxhY3Rpb24gbmFtZT0iYWRkcmVzcyIgY2xhc3M9InB1YlNlcnZpY2VBY3Rpb24iPgogICAgICA8cmVzdWx0IG5hbWU9InN1Y2Nlc3MiIHR5cGU9InJlZGlyZWN0Ij4KICAgICAgICAke3VybH0vcmVzb3VyY2UvJHt0b2tlbn0vYWRkcmVzcwogICAgICA8L3Jlc3VsdD4KICAgIDwvYWN0aW9uPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJzemJQYXlhYmxlcyIsIHNvdXJjZSA9ICJwYXlhYmxlcyIpCg==</text>
+        <text encoding="base64">ICAgIDxhY3Rpb24gbmFtZT0ib3JnIiBjbGFzcz0icHViU2VydmljZUFjdGlvbiI+CiAgICAgIDxyZXN1bHQgbmFtZT0ic3VjY2VzcyIgdHlwZT0icmVkaXJlY3QiPgogICAgICAgICR7dXJsfS9oci8ke3Rva2VufS9vcmcKICAgICAgPC9yZXN1bHQ+CiAgICA8L2FjdGlvbj4KICAgIAogICAgPGFjdGlvbiBuYW1lPSJzdGFmZiIgY2xhc3M9InB1YlNlcnZpY2VBY3Rpb24iPgogICAgICA8cmVzdWx0IG5hbWU9InN1Y2Nlc3MiIHR5cGU9InJlZGlyZWN0Ij4KICAgICAgICAke3VybH0vaHIvJHt0b2tlbn0vc3RhZmYKICAgICAgPC9yZXN1bHQ+CiAgICA8L2FjdGlvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJ1c2luZXNzSW5kZXBvc2l0Iiwgc291cmNlID0gImluZGVwb3NpdCIpCg==</text>
+        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJzemJQYXlhYmxlcyIsIHNvdXJjZSA9ICJwYXlhYmxlcyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAiIiwgc291cmNlID0gInByaWNlIikK</text>
+        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJzemJQYXlhYmxlcyIsIHNvdXJjZSA9ICJwYXlhYmxlcyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAidGVybVR5cGUiLCBzb3VyY2UgPSAidHlwZSIpCg==</text>
+        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJ1c2luZXNzSW5kZXBvc2l0Iiwgc291cmNlID0gImluZGVwb3NpdCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAidGVybVByb2plY3RuYW1lIiwgc291cmNlID0gInByb2plY3ROYW1lIikKICBATWFwcGluZyh0YXJnZXQgPSAidGVybVByb2plY3R1dWlkIiwgc291cmNlID0gInByb2plY3RJZCIpCiAgQE1hcHBpbmcodGFyZ2V0ID0gImJmYnVzSW5jdWJ1dWlkIiwgc291cmNlID0gImluY3ViYXRvclV1aWQiKQogIEBNYXBwaW5nKHRhcmdldCA9ICJiZmJ1c0luY3VibmFtZSIsIHNvdXJjZSA9ICJpbmN1YmF0b3IiKQogIEBNYXBwaW5nKHRhcmdldCA9ICJiZmJ1c1V1aWQiLCBzb3VyY2UgPSAiaW5jdWFidG9yQnVzaW5lc3NVdWlkIikKICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJ1c2luZXNzVXVpZCIsIHNvdXJjZSA9ICJidXNpbmVzc1V1aWQiKQo=</text>
+        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAiIiwgc291cmNlID0gInByaWNlIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJ1c2luZXNzQ3VzdXVpZCIsIHNvdXJjZSA9ICJjdXN0b21VdWlkIikKICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJ1c2luZXNzQ3VzbmFtZSIsIHNvdXJjZSA9ICJjdXN0b20iKQo=</text>
+        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAidGVybVR5cGUiLCBzb3VyY2UgPSAidHlwZSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldFBheWFibGVVdWlkKCkgewogICAgcmV0dXJuIHBheWFibGVVdWlkOwogIH0KCiAgcHVibGljIHZvaWQgc2V0UGF5YWJsZVV1aWQoU3RyaW5nIHBheWFibGVVdWlkKSB7CiAgICB0aGlzLnBheWFibGVVdWlkID0gcGF5YWJsZVV1aWQ7CiAgfQoK</text>
+        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAidGVybVByb2plY3RuYW1lIiwgc291cmNlID0gInByb2plY3ROYW1lIikKICBATWFwcGluZyh0YXJnZXQgPSAidGVybVByb2plY3R1dWlkIiwgc291cmNlID0gInByb2plY3RJZCIpCiAgQE1hcHBpbmcodGFyZ2V0ID0gImJmYnVzSW5jdWJ1dWlkIiwgc291cmNlID0gImluY3ViYXRvclV1aWQiKQogIEBNYXBwaW5nKHRhcmdldCA9ICJiZmJ1c0luY3VibmFtZSIsIHNvdXJjZSA9ICJpbmN1YmF0b3IiKQogIEBNYXBwaW5nKHRhcmdldCA9ICJiZmJ1c1V1aWQiLCBzb3VyY2UgPSAiaW5jdWFidG9yQnVzaW5lc3NVdWlkIikKICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJ1c2luZXNzVXVpZCIsIHNvdXJjZSA9ICJidXNpbmVzc1V1aWQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">55qE6aG26aG26aG26aG2Cg==</text>
+        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJ1c2luZXNzQ3VzdXVpZCIsIHNvdXJjZSA9ICJjdXN0b21VdWlkIikKICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJ1c2luZXNzQ3VzbmFtZSIsIHNvdXJjZSA9ICJjdXN0b20iKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
     <search>
@@ -416,7 +422,7 @@
       <last-replace>BszbIchapterapp</last-replace>
       <last-substitute>BszbPayment</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -442,12 +448,6 @@
         <entry encoding="base64">XDx1dWlkXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action SelectInProjectView</entry>
-        <entry>action MethodDown</entry>
-        <entry>action MethodUp</entry>
-        <entry>action GotoFile</entry>
-        <entry>action Find</entry>
-        <entry>action Replace</entry>
         <entry>action HideAllWindows</entry>
         <entry>action GotoDeclaration</entry>
         <entry>set options</entry>
@@ -460,8 +460,14 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>set keep-english-in-normal</entry>
         <entry>action Generate</entry>
-        <entry>action GotoClass</entry>
         <entry>action ReformatCode</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action ManageRecentProjects</entry>
+        <entry>action GotoFile</entry>
+        <entry>action Find</entry>
+        <entry>action GotoClass</entry>
+        <entry>action ShowUsages</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />

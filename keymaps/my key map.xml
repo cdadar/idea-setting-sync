@@ -1,4 +1,5 @@
 <keymap version="1" name="my key map" parent="$default">
+  <action id="$ShowTranslationDialogAction" />
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl d" />

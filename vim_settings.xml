@@ -20,6 +20,12 @@
         <mark key="^" line="174" column="60" />
         <mark key="." line="177" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/dto/TerminationDTO.java" timestamp="1558946425393">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="20" column="25" />
+        <mark key="^" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/custom/icregister/form/icregister_edit_check.html" timestamp="1535076483579">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="22" />
@@ -176,6 +182,11 @@
         <mark key="." line="37" column="50" />
         <mark key="^" line="33" column="66" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/dto/PayableTermDTO.java" timestamp="1558946864244">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bcclub/server/src/main/resources/config/liquibase/changelog/00000000000027_modified_wallet.xml" timestamp="1532093795372">
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="26" />
@@ -187,11 +198,12 @@
         <mark key="^" line="93" column="11" />
         <mark key="." line="93" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" timestamp="1558944720422">
-        <mark key="'" line="430" column="0" />
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="0" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" timestamp="1558946248986">
+        <mark key="'" line="362" column="4" />
+        <mark key="[" line="387" column="2" />
+        <mark key="]" line="387" column="3" />
+        <mark key="." line="387" column="3" />
+        <mark key="^" line="295" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/base/config/applicationContext-base-new.xml" timestamp="1558938737171">
         <mark key="'" line="113" column="0" />
@@ -207,7 +219,6 @@
         <mark key="." line="10" column="19" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/strategy/StationStrategyContextFactory.java" timestamp="1558941931679" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/pub/util/StringUtil.java" timestamp="1533285151515">
         <mark key="[" line="479" column="21" />
         <mark key="]" line="479" column="45" />
@@ -220,13 +231,13 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/termination.http" timestamp="1558944945567">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/termination.http" timestamp="1558946301776">
+        <mark key="[" line="15" column="73" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1558942740014">
+      <file name="/fragment.java" timestamp="1558946464070">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
         <mark key="." line="0" column="42" />
@@ -239,14 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="4" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/dto/GainDTO.java" />
-      <jump line="183" column="0" filename="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/web/rest/dto/GainDTO.java" />
-      <jump line="132" column="63" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbCustomInvoiceServiceImpl.java" />
-      <jump line="405" column="16" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbCustomInvoiceServiceImpl.java" />
-      <jump line="401" column="21" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbCustomInvoiceServiceImpl.java" />
-      <jump line="458" column="47" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
-      <jump line="138" column="35" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbCustomInvoiceServiceImpl.java" />
-      <jump line="190" column="36" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbCustomInvoiceServiceImpl.java" />
       <jump line="2314" column="35" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/impl/BszbIncomeServiceImpl.java" />
       <jump line="17" column="11" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/public/include/header.ftl" />
       <jump line="29" column="19" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/public/include/header.ftl" />
@@ -339,24 +342,30 @@
       <jump line="398" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
       <jump line="412" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
       <jump line="424" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/termination.http" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/termination.http" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/termination.http" />
+      <jump line="266" column="37" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="287" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="312" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="337" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
+      <jump line="362" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>2B2363DEDA654269931179F9837804EB</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>的</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1dWlkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>GET {{url}}/api/bszb/incubator/business/termination/list?token={{token}}
-
-###</text>
+      <register name="0" type="2">
+        <text encoding="base64">R0VUIHt7dXJsfX0vYXBpL2JzemIvaW5jdWJhdG9yL2J1c2luZXNzL3Rlcm1pbmF0aW9uL2xpc3Q/dG9rZW49e3t0b2tlbn19CgojIyMKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGTnn63nn63nmoQK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -365,55 +374,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxhc3NvY2lhdGlvbiBwcm9wZXJ0eT0id2ZFbmdpbmUiCiAgICAgIHJlc3VsdE1hcD0iY29tLmVhemVyLmNvcmUuZGFvLm1hcHBlci5JV2ZFbmdpbmVNYXBwZXIuZmllbGRNYXBwZXJXaXRob3V0Q2xvYiI+PC9hc3NvY2lhdGlvbj4K</text>
+        <text encoding="base64">ZGRkZCDnn63nn63nmoTnn63nn63nmoQgIHByaXZhdGUgRGF0ZSBkYXRlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XHIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIERhdGUgYmVnaW5EYXRlOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIEJpZ0RlY2ltYWwgcHJpY2VpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8sCiAgICAgICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8sCiAgICAgICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8sCiAgICAgICByb3VuZChjb2FsZXNjZShzdW0oQ0FTRQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVfRk9STUFUKEJSRUNPUkRfREFURSwgJyVtJykgPSA/IFRIRU4gKGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBCUkVDT1JEX1RBUkdFVCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZW4gQlJFQ09SRF9QQVlfTU9ORVkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSBCUkVDT1JEX01PTkVZIGVuZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAwIGVuZCksIDApLCAyKSAgICAgICAgICAgICBhcyA/LAogICAgICAgcm91bmQoY29hbGVzY2Uoc3VtKENBU0UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBEQVRFX0ZPUk1BVChCUkVDT1JEX0RBVEUsICclbScpID0gPyBUSEVOIChjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gQlJFQ09SRF9UQVJHRVQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIEJSRUNPUkRfUEFZX01PTkVZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgQlJFQ09SRF9NT05FWSBlbmQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKSwgMikgICAgICAgICAgICAgYXMgPywKICAgICAgIHJvdW5kKGNvYWxlc2NlKHN1bShDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoZW4gREFURV9GT1JNQVQoQlJFQ09SRF9EQVRFLCAnJW0nKSA9ID8gVEhFTiAoY2FzZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIEJSRUNPUkRfVEFSR0VUID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbiBCUkVDT1JEX1BBWV9NT05FWQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIEJSRUNPUkRfTU9ORVkgZW5kKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIDAgZW5kKSwgMCksIDIpICAgICAgICAgICAgIGFzID8=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="8">
-        <text>age com.eazer.wf.model;
-rt com.eazer.base.BaseM
-rt com.eazer.base.ICmmC
-rt com.eazer.base.ICmmC
-rt java.util.Date;
-f_instance_activity(WfI
-version 1.0
-author: eazer
-date 2018/10/16
-ic class WfInstanceActi
-//=====================
-private static final lo</text>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="8">
-        <text>age com.eazer.wf.model;
-rt com.eazer.base.BaseM
-rt com.eazer.base.ICmmC
-rt com.eazer.base.ICmmC
-rt java.util.Date;
-f_instance_activity(WfI
-version 1.0
-author: eazer
-date 2018/10/16
-ic class WfInstanceActi
-//=====================
-private static final lo
-/**
- * UNID
- */
-@ACF(CF = CF.UNID)
-private Integer activit</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3QKKAoJc2VsZWN0CgkJSU5DT01FX0NVUlJFTlQKCWZyb20KCQlic3piX2luY29tZQoJam9pbiBic3piX2Jvb2tzIG9uCgkJYnN6Yl9pbmNvbWUuSU5DT01FX0JPT0tTVVVJRCA9IGJzemJfYm9va3MuQk9PS1NfVVVJRAoJd2hlcmUKCQlJTkNPTUVfQk9PS1NVVUlEID0gYWEuQk9PS1NfVVVJRAoJCWFuZCBJTkNPTUVfREFURSA8PSAnMjAxOC0wNy0zMScKCW9yZGVyIGJ5CgkJSU5DT01FX0RBVEUgZGVzYwoJbGltaXQgMSApIGFzIGluY29tZUN1cnJlbnQsCglhYS5CT09LU19VVUlEIGFzIGluY29tZVV1aWQgICAgICAgIGZyb20gYnN6Yl9ib29rcyBhcyBhYSBvcmRlciBieSBhYS5CT09LU19VVUlECg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action Replace</text>
+        <text>set keep-english-in-normal</text>
       </register>
     </registers>
     <search>
@@ -423,7 +405,7 @@ private Integer activit</text>
       <last-replace>BszbIchapterapp</last-replace>
       <last-substitute>BszbPayment</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -449,26 +431,26 @@ private Integer activit</text>
         <entry encoding="base64">XDx1dWlkXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action SmartStepInto</entry>
-        <entry>action CompileDirty</entry>
-        <entry>action HideAllWindows</entry>
-        <entry>action GotoSymbol</entry>
-        <entry>action GotoClass</entry>
-        <entry>action ShowIntentionActions</entry>
-        <entry>action XDebugger.MuteBreakpoints</entry>
-        <entry>action EditorJoinLines</entry>
-        <entry>action SliceBackward</entry>
-        <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action Gitflow.OpenGitflowPopup</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
         <entry>action GotoFile</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Find</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Replace</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action Generate</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>set options</entry>
+        <entry>actionlist</entry>
+        <entry>action GotoSymbol</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action HighlightUsagesInFile</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action Maven.Reimport</entry>
+        <entry>action GotoClass</entry>
+        <entry>action ReformatCode</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>set keep-english-in-normal</entry>
       </history-cmd>
       <history-expr />
       <history-input />

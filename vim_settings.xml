@@ -3,43 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/faa1d309-926b-4cee-972d-e4b19f7ff8ca/console_3.sql" timestamp="1554977348267">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="5" />
-        <mark key="." line="4" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/BszbRecoup.java" timestamp="1531885594889">
-        <mark key="[" line="409" column="52" />
-        <mark key="]" line="409" column="56" />
-        <mark key="." line="409" column="52" />
-        <mark key="^" line="409" column="51" />
-      </file>
       <file name="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/service/FundRecordService.java" timestamp="1532100564019">
         <mark key="[" line="177" column="12" />
         <mark key="]" line="177" column="12" />
         <mark key="^" line="174" column="60" />
         <mark key="." line="177" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/dto/TerminationDTO.java" timestamp="1558946425393">
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="20" column="25" />
-        <mark key="^" line="20" column="25" />
-        <mark key="." line="20" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/custom/icregister/form/icregister_edit_check.html" timestamp="1535076483579">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/dto/TerminationDTO.java" timestamp="1558949027631">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="31" />
+        <mark key="^" line="26" column="31" />
+        <mark key="." line="26" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/custom/invoice/grid/invoice_list_check.html" timestamp="1533198474301">
         <mark key="[" line="72" column="86" />
         <mark key="]" line="72" column="86" />
         <mark key="." line="72" column="86" />
         <mark key="^" line="65" column="63" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbFuhuaqiSettledMapper.xml" timestamp="1558944711100">
-        <mark key="[" line="304" column="0" />
-        <mark key="]" line="310" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/BszbFundsBook.java" timestamp="1535003036970">
         <mark key="[" line="223" column="4" />
@@ -67,41 +47,15 @@
         <mark key="^" line="407" column="21" />
         <mark key="." line="407" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/domain/GainDetail.java" timestamp="1531988784742">
-        <mark key="[" line="129" column="29" />
-        <mark key="]" line="147" column="0" />
-        <mark key="^" line="147" column="0" />
-        <mark key="." line="147" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubStationConfigController.java" timestamp="1558942158151">
         <mark key="[" line="50" column="15" />
         <mark key="]" line="50" column="24" />
         <mark key="." line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/custom/invoice/grid/invoice_list_fuhuaqi.html" timestamp="1533198463493">
-        <mark key="[" line="55" column="69" />
-        <mark key="]" line="55" column="69" />
-        <mark key="." line="55" column="69" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/workflow.http" timestamp="1542005502986">
-        <mark key="[" line="45" column="5" />
-        <mark key="]" line="45" column="4" />
-        <mark key="." line="45" column="4" />
-        <mark key="^" line="45" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/fuhuaqi/oregistapp/form/oregistapp_edit_check.html" timestamp="1535076507199">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="22" />
         <mark key="." line="9" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/IBszbIncomeService.java" timestamp="1533286106685">
-        <mark key="[" line="296" column="80" />
-        <mark key="]" line="293" column="16" />
-        <mark key="^" line="293" column="16" />
-        <mark key="." line="293" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/IBszbTerminationService.java" timestamp="1558944204361">
-        <mark key="'" line="131" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/BszbLoan.java" timestamp="1531897088367">
         <mark key="[" line="403" column="51" />
@@ -114,34 +68,10 @@
         <mark key="." line="12" column="72" />
         <mark key="^" line="12" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/java/com/eazer/bszb/crm/service/impl/CrmCustomServiceImpl.java" timestamp="1545373179687">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="^" line="164" column="0" />
-        <mark key="." line="164" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/dto/BszbIncomeStatisticBalanceDTO.java" timestamp="1533287507664">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="28" />
-        <mark key="." line="60" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/common/model/Region.java" timestamp="1558940315708">
-        <mark key="'" line="49" column="3" />
-        <mark key="[" line="61" column="3" />
-        <mark key="]" line="61" column="2" />
-        <mark key="." line="61" column="2" />
-        <mark key="^" line="61" column="2" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/TerminationInfoVO.java" timestamp="1558942959373">
         <mark key="[" line="23" column="29" />
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="30" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayableInfoVO.java" timestamp="1558943000933">
-        <mark key="[" line="24" column="17" />
-        <mark key="]" line="24" column="21" />
-        <mark key="^" line="24" column="21" />
-        <mark key="." line="24" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/AddressVO.java" timestamp="1558942328600">
         <mark key="[" line="8" column="17" />
@@ -149,15 +79,9 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" timestamp="1558944336424">
-        <mark key="'" line="57" column="16" />
-        <mark key="[" line="38" column="25" />
-        <mark key="]" line="38" column="61" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator.http" timestamp="1556433217482">
-        <mark key="[" line="129" column="59" />
-        <mark key="]" line="129" column="66" />
-        <mark key="." line="129" column="59" />
+      <file name="0a7bddad-4e27-44d7-83df-de1c9ad21d25/schema/bszb/table/bszb_termination.sql" timestamp="1558949153151" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/BszbTermination.java" timestamp="1558949303173">
+        <mark key="[" line="285" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/model/dto/ContractApplyAssignationDTO.java" timestamp="1536912824078">
         <mark key="[" line="24" column="24" />
@@ -171,6 +95,124 @@
         <mark key="." line="229" column="26" />
         <mark key="^" line="229" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/dto/PayableTermDTO.java" timestamp="1558948301490">
+        <mark key="]" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/fuhuaqi/advanced/form/advanced_edit_check.html" timestamp="1535082239670">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/pub/util/StringUtil.java" timestamp="1533285151515">
+        <mark key="[" line="479" column="21" />
+        <mark key="]" line="479" column="45" />
+        <mark key="^" line="479" column="45" />
+        <mark key="." line="479" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/termination.http" timestamp="1558946301776">
+        <mark key="[" line="15" column="73" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/faa1d309-926b-4cee-972d-e4b19f7ff8ca/console_3.sql" timestamp="1554977348267">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/BszbRecoup.java" timestamp="1531885594889">
+        <mark key="[" line="409" column="52" />
+        <mark key="]" line="409" column="56" />
+        <mark key="." line="409" column="52" />
+        <mark key="^" line="409" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/custom/icregister/form/icregister_edit_check.html" timestamp="1535076483579">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbFuhuaqiSettledMapper.xml" timestamp="1558944711100">
+        <mark key="[" line="304" column="0" />
+        <mark key="]" line="310" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/domain/GainDetail.java" timestamp="1531988784742">
+        <mark key="[" line="129" column="29" />
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="147" column="0" />
+        <mark key="." line="147" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/custom/invoice/grid/invoice_list_fuhuaqi.html" timestamp="1533198463493">
+        <mark key="[" line="55" column="69" />
+        <mark key="]" line="55" column="69" />
+        <mark key="." line="55" column="69" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/workflow.http" timestamp="1542005502986">
+        <mark key="[" line="45" column="5" />
+        <mark key="]" line="45" column="4" />
+        <mark key="." line="45" column="4" />
+        <mark key="^" line="45" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/dto/IndepositLiquidateDTO.java" timestamp="1558948604083">
+        <mark key="]" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbTerminationConverter.java" timestamp="1558949290971">
+        <mark key="[" line="68" column="21" />
+        <mark key="]" line="68" column="36" />
+        <mark key="." line="68" column="35" />
+        <mark key="^" line="68" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/IBszbIncomeService.java" timestamp="1533286106685">
+        <mark key="[" line="296" column="80" />
+        <mark key="]" line="293" column="16" />
+        <mark key="^" line="293" column="16" />
+        <mark key="." line="293" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/IBszbTerminationService.java" timestamp="1558944204361">
+        <mark key="'" line="131" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/java/com/eazer/bszb/crm/service/impl/CrmCustomServiceImpl.java" timestamp="1545373179687">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="^" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1558949156541">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/dto/BszbIncomeStatisticBalanceDTO.java" timestamp="1533287507664">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="60" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/common/model/Region.java" timestamp="1558940315708">
+        <mark key="'" line="49" column="3" />
+        <mark key="[" line="61" column="3" />
+        <mark key="]" line="61" column="2" />
+        <mark key="." line="61" column="2" />
+        <mark key="^" line="61" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayableInfoVO.java" timestamp="1558943000933">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="24" column="21" />
+        <mark key="^" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+      </file>
+      <file name="/bszb.bszb_termination [bszb@120.26.120.234]" timestamp="1558949144345">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" timestamp="1558944336424">
+        <mark key="'" line="57" column="16" />
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator.http" timestamp="1556433217482">
+        <mark key="[" line="129" column="59" />
+        <mark key="]" line="129" column="66" />
+        <mark key="." line="129" column="59" />
+      </file>
       <file name="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/service/mapper/GainMapper.java" timestamp="1531989127310">
         <mark key="[" line="75" column="47" />
         <mark key="]" line="75" column="47" />
@@ -181,11 +223,6 @@
         <mark key="]" line="37" column="60" />
         <mark key="." line="37" column="50" />
         <mark key="^" line="33" column="66" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/dto/PayableTermDTO.java" timestamp="1558946864244">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bcclub/server/src/main/resources/config/liquibase/changelog/00000000000027_modified_wallet.xml" timestamp="1532093795372">
         <mark key="[" line="18" column="26" />
@@ -205,37 +242,11 @@
         <mark key="." line="387" column="3" />
         <mark key="^" line="295" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/base/config/applicationContext-base-new.xml" timestamp="1558938737171">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="117" column="27" />
-        <mark key="]" line="117" column="26" />
-        <mark key="m" line="64" column="9" />
-        <mark key="." line="117" column="26" />
-        <mark key="^" line="117" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/fuhuaqi/advanced/form/advanced_edit_check.html" timestamp="1535082239670">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/pub/util/StringUtil.java" timestamp="1533285151515">
-        <mark key="[" line="479" column="21" />
-        <mark key="]" line="479" column="45" />
-        <mark key="^" line="479" column="45" />
-        <mark key="." line="479" column="45" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/wf/model/WfInstanceActivity.java" timestamp="1540546464150">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
         <mark key="^" line="18" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/termination.http" timestamp="1558946301776">
-        <mark key="[" line="15" column="73" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1558946464070">
         <mark key="[" line="0" column="0" />
@@ -356,46 +367,46 @@
         <text>2B2363DEDA654269931179F9837804EB</text>
       </register>
       <register name="-" type="4">
-        <text>的</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1dWlkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">R0VUIHt7dXJsfX0vYXBpL2JzemIvaW5jdWJhdG9yL2J1c2luZXNzL3Rlcm1pbmF0aW9uL2xpc3Q/dG9rZW49e3t0b2tlbn19CgojIyMKCg==</text>
+      <register name="0" type="4">
+        <text>bszbPayableTerms</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGTnn63nn63nmoQK</text>
+        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJzemJQYXlhYmxlcyIsIHNvdXJjZSA9ICJwYXlhYmxlcyIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJzemJQYXlhYmxlcyIsIHNvdXJjZSA9ICJwYXlhYmxlcyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGRkZCDnn63nn63nmoTnn63nn63nmoQgIHByaXZhdGUgRGF0ZSBkYXRlOwo=</text>
+        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJ1c2luZXNzSW5kZXBvc2l0Iiwgc291cmNlID0gImluZGVwb3NpdCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAiIiwgc291cmNlID0gInByaWNlIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEJpZ0RlY2ltYWwgcHJpY2VpCg==</text>
+        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAidGVybVR5cGUiLCBzb3VyY2UgPSAidHlwZSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAidGVybVByb2plY3RuYW1lIiwgc291cmNlID0gInByb2plY3ROYW1lIikKICBATWFwcGluZyh0YXJnZXQgPSAidGVybVByb2plY3R1dWlkIiwgc291cmNlID0gInByb2plY3RJZCIpCiAgQE1hcHBpbmcodGFyZ2V0ID0gImJmYnVzSW5jdWJ1dWlkIiwgc291cmNlID0gImluY3ViYXRvclV1aWQiKQogIEBNYXBwaW5nKHRhcmdldCA9ICJiZmJ1c0luY3VibmFtZSIsIHNvdXJjZSA9ICJpbmN1YmF0b3IiKQogIEBNYXBwaW5nKHRhcmdldCA9ICJiZmJ1c1V1aWQiLCBzb3VyY2UgPSAiaW5jdWFidG9yQnVzaW5lc3NVdWlkIikKICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJ1c2luZXNzVXVpZCIsIHNvdXJjZSA9ICJidXNpbmVzc1V1aWQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJ1c2luZXNzQ3VzdXVpZCIsIHNvdXJjZSA9ICJjdXN0b21VdWlkIikKICBATWFwcGluZyh0YXJnZXQgPSAiYnN6YkJ1c2luZXNzLmJ1c2luZXNzQ3VzbmFtZSIsIHNvdXJjZSA9ICJjdXN0b20iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldFBheWFibGVVdWlkKCkgewogICAgcmV0dXJuIHBheWFibGVVdWlkOwogIH0KCiAgcHVibGljIHZvaWQgc2V0UGF5YWJsZVV1aWQoU3RyaW5nIHBheWFibGVVdWlkKSB7CiAgICB0aGlzLnBheWFibGVVdWlkID0gcGF5YWJsZVV1aWQ7CiAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">55qE6aG26aG26aG26aG2Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set keep-english-in-normal</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -438,7 +449,6 @@
         <entry>action Find</entry>
         <entry>action Replace</entry>
         <entry>action HideAllWindows</entry>
-        <entry>action Generate</entry>
         <entry>action GotoDeclaration</entry>
         <entry>set options</entry>
         <entry>actionlist</entry>
@@ -447,10 +457,11 @@
         <entry>action HighlightUsagesInFile</entry>
         <entry>action GotoNextError</entry>
         <entry>action Maven.Reimport</entry>
-        <entry>action GotoClass</entry>
-        <entry>action ReformatCode</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>set keep-english-in-normal</entry>
+        <entry>action Generate</entry>
+        <entry>action GotoClass</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />

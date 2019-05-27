@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/bcclub/server/src/main/java/com/bszb/bcclub/service/FundRecordService.java" timestamp="1532100564019">
@@ -31,6 +31,7 @@
       <file name="/a.dummy" timestamp="1558952034280">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubAddressController.java" timestamp="1558960751940" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/webapp/eazer/bszb/custom/invoice/grid/invoice_list_check.html" timestamp="1533198474301">
         <mark key="[" line="72" column="86" />
         <mark key="]" line="72" column="86" />
@@ -338,7 +339,7 @@
         <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>ibszbbusinesscostrecordservice</text>
+        <text>incubatoruuid</text>
       </register>
       <register name="0" type="4">
         <text>TERMINATION</text>
@@ -374,13 +375,13 @@
         <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>actionlist</text>
       </register>
     </registers>
     <search>
-      <last-search>ibszbbusinesscostrecordservice</last-search>
+      <last-search>incubatoruuid</last-search>
       <last-offset />
-      <last-pattern>ibszbbusinesscostrecordservice</last-pattern>
+      <last-pattern>incubatoruuid</last-pattern>
       <last-replace>BszbIchapterapp</last-replace>
       <last-substitute>BszbPayment</last-substitute>
       <last-dir>1</last-dir>
@@ -388,7 +389,6 @@
     </search>
     <history>
       <history-search>
-        <entry>(.*)</entry>
         <entry encoding="base64">XDwzMDBcPg==</entry>
         <entry encoding="base64">XDxhbGl5dW5cPg==</entry>
         <entry>gson</entry>
@@ -408,6 +408,7 @@
         <entry>business_uuid</entry>
         <entry encoding="base64">XDxJQnN6YkJ1c2luZXNzQ29zdFJlY29yZFNlcnZpY2VcPg==</entry>
         <entry>ibszbbusinesscostrecordservice</entry>
+        <entry>incubatoruuid</entry>
       </history-search>
       <history-cmd>
         <entry>action Find</entry>
@@ -426,10 +427,10 @@
         <entry>action GotoClass</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
-        <entry>actionlist</entry>
+        <entry>action FindInPath</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action StringManipulation.EditorPopupMenu</entry>
-        <entry>action FindInPath</entry>
+        <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />

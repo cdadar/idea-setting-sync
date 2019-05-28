@@ -16,10 +16,10 @@
         <mark key="^" line="10" column="26" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/common/dao/mapper/IBszbBusinessMapper.xml" timestamp="1558964107208">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="594" column="14" />
-        <mark key="]" line="594" column="44" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/common/dao/mapper/IBszbBusinessMapper.xml" timestamp="1559011193103">
+        <mark key="'" line="603" column="0" />
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="71" />
         <mark key="^" line="599" column="43" />
         <mark key="." line="594" column="14" />
       </file>
@@ -102,9 +102,10 @@
         <mark key="^" line="264" column="17" />
         <mark key="." line="264" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/BszbTermination.java" timestamp="1558969095611">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/BszbTermination.java" timestamp="1559011326583">
         <mark key="'" line="25" column="6" />
         <mark key="[" line="296" column="0" />
+        <mark key="m" line="299" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/model/dto/ContractApplyAssignationDTO.java" timestamp="1536912824078">
         <mark key="[" line="24" column="24" />
@@ -151,13 +152,13 @@
         <mark key="." line="409" column="52" />
         <mark key="^" line="409" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" timestamp="1559009225950">
-        <mark key="'" line="525" column="19" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" timestamp="1559009879914">
+        <mark key="'" line="45" column="43" />
         <mark key="x" line="556" column="3" />
-        <mark key="[" line="45" column="22" />
-        <mark key="]" line="45" column="21" />
-        <mark key="." line="45" column="21" />
-        <mark key="^" line="45" column="21" />
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="13" />
+        <mark key="." line="45" column="13" />
+        <mark key="^" line="45" column="13" />
       </file>
       <file name="/bszb.core_account [bszb@120.26.120.234]" timestamp="1558963358904">
         <mark key="[" line="0" column="0" />
@@ -174,12 +175,12 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" timestamp="1558970462805">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" timestamp="1559011442792">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="690" column="17" />
-        <mark key="]" line="690" column="37" />
-        <mark key="." line="690" column="37" />
-        <mark key="^" line="690" column="37" />
+        <mark key="[" line="489" column="60" />
+        <mark key="]" line="489" column="5" />
+        <mark key="." line="489" column="5" />
+        <mark key="^" line="489" column="5" />
         <mark key="o" line="486" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/workflow.http" timestamp="1542005502986">
@@ -231,7 +232,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558970674451">
+      <file name="/Dummy.txt" timestamp="1559010633527">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -294,6 +295,12 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" timestamp="1559011284772">
+        <mark key="[" line="296" column="49" />
+        <mark key="]" line="296" column="48" />
+        <mark key="^" line="296" column="48" />
+        <mark key="." line="296" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/base/config/applicationContext-base-new.xml" timestamp="1558966365007">
         <mark key="[" line="242" column="9" />
       </file>
@@ -321,10 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="48" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
-      <jump line="131" column="24" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/IBszbTerminationService.java" />
-      <jump line="152" column="17" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
       <jump line="172" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
       <jump line="40" column="52" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
@@ -421,21 +424,37 @@
       <jump line="423" column="44" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
       <jump line="617" column="24" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
       <jump line="525" column="19" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="42" column="58" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="45" column="43" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="594" column="50" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/common/dao/mapper/IBszbBusinessMapper.xml" />
+      <jump line="603" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/common/dao/mapper/IBszbBusinessMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>2B2363DEDA654269931179F9837804EB</text>
       </register>
+      <register name="*" type="4">
+        <text>&quot;&quot;</text>
+      </register>
       <register name="-" type="4">
-        <text>instanceActionFinished</text>
+        <text>ter</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiZmJ1c0luY3VidXVpZFw+</text>
+        <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>and BUSINESS_STATUS = 3</text>
+        <text>com.eazer.bszb.common.dao.mapper.IBszbBusinessMapper&quot;</text>
       </register>
       <register name="1" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text>doingConfirm</text>
+      </register>
+      <register name="3" type="4">
         <text>{
     Cnd cnd = new Cnd();
     cnd.andEquals(MyUtils.mapperColName(&quot;bb.booksCompuuid&quot;), &quot;bfbusIncubuuid&quot;);
@@ -445,41 +464,32 @@
     double doCountOut =
         (Double) this.getMyB</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gdGhpcy5nZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLnNldFRlcm1TdGF0dXMoIjEiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLnNldFRlcm1TdGF0dXMoIjEiKTsK</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gdGhpcy5nZXQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG1vZGVsLnNldFRlcm1TdGF0dXMoIjEiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQnN6YlBheWFibGUgYnN6YlBheWFibGUgPSBuZXcgQnN6YlBheWFibGUoKTsK</text>
+        <text encoding="base64">ICAgIG1vZGVsLnNldFRlcm1TdGF0dXMoIjEiKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiZmJ1c0luY3VidXVpZFw+</last-search>
+      <last-search encoding="base64">XDxwcml2YXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiZmJ1c0luY3VidXVpZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcml2YXRlXD4=</last-pattern>
       <last-replace>BszbIchapterapp</last-replace>
       <last-substitute encoding="base64">XDxjcm9yZ1BwTmF0dXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -487,9 +497,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDdXN0b21Qcm90ZWN0TGlzdFw+</entry>
-        <entry>^.*by\schens</entry>
-        <entry>.*by\schens</entry>
         <entry>g</entry>
         <entry>BszbPayment</entry>
         <entry encoding="base64">XDx3b3JrZmxvd1w+</entry>
@@ -507,28 +514,31 @@
         <entry encoding="base64">XDxjcm9yZ191bmlkXD4=</entry>
         <entry encoding="base64">XDxjcm9yZ1BwTmF0dXJlXD4=</entry>
         <entry encoding="base64">XDxiZmJ1c0luY3VidXVpZFw+</entry>
+        <entry encoding="base64">XDxJQnN6YkJ1c2luZXNzU2VydmljZVw+</entry>
+        <entry>ibszbbusinessservice</entry>
+        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action MethodUp</entry>
-        <entry>action ToggleLineBreakpoint</entry>
-        <entry>action GotoNextError</entry>
-        <entry>action Back</entry>
-        <entry>action TypeHierarchy</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action CopyReference</entry>
         <entry>action ShowUsages</entry>
         <entry>action CallHierarchy</entry>
         <entry>action MethodHierarchy</entry>
-        <entry>action GotoImplementation</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action FindInPath</entry>
         <entry>action MethodDown</entry>
-        <entry>action GotoFile</entry>
-        <entry>sp</entry>
-        <entry>vsp</entry>
         <entry>599_14</entry>
         <entry>action Replace</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action Find</entry>
+        <entry>vsp</entry>
+        <entry>action HideAllWindows</entry>
+        <entry>action AceAction</entry>
+        <entry>vs</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>sp</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -564,7 +574,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">

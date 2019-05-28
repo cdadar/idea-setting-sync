@@ -151,10 +151,13 @@
         <mark key="." line="409" column="52" />
         <mark key="^" line="409" column="51" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/4.3.0.Final/hibernate-validator-4.3.0.Final-sources.jar!/org/hibernate/validator/HibernateValidator.java" timestamp="1558967103516" />
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" timestamp="1558970908013">
-        <mark key="[" line="315" column="34" />
-        <mark key="]" line="315" column="68" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" timestamp="1559009225950">
+        <mark key="'" line="525" column="19" />
+        <mark key="x" line="556" column="3" />
+        <mark key="[" line="45" column="22" />
+        <mark key="]" line="45" column="21" />
+        <mark key="." line="45" column="21" />
+        <mark key="^" line="45" column="21" />
       </file>
       <file name="/bszb.core_account [bszb@120.26.120.234]" timestamp="1558963358904">
         <mark key="[" line="0" column="0" />
@@ -252,7 +255,6 @@
       <file name="/bszb.bszb_termination [bszb@120.26.120.234]" timestamp="1558949144345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/wf/service/BaseWfInstanceHookService.java" timestamp="1558970485814" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/common/service/impl/BszbBusinessServiceImpl.java" timestamp="1558968621174">
         <mark key="[" line="146" column="25" />
         <mark key="]" line="146" column="25" />
@@ -319,26 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="110" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="106" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="105" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="100" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="99" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="96" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="95" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="84" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="83" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="73" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="62" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="51" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="18" column="86" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="118" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/action/BszbDataborrowappAction.java" />
-      <jump line="49" column="3" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/common/model/Region.java" />
-      <jump line="70" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
       <jump line="137" column="48" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
       <jump line="131" column="24" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/IBszbTerminationService.java" />
       <jump line="152" column="17" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessTerminationController.java" />
@@ -419,6 +401,26 @@
       <jump line="425" column="25" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" />
       <jump line="417" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" />
+      <jump line="386" column="14" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="626" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="625" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="610" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="609" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="592" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="605" column="28" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="597" column="3" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="582" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="598" column="2" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="614" column="3" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="627" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="601" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="585" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="569" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="567" column="62" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="457" column="44" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="423" column="44" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="617" column="24" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
+      <jump line="525" column="19" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -428,49 +430,56 @@
         <text>instanceActionFinished</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcm9yZ1BwTmF0dXJlXD4=</text>
+        <text encoding="base64">XDxiZmJ1c0luY3VidXVpZFw+</text>
       </register>
       <register name="0" type="4">
         <text>and BUSINESS_STATUS = 3</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>{
+    Cnd cnd = new Cnd();
+    cnd.andEquals(MyUtils.mapperColName(&quot;bb.booksCompuuid&quot;), &quot;bfbusIncubuuid&quot;);
+    model.getStrMap().put(&quot;incomeTarget&quot;, &quot;1&quot;);
+    cnd.andEquals(MyUtils.mapperColName(&quot;aa.incomeTarget&quot;), &quot;strMap.incomeTarget&quot;);
+    model.setCondition(cnd);
+    double doCountOut =
+        (Double) this.getMyB</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gdGhpcy5nZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLnNldFRlcm1TdGF0dXMoIjEiKTsK</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gdGhpcy5nZXQoKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIG1vZGVsLnNldFRlcm1TdGF0dXMoIjEiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG1vZGVsLnNldFRlcm1TdGF0dXMoIjEiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQnN6YlBheWFibGUgYnN6YlBheWFibGUgPSBuZXcgQnN6YlBheWFibGUoKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQnN6YlBheWFibGUgYnN6YlBheWFibGUgPSBuZXcgQnN6YlBheWFibGUoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcm9yZ1BwTmF0dXJlXD4=</last-search>
+      <last-search encoding="base64">XDxiZmJ1c0luY3VidXVpZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcm9yZ1BwTmF0dXJlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiZmJ1c0luY3VidXVpZFw+</last-pattern>
       <last-replace>BszbIchapterapp</last-replace>
       <last-substitute encoding="base64">XDxjcm9yZ1BwTmF0dXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -478,7 +487,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gson</entry>
         <entry encoding="base64">XDxnZXRDdXN0b21Qcm90ZWN0TGlzdFw+</entry>
         <entry>^.*by\schens</entry>
         <entry>.*by\schens</entry>
@@ -498,20 +506,14 @@
         <entry>incubatoruuid</entry>
         <entry encoding="base64">XDxjcm9yZ191bmlkXD4=</entry>
         <entry encoding="base64">XDxjcm9yZ1BwTmF0dXJlXD4=</entry>
+        <entry encoding="base64">XDxiZmJ1c0luY3VidXVpZFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action RecentFiles</entry>
-        <entry>action StepOver</entry>
-        <entry>action Resume</entry>
-        <entry>action MethodDown</entry>
-        <entry>action Find</entry>
-        <entry>action ReformatCode</entry>
         <entry>action MethodUp</entry>
         <entry>action ToggleLineBreakpoint</entry>
         <entry>action GotoNextError</entry>
         <entry>action Back</entry>
         <entry>action TypeHierarchy</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action CopyReference</entry>
         <entry>action ShowUsages</entry>
@@ -520,6 +522,13 @@
         <entry>action GotoImplementation</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action FindInPath</entry>
+        <entry>action MethodDown</entry>
+        <entry>action GotoFile</entry>
+        <entry>sp</entry>
+        <entry>vsp</entry>
+        <entry>599_14</entry>
+        <entry>action Replace</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -7,6 +7,9 @@
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="Toolkit.GotoService">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>

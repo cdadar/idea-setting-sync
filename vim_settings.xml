@@ -80,6 +80,12 @@
         <mark key="^" line="32" column="7" />
         <mark key="." line="32" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/custom.http" timestamp="1559024242048">
+        <mark key="[" line="25" column="106" />
+        <mark key="]" line="25" column="106" />
+        <mark key="^" line="25" column="137" />
+        <mark key="." line="25" column="106" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/AddressVO.java" timestamp="1558942328600">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="17" />
@@ -91,14 +97,6 @@
         <mark key="]" line="264" column="17" />
         <mark key="^" line="264" column="17" />
         <mark key="." line="264" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/BszbTermination.java" timestamp="1559012484482">
-        <mark key="'" line="25" column="6" />
-        <mark key="[" line="297" column="42" />
-        <mark key="m" line="299" column="47" />
-        <mark key="]" line="297" column="41" />
-        <mark key="^" line="297" column="41" />
-        <mark key="." line="297" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/model/dto/ContractApplyAssignationDTO.java" timestamp="1536912824078">
         <mark key="[" line="24" column="24" />
@@ -223,11 +221,11 @@
         <mark key="^" line="164" column="0" />
         <mark key="." line="164" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1559015506774">
+      <file name="/dummy.sql" timestamp="1559024361086">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="46" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="14" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1559015349576">
         <mark key="[" line="0" column="0" />
@@ -300,11 +298,22 @@
         <mark key="." line="325" column="59" />
         <mark key="^" line="325" column="59" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_9.sql" timestamp="1559024328514">
+        <mark key="'" line="26" column="61" />
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="21" />
+        <mark key="^" line="26" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/wf/model/WfInstanceActivity.java" timestamp="1540546464150">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
         <mark key="^" line="18" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubCustomPayableController.java" timestamp="1559024113926">
+        <mark key="[" line="62" column="32" />
+        <mark key="]" line="62" column="74" />
       </file>
       <file name="/fragment.java" timestamp="1559015065467">
         <mark key="[" line="0" column="0" />
@@ -320,7 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
       <jump line="139" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
       <jump line="198" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbTerminationMapper.xml" />
@@ -420,6 +428,7 @@
       <jump line="29" column="6" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" />
       <jump line="45" column="12" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" />
+      <jump line="26" column="61" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_9.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -429,15 +438,24 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>extended</text>
+        <text>2E444DB2FCFC421E84DE845CC574B6B6</text>
       </register>
       <register name="/" type="4">
         <text>work</text>
       </register>
       <register name="0" type="4">
-        <text>select `bszb`.`aa`.`PAY_UNID` AS `PAY_UNID`,`bszb`.`aa`.`PAY_UUID` AS `PAY_UUID`,`bszb`.`aa`.`PAY_CDATE` AS `PAY_CDATE`,`bszb`.`aa`.`PAY_UDATE` AS `PAY_UDATE`,`bszb`.`aa`.`PAY_STATUS` AS `PAY_STATUS`,`bszb`.`aa`.`PAY_CUSR` AS `PAY_CUSR`,`bszb`.`aa`.`PAY_CUSRNAME` AS `PAY_CUSRNAME`,`bszb`.`aa`.`PAY_BUSINESSUUID` AS `PAY_BUSINESSUUID`,`bszb`.`aa`.`PAY_DATE` AS `PAY_DATE`,`bszb`.`aa`.`PAY_PRICE` AS `PAY_PRICE`,`bszb`.`aa`.`PAY_CONFIRM` AS `PAY_CONFIRM`,`bszb`.`aa`.`PAY_REMARK` AS `PAY_REMARK`,`bszb`.`aa`.`PAY_BEGIN_DATE` AS `PAY_BEGIN_DATE`,`bszb`.`aa`.`PAY_END_DATE` AS `PAY_END_DATE`,`bszb`.`aa`.`PAY_TYPE` AS `PAY_TYPE`,`bszb`.`aa`.`PAY_INDEX` AS `PAY_INDEX`,`bszb`.`aa`.`PAY_PAYUUID` AS `PAY_PAYUUID`,`bszb`.`aa`.`PAY_TURN_UUID` AS `PAY_TURN_UUID`,`bszb`.`aa`.`PAY_IS_TERM` AS `PAY_IS_TERM` from `bszb`.`bszb_payable` `aa` join `bszb`.`bszb_fuhuaqi_business` `cc` left join `bszb`.`bszb_payable` `bb` on(((`bszb`.`bb`.`PAY_PAYUUID` = `bszb`.`aa`.`PAY_UUID`) and (`bszb`.`aa`.`PAY_TYPE` in (3,4)))) where (`bszb`.`aa`.`PAY_BUSINESSUUID` = `bszb`.`cc`.`BFBUS_BUSUUID`) group by `bszb`.`aa`.`PAY_UUID` order by `bszb`.`aa`.`PAY_DATE`</text>
+        <text>92D8BF20F41C4BD0A5B014AF0001970C</text>
       </register>
       <register name="1" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text>92D8BF20F41C4BD0A5B014AF0001970C</text>
+      </register>
+      <register name="3" type="4">
         <text>select `bszb`.`aa`.`PAY_UNID`         AS `PAY_UNID`,
        `bszb`.`aa`.`PAY_UUID`         AS `PAY_UUID`,
        `bszb`.`aa`.`PAY_CDATE`        AS `PAY_CDATE`,
@@ -466,42 +484,26 @@ where (`bszb`.`aa`.`PAY_BUSINESSUUID` = `bszb`.`cc`.`BFBUS_BUSUUID`)
 group by `bszb`.`aa`.`PAY_UUID`
 order by `bszb`.`aa`.`PAY_DATE`</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aGF2aW5nIGFhLlBBWV9QUklDRSA+IGNvYWxlc2NlKHN1bShiYi5QQVlfUFJJQ0UpLDApCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBwdWJsaWMgUGF5YWJsZUluZm9WTygpIHt9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgQE1hcHBpbmcodGFyZ2V0ID0gIiIpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>doingConfirm</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-    Cnd cnd = new Cnd();
-    cnd.andEquals(MyUtils.mapperColName(&quot;bb.booksCompuuid&quot;), &quot;bfbusIncubuuid&quot;);
-    model.getStrMap().put(&quot;incomeTarget&quot;, &quot;1&quot;);
-    cnd.andEquals(MyUtils.mapperColName(&quot;aa.incomeTarget&quot;), &quot;strMap.incomeTarget&quot;);
-    model.setCondition(cnd);
-    double doCountOut =
-        (Double) this.getMyB</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name=":" type="4">
-        <text>action FindInPath</text>
+        <text>action Replace</text>
       </register>
     </registers>
     <search>
@@ -537,7 +539,6 @@ order by `bszb`.`aa`.`PAY_DATE`</text>
         <entry>work</entry>
       </history-search>
       <history-cmd>
-        <entry>action $EditorTranslateAction</entry>
         <entry>action CloseAllEditorsButActive</entry>
         <entry>only</entry>
         <entry encoding="base64">YWN0aW9uIFJlc3RmdWxUb29sa2l0LlJlc3RNZXRob2QuRWRpdG9yUG9wdXBNZW51IA==</entry>
@@ -546,7 +547,6 @@ order by `bszb`.`aa`.`PAY_DATE`</text>
         <entry encoding="base64">aGVscCA8Qy1cPg==</entry>
         <entry>action ReformatCode</entry>
         <entry>helpgrep ctrl+\</entry>
-        <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action CompileDirty</entry>
         <entry>action Find</entry>
@@ -557,6 +557,8 @@ order by `bszb`.`aa`.`PAY_DATE`</text>
         <entry>action ViewBreakpoints</entry>
         <entry>action GotoImplementation</entry>
         <entry>action FindInPath</entry>
+        <entry>action GotoFile</entry>
+        <entry>action Replace</entry>
       </history-cmd>
       <history-expr />
       <history-input />

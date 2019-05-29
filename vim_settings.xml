@@ -31,6 +31,9 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayableDetailVO.java" timestamp="1559098707044">
+        <mark key="[" line="2" column="3" />
+      </file>
       <file name="/a.dummy" timestamp="1559036686760">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,11 +67,11 @@
         <mark key="^" line="393" column="6" />
         <mark key="." line="393" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" timestamp="1559096867331">
-        <mark key="[" line="184" column="95" />
-        <mark key="]" line="177" column="29" />
-        <mark key="^" line="177" column="29" />
-        <mark key="." line="177" column="29" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" timestamp="1559097968313">
+        <mark key="[" line="185" column="3" />
+        <mark key="]" line="177" column="9" />
+        <mark key="^" line="177" column="9" />
+        <mark key="." line="177" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/pub/config/eazer-struts-extend.xml" timestamp="1558950614725">
         <mark key="[" line="516" column="13" />
@@ -100,7 +103,7 @@
         <mark key="." line="12" column="72" />
         <mark key="^" line="12" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayableWithAllVO.java" timestamp="1559096813005">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayableWithAllVO.java" timestamp="1559098663831">
         <mark key="]" line="10" column="24" />
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
@@ -151,11 +154,6 @@
         <mark key="]" line="229" column="26" />
         <mark key="." line="229" column="26" />
         <mark key="^" line="229" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbPayableMapper.xml" timestamp="1559046606025">
-        <mark key="[" line="529" column="75" />
-        <mark key="]" line="529" column="97" />
-        <mark key="." line="530" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbFuhuaqiBusinessConverter.java" timestamp="1559050307780">
         <mark key="[" line="36" column="48" />

@@ -274,6 +274,12 @@
         <mark key="^" line="34" column="25" />
         <mark key="." line="34" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/dto/IndepositLiquidateDTO.java" timestamp="1559132126814">
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbTerminationConverter.java" timestamp="1559130248293">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="74" column="50" />
@@ -304,7 +310,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559127790099">
+      <file name="/Dummy.txt" timestamp="1559132146117">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -323,11 +329,11 @@
         <mark key="^" line="78" column="5" />
         <mark key="." line="78" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/target/generated-sources/annotations/com/eazer/bszb/incubator/model/converter/BszbTerminationConverterImpl.java" timestamp="1559130347840">
-        <mark key="[" line="218" column="9" />
-        <mark key="]" line="218" column="8" />
-        <mark key="^" line="218" column="8" />
-        <mark key="." line="218" column="8" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbIndepositLiquidateConverter.java" timestamp="1559131647607">
+        <mark key="[" line="26" column="70" />
+        <mark key="]" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+        <mark key="^" line="26" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubBusinStationRelateServiceImpl.java" timestamp="1559031295170">
         <mark key="[" line="122" column="14" />
@@ -536,46 +542,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>turn_new_payable_uuid</text>
       </register>
-      <register name="0" type="4">
-        <text>getBaseOne</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBATm90TnVsbChtZXNzYWdlID0gIuWFs+iBlOS7mOasvue6puWumuS4jeiDveS4uuepuiEiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICA8Y29sbGVjdGlvbiBwcm9wZXJ0eT0iYnN6YlBheWFibGVzIiBvZlR5cGU9IkJzemJQYXlhYmxlIiBjb2x1bW49ImJ1c2luZXNzVXVpZCIKICAgICAgc2VsZWN0PSJjb20uZWF6ZXIuYnN6Yi5pbmN1YmF0b3IuZGFvLm1hcHBlci5JQnN6YlBheWFibGVNYXBwZXIuZmluZEFsbEJ5QnVzaW5lc3NVdWlkIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgQE1hcHBpbmcodGFyZ2V0ID0gImJ1c2luZXNzVXVpZCIsIHNvdXJjZSA9ICIiKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICA8YXNzb2NpYXRpb24gcHJvcGVydHk9ImJzemJJbmRlcG9zaXRCYWNrIiBjb2x1bW49ImJ1c2luZXNzSWJhY2t1dWlkIgogICAgICBzZWxlY3Q9ImNvbS5lYXplci5ic3piLmluY3ViYXRvci5kYW8ubWFwcGVyLklCc3piSW5kZXBvc2l0QmFja01hcHBlci5zZWxlY3RJbmRlcG9zaXRCYWNrQnl1dWlkIi8+Cg==</text>
+        <text encoding="base64">CiAgICA8Y29sbGVjdGlvbiBwcm9wZXJ0eT0iYnN6YlBheWFibGVzIiBvZlR5cGU9IkJzemJQYXlhYmxlIiBjb2x1bW49ImJ1c2luZXNzVXVpZCIKICAgICAgc2VsZWN0PSJjb20uZWF6ZXIuYnN6Yi5pbmN1YmF0b3IuZGFvLm1hcHBlci5JQnN6YlBheWFibGVNYXBwZXIuZmluZEFsbEJ5QnVzaW5lc3NVdWlkIi8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICA8YXNzb2NpYXRpb24gcHJvcGVydHk9ImJzemJJbmRlcG9zaXRMaXF1aWRhdGUiIGNvbHVtbj0iYnVzaW5lc3NVdWlkIgogICAgICBzZWxlY3Q9ImNvbS5lYXplci5ic3piLmluY3ViYXRvci5kYW8ubWFwcGVyLklCc3piSW5kZXBvc2l0TGlxdWlkYXRlTWFwcGVyLnNlbGVjdEluZGVwb3NpdExpcXVpZGF0ZUJ5QnVzdXVpZCIvPgo=</text>
+        <text encoding="base64">CiAgICA8YXNzb2NpYXRpb24gcHJvcGVydHk9ImJzemJJbmRlcG9zaXRCYWNrIiBjb2x1bW49ImJ1c2luZXNzSWJhY2t1dWlkIgogICAgICBzZWxlY3Q9ImNvbS5lYXplci5ic3piLmluY3ViYXRvci5kYW8ubWFwcGVyLklCc3piSW5kZXBvc2l0QmFja01hcHBlci5zZWxlY3RJbmRlcG9zaXRCYWNrQnl1dWlkIi8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxhc3NvY2lhdGlvbiBwcm9wZXJ0eT0iYnN6YlRlcm1pbmF0aW9uIiBjb2x1bW49ImJ1c2luZXNzVXVpZCIKICAgICAgc2VsZWN0PSJjb20uZWF6ZXIuYnN6Yi5pbmN1YmF0b3IuZGFvLm1hcHBlci5JQnN6YlRlcm1pbmF0aW9uTWFwcGVyLnNlbGVjdFRlcm1pbmF0aW9uQnlCdXN1dWlkIi8+Cg==</text>
+        <text encoding="base64">CiAgICA8YXNzb2NpYXRpb24gcHJvcGVydHk9ImJzemJJbmRlcG9zaXRMaXF1aWRhdGUiIGNvbHVtbj0iYnVzaW5lc3NVdWlkIgogICAgICBzZWxlY3Q9ImNvbS5lYXplci5ic3piLmluY3ViYXRvci5kYW8ubWFwcGVyLklCc3piSW5kZXBvc2l0TGlxdWlkYXRlTWFwcGVyLnNlbGVjdEluZGVwb3NpdExpcXVpZGF0ZUJ5QnVzdXVpZCIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS3ku6Xml6flkIjlkIzmn6Xmib7nmoTovaznu5PorrDlvZUtLT4KICAgIDxhc3NvY2lhdGlvbiBwcm9wZXJ0eT0iYnN6Yk9sZEluZGVwb3NpdFR1cm5zIiBjb2x1bW49ImJ1c2luZXNzVXVpZCIKICAgICAgc2VsZWN0PSJjb20uZWF6ZXIuYnN6Yi5pbmN1YmF0b3IuZGFvLm1hcHBlci5JQnN6YkluZGVwb3NpdFR1cm5NYXBwZXIuc2VsZWN0SW5kZXBvc2l0VHVybkJ5QnVzdXVpZCIvPgo=</text>
+        <text encoding="base64">ICAgIDxhc3NvY2lhdGlvbiBwcm9wZXJ0eT0iYnN6YlRlcm1pbmF0aW9uIiBjb2x1bW49ImJ1c2luZXNzVXVpZCIKICAgICAgc2VsZWN0PSJjb20uZWF6ZXIuYnN6Yi5pbmN1YmF0b3IuZGFvLm1hcHBlci5JQnN6YlRlcm1pbmF0aW9uTWFwcGVyLnNlbGVjdFRlcm1pbmF0aW9uQnlCdXN1dWlkIi8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaW50ZXJmYWNlIFRlcm1pbmF0aW9uIHt9CgogIHB1YmxpYyBpbnRlcmZhY2UgU2V0dGxlZCB7fQoKICBwdWJsaWMgaW50ZXJmYWNlIE9yZWdpc3RhcHAge30KCg==</text>
+        <text encoding="base64">ICAgIDwhLS3ku6Xml6flkIjlkIzmn6Xmib7nmoTovaznu5PorrDlvZUtLT4KICAgIDxhc3NvY2lhdGlvbiBwcm9wZXJ0eT0iYnN6Yk9sZEluZGVwb3NpdFR1cm5zIiBjb2x1bW49ImJ1c2luZXNzVXVpZCIKICAgICAgc2VsZWN0PSJjb20uZWF6ZXIuYnN6Yi5pbmN1YmF0b3IuZGFvLm1hcHBlci5JQnN6YkluZGVwb3NpdFR1cm5NYXBwZXIuc2VsZWN0SW5kZXBvc2l0VHVybkJ5QnVzdXVpZCIvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAUGF0dGVybihyZWdleHAgPSAiM3w0IiwgZ3JvdXBzID0gVGVybWluYXRpb24uY2xhc3MsIG1lc3NhZ2UgPSAi5LuY5qy+57qm5a6a57G75Z6L5qC85byP5LiN5q2j56GuIikKICBAUGF0dGVybihyZWdleHAgPSAiMHwxIiwgZ3JvdXBzID0gU2V0dGxlZC5jbGFzcywgbWVzc2FnZSA9ICLku5jmrL7nuqblrprnsbvlnovmoLzlvI/kuI3mraPnoa4iKQogIEBQYXR0ZXJuKHJlZ2V4cCA9ICIwfDIiLCBncm91cHMgPSBPcmVnaXN0YXBwLmNsYXNzLCBtZXNzYWdlID0gIuS7mOasvue6puWumuexu+Wei+agvOW8j+S4jeato+ehriIpCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgaW50ZXJmYWNlIFRlcm1pbmF0aW9uIHt9CgogIHB1YmxpYyBpbnRlcmZhY2UgU2V0dGxlZCB7fQoKICBwdWJsaWMgaW50ZXJmYWNlIE9yZWdpc3RhcHAge30KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgTGlzdDxQYXlhYmxlVGVybURUTz4gZ2V0UGF5YWJsZXMoKSB7CiAgICByZXR1cm4gdGhpcy5wYXlhYmxlczsKICB9CgogIHB1YmxpYyB2b2lkIHNldFBheWFibGVzKExpc3Q8UGF5YWJsZVRlcm1EVE8+IHBheWFibGVzKSB7CiAgICB0aGlzLnBheWFibGVzID0gcGF5YWJsZXM7CiAgfQoK</text>
+        <text encoding="base64">ICBAUGF0dGVybihyZWdleHAgPSAiM3w0IiwgZ3JvdXBzID0gVGVybWluYXRpb24uY2xhc3MsIG1lc3NhZ2UgPSAi5LuY5qy+57qm5a6a57G75Z6L5qC85byP5LiN5q2j56GuIikKICBAUGF0dGVybihyZWdleHAgPSAiMHwxIiwgZ3JvdXBzID0gU2V0dGxlZC5jbGFzcywgbWVzc2FnZSA9ICLku5jmrL7nuqblrprnsbvlnovmoLzlvI/kuI3mraPnoa4iKQogIEBQYXR0ZXJuKHJlZ2V4cCA9ICIwfDIiLCBncm91cHMgPSBPcmVnaXN0YXBwLmNsYXNzLCBtZXNzYWdlID0gIuS7mOasvue6puWumuexu+Wei+agvOW8j+S4jeato+ehriIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBNYXBwaW5nKHRhcmdldCA9ICJ0dXJuIiwgc291cmNlID0gImJzemJJbmRlcG9zaXRUdXJuLiIpLAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgTGlzdDxQYXlhYmxlVGVybURUTz4gZ2V0UGF5YWJsZXMoKSB7CiAgICByZXR1cm4gdGhpcy5wYXlhYmxlczsKICB9CgogIHB1YmxpYyB2b2lkIHNldFBheWFibGVzKExpc3Q8UGF5YWJsZVRlcm1EVE8+IHBheWFibGVzKSB7CiAgICB0aGlzLnBheWFibGVzID0gcGF5YWJsZXM7CiAgfQoK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action Replace</text>
       </register>
     </registers>
     <search>
@@ -611,7 +617,6 @@
         <entry>turn_new_payable_uuid</entry>
       </history-search>
       <history-cmd>
-        <entry>action CloseAllEditorsButActive</entry>
         <entry>action Back</entry>
         <entry>action AceAction</entry>
         <entry>action ShowUsages</entry>
@@ -631,6 +636,7 @@
         <entry>action GotoDeclaration</entry>
         <entry>action CompileDirty</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action Replace</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -2,6 +2,7 @@
   <component name="StringManipulationState">
     <option name="sortSettings">
       <SortSettings>
+        <option name="collatorLanguageTag" value="zh_CN" />
         <option name="preserveLeadingSpaces" value="false" />
       </SortSettings>
     </option>

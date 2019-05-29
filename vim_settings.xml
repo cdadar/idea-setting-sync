@@ -113,11 +113,6 @@
         <mark key="." line="12" column="72" />
         <mark key="^" line="12" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayableWithAllVO.java" timestamp="1559098663831">
-        <mark key="]" line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/TerminationInfoVO.java" timestamp="1559115754663">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
@@ -147,6 +142,10 @@
         <mark key="]" line="264" column="17" />
         <mark key="^" line="264" column="17" />
         <mark key="." line="264" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/common/model/BszbBusiness.java" timestamp="1559120734948">
+        <mark key="[" line="89" column="17" />
+        <mark key="]" line="89" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/xxcrm/model/dto/ContractApplyAssignationDTO.java" timestamp="1536912824078">
         <mark key="[" line="24" column="24" />
@@ -215,7 +214,7 @@
         <mark key="." line="15" column="61" />
         <mark key="^" line="58" column="161" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbFuhuaqiSettledMapper.xml" timestamp="1559112806896">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbFuhuaqiSettledMapper.xml" timestamp="1559120618594">
         <mark key="[" line="302" column="50" />
         <mark key="]" line="302" column="75" />
         <mark key="^" line="320" column="9" />
@@ -249,11 +248,11 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" timestamp="1559118880868">
-        <mark key="[" line="441" column="0" />
-        <mark key="]" line="201" column="2" />
-        <mark key="^" line="201" column="2" />
-        <mark key="." line="201" column="2" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" timestamp="1559119241189">
+        <mark key="[" line="988" column="6" />
+        <mark key="]" line="444" column="0" />
+        <mark key="." line="444" column="0" />
+        <mark key="^" line="444" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/OregistappInfoVO.java" timestamp="1559111855767">
         <mark key="[" line="309" column="0" />
@@ -310,7 +309,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559118748279">
+      <file name="/Dummy.txt" timestamp="1559120341132">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="63" />
         <mark key="." line="0" column="21" />
@@ -328,11 +327,6 @@
         <mark key="]" line="78" column="16" />
         <mark key="^" line="78" column="5" />
         <mark key="." line="78" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/IndepositTurnVO.java" timestamp="1559114935407">
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="9" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubBusinStationRelateServiceImpl.java" timestamp="1559031295170">
         <mark key="[" line="122" column="14" />
@@ -371,11 +365,11 @@
         <mark key="." line="37" column="50" />
         <mark key="^" line="33" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbPayableServiceImpl.java" timestamp="1559116405092">
-        <mark key="[" line="189" column="41" />
-        <mark key="]" line="189" column="79" />
-        <mark key="." line="626" column="48" />
-        <mark key="^" line="626" column="48" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbPayableServiceImpl.java" timestamp="1559120314486">
+        <mark key="[" line="600" column="8" />
+        <mark key="]" line="600" column="8" />
+        <mark key="." line="600" column="8" />
+        <mark key="^" line="600" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/tuodao/src/main/java/com/eazer/bszb/service/impl/BszbWageDetailServiceImpl.java" timestamp="1551685183017">
         <mark key="[" line="93" column="12" />
@@ -412,10 +406,10 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiSettledServiceImpl.java" timestamp="1559112792472">
-        <mark key="[" line="398" column="9" />
-        <mark key="]" line="398" column="26" />
-        <mark key="." line="435" column="44" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiSettledServiceImpl.java" timestamp="1559120841172">
+        <mark key="[" line="264" column="17" />
+        <mark key="]" line="264" column="17" />
+        <mark key="." line="264" column="17" />
         <mark key="^" line="435" column="49" />
       </file>
       <file name="/fragment.java" timestamp="1559118406821">
@@ -541,24 +535,30 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>bszbBusiness</text>
       </register>
       <register name="/" type="4">
         <text>turn_new_payable_uuid</text>
       </register>
       <register name="0" type="4">
-        <text>findOneByBusinessUuid</text>
+        <text>businessOrguuid</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBwdWJsaWMgTGlzdDxQYXlhYmxlRGV0YWlsVk8+IGdldFBheWFibGVzKCkgewogICAgcmV0dXJuIHRoaXMucGF5YWJsZXM7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRQYXlhYmxlcyhMaXN0PFBheWFibGVEZXRhaWxWTz4gcGF5YWJsZXMpIHsKICAgIHRoaXMucGF5YWJsZXMgPSBwYXlhYmxlczsKICB9Cgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>{
   &quot;businessUuid&quot;: &quot;3974211E19534A25AA0344AA6958DF13&quot;,
   &quot;beginDate&quot;: 1558963491609,
@@ -592,23 +592,17 @@
   ]
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2by5zZXRTdGF0dXMoKGJ5dGUpIDApOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgdm8uc2V0U3RhdHVzKChieXRlKSAxKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBpZiAocGF5YWJsZS5nZXRMaXF1aWRhdGUoKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICB2by5zZXREYW1hZ2VzKEJpZ0RlY2ltYWwudmFsdWVPZihwYXlhYmxlLmdldExpcXVpZGF0ZSgpLmdldExpcXVpZGF0ZURhbWFnZXMoKSkpOwogICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB2by5zZXREYW1hZ2VzKEJpZ0RlY2ltYWwuWkVSTyk7CiAgICAgICAgICAgICAgfQoK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxjb2xsZWN0aW9uIHByb3BlcnR5PSJjb25maXJtcyIgb2ZUeXBlPSJCc3piSW5jb21lIiBjb2x1bW49InBheVV1aWQiCiAgICAgIHNlbGVjdD0iY29tLmVhemVyLmJzemIuaW5jdWJhdG9yLmRhby5tYXBwZXIuSUJzemJCdXNpbmVzc0Nvc3RSZWNvcmRNYXBwZXIuZmluZEFsbEJ5UGF5YWJsZVV1aWQiLz4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2by5zZXRObygpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgTGlzdDxQYXlhYmxlVk8+IGdldFBheWFibGVzKCkgewogICAgcmV0dXJuIHRoaXMucGF5YWJsZXM7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRQYXlhYmxlcyhMaXN0PFBheWFibGVWTz4gcGF5YWJsZXMpIHsKICAgIHRoaXMucGF5YWJsZXMgPSBwYXlhYmxlczsKICB9Cgo=</text>
+        <text encoding="base64">ICAgIDxjb2xsZWN0aW9uIHByb3BlcnR5PSJjb25maXJtcyIgb2ZUeXBlPSJCc3piSW5jb21lIiBjb2x1bW49InBheVV1aWQiCiAgICAgIHNlbGVjdD0iY29tLmVhemVyLmJzemIuaW5jdWJhdG9yLmRhby5tYXBwZXIuSUJzemJCdXNpbmVzc0Nvc3RSZWNvcmRNYXBwZXIuZmluZEFsbEJ5UGF5YWJsZVV1aWQiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
@@ -621,7 +615,7 @@
       <last-replace>BszbIchapterapp</last-replace>
       <last-substitute encoding="base64">XDxjcm9yZ1BwTmF0dXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -656,16 +650,16 @@
         <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
         <entry>action AceAction</entry>
-        <entry>action GotoNextError</entry>
         <entry>action Back</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action CompileDirty</entry>
-        <entry>action GotoImplementation</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action EvaluateExpression</entry>
         <entry>sp</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action GotoFile</entry>
         <entry>action Find</entry>
       </history-cmd>
       <history-expr />

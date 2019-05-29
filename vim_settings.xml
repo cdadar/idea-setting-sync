@@ -70,10 +70,11 @@
         <mark key="^" line="393" column="6" />
         <mark key="." line="393" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" timestamp="1559101435146">
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="." line="197" column="0" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" timestamp="1559102095726">
+        <mark key="[" line="210" column="25" />
+        <mark key="]" line="210" column="8" />
+        <mark key="." line="210" column="25" />
+        <mark key="^" line="210" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/pub/config/eazer-struts-extend.xml" timestamp="1558950614725">
         <mark key="[" line="516" column="13" />

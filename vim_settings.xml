@@ -24,6 +24,9 @@
         <mark key="." line="72" column="86" />
         <mark key="^" line="65" column="63" />
       </file>
+      <file name="/bszb_custom_invoice [bszb@120.26.120.234]" timestamp="1559282640178">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/model/BszbFundsBook.java" timestamp="1535003036970">
         <mark key="[" line="223" column="4" />
         <mark key="]" line="234" column="0" />
@@ -377,11 +380,11 @@
         <mark key="^" line="147" column="0" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/business.http" timestamp="1559282549727">
-        <mark key="[" line="45" column="132" />
-        <mark key="]" line="45" column="133" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/business.http" timestamp="1559282674845">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
         <mark key="^" line="45" column="164" />
-        <mark key="." line="45" column="133" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/IBszbIncubBusinStationRelateService.java" timestamp="1559223764647">
         <mark key="[" line="59" column="19" />
@@ -663,7 +666,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>2E444DB2FCFC421E84DE845CC574B6Bw6</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>

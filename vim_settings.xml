@@ -755,7 +755,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action TypeHierarchy</text>
+        <text>action XDebugger.MuteBreakpoints</text>
       </register>
     </registers>
     <search>
@@ -791,7 +791,6 @@
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action MethodUp</entry>
         <entry>action MavenRunHelperCleanInstall</entry>
         <entry>actionlist</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -811,6 +810,7 @@
         <entry>action Maven.Reimport</entry>
         <entry>action Replace</entry>
         <entry>action TypeHierarchy</entry>
+        <entry>action XDebugger.MuteBreakpoints</entry>
       </history-cmd>
       <history-expr />
       <history-input />

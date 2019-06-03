@@ -350,7 +350,6 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubStationController.java" timestamp="1559527615853" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/back.http" timestamp="1559214707277">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="455" />
@@ -531,6 +530,9 @@
         <mark key="]" line="244" column="42" />
         <mark key="^" line="244" column="42" />
         <mark key="." line="244" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbIncubStationConverter.java" timestamp="1559529710060">
+        <mark key="[" line="56" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/service/strategy/recoup/RecoupComloaderStrategy.java" timestamp="1531893186000">
         <mark key="[" line="37" column="50" />

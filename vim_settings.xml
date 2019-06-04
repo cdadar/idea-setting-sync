@@ -131,11 +131,11 @@
         <mark key="^" line="51" column="10" />
         <mark key="." line="51" column="131" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" timestamp="1559655060583">
-        <mark key="[" line="545" column="9" />
-        <mark key="]" line="488" column="29" />
-        <mark key="^" line="488" column="29" />
-        <mark key="." line="488" column="29" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" timestamp="1559655801574">
+        <mark key="[" line="907" column="31" />
+        <mark key="]" line="907" column="31" />
+        <mark key="^" line="907" column="31" />
+        <mark key="." line="907" column="31" />
       </file>
       <file name="/a.sql" timestamp="1559652096637">
         <mark key="[" line="0" column="0" />
@@ -339,7 +339,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>model</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCc3piUGF5YWJsZVw+</text>

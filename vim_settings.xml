@@ -131,11 +131,11 @@
         <mark key="^" line="51" column="10" />
         <mark key="." line="51" column="131" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" timestamp="1559652852793">
-        <mark key="[" line="766" column="0" />
-        <mark key="]" line="766" column="0" />
-        <mark key="^" line="772" column="17" />
-        <mark key="." line="766" column="0" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" timestamp="1559655060583">
+        <mark key="[" line="545" column="9" />
+        <mark key="]" line="488" column="29" />
+        <mark key="^" line="488" column="29" />
+        <mark key="." line="488" column="29" />
       </file>
       <file name="/a.sql" timestamp="1559652096637">
         <mark key="[" line="0" column="0" />
@@ -339,7 +339,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>bszb</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCc3piUGF5YWJsZVw+</text>
@@ -378,7 +378,7 @@
         <text encoding="base64">ICAgIDxhc3NvY2lhdGlvbiBwcm9wZXJ0eT0ibGlxdWlkYXRlIiBjb2x1bW49InBheVV1aWQiCiAgICAgIHNlbGVjdD0iY29tLmVhemVyLmJzemIuaW5jdWJhdG9yLmRhby5tYXBwZXIuSUJzemJJbmRlcG9zaXRMaXF1aWRhdGVNYXBwZXIuZmluZE9uZUJ5UGF5VXVpZCIvPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -432,8 +432,8 @@
         <entry>action ViewBreakpoints</entry>
         <entry>action Find</entry>
         <entry>action Back</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />

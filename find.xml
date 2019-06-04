@@ -4,10 +4,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Payable*" />
+    <option name="FILE_MASK" value="*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -20,10 +22,10 @@
     <mask>rec*.html</mask>
     <mask>*.html</mask>
     <mask>*Controller.java</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*Mapper.xml</mask>
-    <mask>*</mask>
+    <mask>*.java</mask>
     <mask>*Payable*</mask>
+    <mask>*</mask>
   </component>
 </application>

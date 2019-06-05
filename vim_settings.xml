@@ -13,6 +13,9 @@
       <file name="/a.dummy" timestamp="1559643862164">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/bszb_custom_invoice [bszb@120.26.120.234]" timestamp="1559700462120">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/target/generated-sources/annotations/com/eazer/bszb/incubator/model/converter/BszbPayableConverterImpl.java" timestamp="1559649787243">
         <mark key="[" line="0" column="0" />
       </file>
@@ -416,7 +419,7 @@
       <last-replace>CustomUuid</last-replace>
       <last-substitute>IncubatorUuid</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>

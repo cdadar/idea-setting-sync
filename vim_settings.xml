@@ -75,6 +75,7 @@
         <mark key="." line="79" column="42" />
         <mark key="^" line="79" column="41" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/bszb/yc-core/1.7/yc-core-1.7.jar!/com/eazer/core/service/impl/CoreGlobalContextCache.class" timestamp="1560149793416" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_15.sql" timestamp="1559636549906">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="22" column="24" />

@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/excepthion/UserTokenException.java" timestamp="1560135090285">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="13" column="1" />
+        <mark key="^" line="13" column="1" />
+        <mark key="." line="13" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubAddressController.java" timestamp="1559738142273">
         <mark key="[" line="130" column="15" />
         <mark key="]" line="130" column="22" />

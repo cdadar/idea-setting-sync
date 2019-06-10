@@ -311,6 +311,12 @@
         <mark key="^" line="760" column="37" />
         <mark key="." line="760" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/profiles/dev/config.properties" timestamp="1560133549024">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+      </file>
       <file name="/fragment.java" timestamp="1559788336223">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -503,7 +509,6 @@
         <entry encoding="base64">XDxJQnN6YkluZGVwb3NpdFR1cm5NYXBwZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action Forward</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action GotoNextError</entry>
         <entry>action Back</entry>
@@ -521,6 +526,7 @@
         <entry>actionlist</entry>
         <entry>action Generate</entry>
         <entry>action Vcs.UpdateProject</entry>
+        <entry>action ReformatCode</entry>
         <entry>action MavenRunHelperCleanInstall</entry>
         <entry>action CompileProject</entry>
       </history-cmd>

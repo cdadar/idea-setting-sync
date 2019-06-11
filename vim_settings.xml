@@ -9,7 +9,6 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayableDetailVO.java" timestamp="1560239660134" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubAddressController.java" timestamp="1559738142273">
         <mark key="[" line="130" column="15" />
         <mark key="]" line="130" column="22" />
@@ -112,7 +111,7 @@
         <mark key="^" line="47" column="19" />
         <mark key="." line="47" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbFuhuaqiBusinessConverter.java" timestamp="1560243831495" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbFuhuaqiBusinessConverter.java" timestamp="1560245842930" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/dao/mapper/IBszbBudgetRecordMapper.xml" timestamp="1560131916028">
         <mark key="[" line="525" column="36" />
         <mark key="]" line="525" column="35" />
@@ -304,7 +303,7 @@
         <mark key="^" line="760" column="37" />
         <mark key="." line="760" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1560241775756">
+      <file name="/fragment.java" timestamp="1560245844065">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="0" />

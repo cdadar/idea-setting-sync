@@ -42,11 +42,11 @@
         <mark key="^" line="26" column="12" />
         <mark key="." line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" timestamp="1560252983409">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" timestamp="1560310534557">
         <mark key="'" line="108" column="7" />
-        <mark key="[" line="280" column="0" />
-        <mark key="]" line="352" column="28" />
-        <mark key="." line="278" column="34" />
+        <mark key="[" line="92" column="43" />
+        <mark key="]" line="92" column="43" />
+        <mark key="." line="92" column="43" />
         <mark key="^" line="278" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbFuhuaqiSettledConverter.java" timestamp="1560151372759">
@@ -240,7 +240,7 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560259918428">
+      <file name="/Dummy.txt" timestamp="1560310542323">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="23" />
@@ -461,7 +461,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>business</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRQcmljZVw+</text>
@@ -500,7 +500,7 @@
         <text encoding="base64">ICAgIGxlZnQgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ViewBreakpoints</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -554,8 +554,8 @@
         <entry>action Find</entry>
         <entry>action RecentFiles</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action ViewBreakpoints</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -296,7 +296,6 @@
         <mark key="^" line="260" column="53" />
         <mark key="." line="243" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/BszbFuhuaqiBusiness.java" timestamp="1560256633494" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubCustomInvoiceController.java" timestamp="1559742267272">
         <mark key="[" line="227" column="34" />
         <mark key="]" line="222" column="19" />
@@ -345,8 +344,8 @@
         <mark key="^" line="760" column="37" />
         <mark key="." line="760" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1560258272661">
-        <mark key="[" line="0" column="47" />
+      <file name="/fragment.java" timestamp="1560303194332">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="25" />
@@ -501,7 +500,7 @@
         <text encoding="base64">ICAgIGxlZnQgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action ViewBreakpoints</text>
       </register>
     </registers>
     <search>
@@ -511,7 +510,7 @@
       <last-replace>cc</last-replace>
       <last-substitute>aa</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -537,7 +536,6 @@
         <entry encoding="base64">XDxzZXRQcmljZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindInPath</entry>
         <entry>action Replace</entry>
         <entry>action GotoFile</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0RlY2xhcmF0aW9u</entry>
@@ -557,6 +555,7 @@
         <entry>action RecentFiles</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action ViewBreakpoints</entry>
       </history-cmd>
       <history-expr />
       <history-input />

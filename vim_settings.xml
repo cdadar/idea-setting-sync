@@ -589,7 +589,7 @@
         <text encoding="base64">ICAgIGRpc3RpbmN0IGFhLkJVU0lORVNTX1VVSUQsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -625,7 +625,6 @@
         <entry encoding="base64">XDxPVVRfREVWRUxPUE1FTlRfV0VMRkFSRVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action XDebugger.MuteBreakpoints</entry>
         <entry>action Forward</entry>
         <entry>action ViewBreakpoints</entry>
         <entry>action GotoImplementation</entry>
@@ -645,6 +644,7 @@
         <entry>wq</entry>
         <entry>action QuickJavaDoc</entry>
         <entry>action Find</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />

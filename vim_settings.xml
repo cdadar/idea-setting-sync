@@ -33,8 +33,11 @@
       <file name="/a.dummy" timestamp="1560477507230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubStationServiceImpl.java" timestamp="1560843147176">
-        <mark key="^" line="182" column="31" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubStationServiceImpl.java" timestamp="1560844377655">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="^" line="182" column="0" />
+        <mark key="." line="182" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_13.sql" timestamp="1560420562694">
         <mark key="[" line="17" column="46" />

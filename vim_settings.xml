@@ -260,7 +260,7 @@
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubatorController.java" timestamp="1560335882744">
         <mark key="[" line="80" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/service/impl/BszbAnnouncementServiceImpl.java" timestamp="1560824888853">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/service/impl/BszbAnnouncementServiceImpl.java" timestamp="1560838166037">
         <mark key="[" line="38" column="36" />
         <mark key="]" line="38" column="35" />
         <mark key="^" line="38" column="35" />
@@ -595,7 +595,7 @@
         <text encoding="base64">ICAgIGRpc3RpbmN0IGFhLkJVU0lORVNTX1VVSUQsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action Vcs.UpdateProject</text>
       </register>
     </registers>
     <search>
@@ -648,9 +648,9 @@
         <entry>wq</entry>
         <entry>action QuickJavaDoc</entry>
         <entry>action Find</entry>
-        <entry>action Vcs.UpdateProject</entry>
         <entry>actionlist</entry>
         <entry>action AceAction</entry>
+        <entry>action Vcs.UpdateProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />

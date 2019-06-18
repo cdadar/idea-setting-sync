@@ -33,11 +33,11 @@
       <file name="/a.dummy" timestamp="1560477507230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubStationServiceImpl.java" timestamp="1560850411028">
-        <mark key="[" line="190" column="26" />
-        <mark key="]" line="190" column="26" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubStationServiceImpl.java" timestamp="1560850885168">
+        <mark key="[" line="197" column="33" />
+        <mark key="]" line="197" column="33" />
         <mark key="^" line="189" column="0" />
-        <mark key="." line="190" column="26" />
+        <mark key="." line="197" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_13.sql" timestamp="1560420562694">
         <mark key="[" line="17" column="46" />
@@ -589,7 +589,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>findFirst</text>
+        <text>equals</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCdXNpbmVzc1w+</text>

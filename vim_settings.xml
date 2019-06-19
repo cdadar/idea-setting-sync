@@ -24,12 +24,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubStationServiceImpl.java" timestamp="1560936734807">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubStationServiceImpl.java" timestamp="1560938922069">
         <mark key="'" line="227" column="15" />
-        <mark key="[" line="229" column="85" />
-        <mark key="]" line="226" column="38" />
-        <mark key="^" line="229" column="49" />
-        <mark key="." line="229" column="32" />
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="275" column="0" />
+        <mark key="^" line="275" column="2" />
+        <mark key="." line="275" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/MyServletUtils.java" timestamp="1560925592864">
         <mark key="[" line="13" column="31" />
@@ -64,8 +64,8 @@
         <mark key="." line="27" column="61" />
         <mark key="^" line="27" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbIncubStationMapper.xml" timestamp="1560934593339">
-        <mark key="[" line="340" column="82" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbIncubStationMapper.xml" timestamp="1560938710463">
+        <mark key="[" line="342" column="11" />
         <mark key="]" line="340" column="87" />
         <mark key="^" line="340" column="84" />
         <mark key="." line="340" column="84" />
@@ -393,7 +393,7 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560937229998">
+      <file name="/Dummy.txt" timestamp="1560938973340">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -603,7 +603,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXBkYXRlIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZpZGVcPg==</text>
@@ -611,38 +611,38 @@
       <register name="0" type="4">
         <text>java.lang.ArithmeticException: Non-terminating decimal expansion; no exact representable decimal result.</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQmlnRGVjaW1hbC52YWx1ZU9mKERhdGVVdGlsLmJldHdlZW5EYXkoeWVhckJlZ2luLCB5ZWFyRW5kLCB0cnVlKSkKICAgICAgICAgICAgICAgICAgICAgIC5tdWx0aXBseShNeVV0aWxzLmdldFZhbHVlKGRhdGEuZ2V0KCJlbmFibGUiKSwgQmlnRGVjaW1hbC5aRVJPKSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgCiAgICAKICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmKENvbW1vblV0aWwuY2hlY2tEYXRlSXNDcm9zcyhidXNpbmVzcykpCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQmlnRGVjaW1hbC52YWx1ZU9mKERhdGVVdGlsLmJldHdlZW5EYXkoeWVhckJlZ2luLCB5ZWFyRW5kLCB0cnVlKSkKICAgICAgICAgICAgICAgICAgICAgIC5tdWx0aXBseShNeVV0aWxzLmdldFZhbHVlKGRhdGEuZ2V0KCJlbmFibGUiKSwgQmlnRGVjaW1hbC5aRVJPKSk7</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">YnVzaW5lc3Nlcy5zdHJlYW0oKQogICAgICAgICAgICAgIC8vIOi/h+a7pOWtmOWcqOe7iOatouWQiOWQjOS4lOe7iOatouW8gOWni+aXtumXtOavlOacrOW5tOaXqeeahOWQiOWQjAogICAgICAgICAgICAgIC5maWx0ZXIoCiAgICAgICAgICAgICAgICAgIGJ1c2luZXNzIC0+CiAgICAgICAgICAgICAgICAgICAgICBidXNpbmVzcy5nZXRCc3piVGVybWluYXRpb24oKS5nZXRUZXJtQmVnaW5EYXRlKCkgPT0gbnVsbAogICAgICAgICAgICAgICAgICAgICAgICAgIHx8IERhdGVVdGlsLnRoaXNZZWFyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPj0gRGF0ZVV0aWwueWVhcihidXNpbmVzcy5nZXRCc3piVGVybWluYXRpb24oKS5nZXRUZXJtQmVnaW5EYXRlKCkpKQogICAgICAgICAgICAgIC5tYXAoYnVzaW5lc3MgLT4gdGhpcy5jYWxOdW1NdWx0aXBseURheXMoeWVhckJlZ2luLCB5ZWFyRW5kLCBidXNpbmVzcykpCiAgICAgICAgICAgICAgLnJlZHVjZShCaWdEZWNpbWFsOjphZGQpCiAgICAgICAgICAgICAgLm9yRWxzZShCaWdEZWNpbWFsLlpFUk8pCiAgICAgICAgICAgICAgLmRpdmlkZSgKICAgICAgICAgICAgICAgICAgQmlnRGVjaW1hbC52YWx1ZU9mKERhdGVVdGlsLmJldHdlZW5EYXkoeWVhckJlZ2luLCB5ZWFyRW5kLCB0cnVlKSkKICAgICAgICAgICAgICAgICAgICAgIC5tdWx0aXBseShNeVV0aWxzLmdldFZhbHVlKGRhdGEuZ2V0KCJlbmFibGUiKSwgQmlnRGVjaW1hbC5aRVJPKSkp</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDxpbmNsdWRlIHJlZmlkPSJjb20uZWF6ZXIuYnN6Yi5jb21tb24uZGFvLm1hcHBlci5JQnN6YkJ1c2luZXNzTWFwcGVyLmZpZWxkQXNQcm9wZXJ0eSIvPgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIDxhc3NvY2lhdGlvbiBwcm9wZXJ0eT0ib3JlZ2lzdGFwcCIgY29sdW1uPSJiZmJ1c1V1aWQiCiAgICAgIHNlbGVjdD0iY29tLmVhemVyLmJzemIuaW5jdWJhdG9yLmRhby5tYXBwZXIuSUJzemJGdWh1YXFpT3JlZ2lzdGFwcE1hcHBlci5maW5kT25lQnlGdWh1YXFpQnVzVXVpZCIvPgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">LT4KICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bnVsbAogICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEJpZ0RlY2ltYWwgbW9udGhTdW0gPSBCaWdEZWNpbWFsLlpFUk87Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action CompileProject</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -678,7 +678,6 @@
         <entry encoding="base64">XDxkaXZpZGVcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action ReformatCode</entry>
         <entry>sp</entry>
         <entry>action HideAllWindows</entry>
         <entry>action Tool_Git_MagitStatus</entry>
@@ -698,6 +697,7 @@
         <entry>action Find</entry>
         <entry>action MavenRunHelperCleanInstall</entry>
         <entry>action CompileProject</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />

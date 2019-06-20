@@ -6,7 +6,6 @@
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/DozerBeanMapperUtils.java" timestamp="1560925485412">
         <mark key="[" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/source/mall/mall-admin/src/main/java/com/macro/mall/service/impl/PmsBrandServiceImpl.java" timestamp="1560996283015" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_12.sql" timestamp="1560322770591">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="9" column="51" />
@@ -84,11 +83,16 @@
         <mark key="." line="79" column="42" />
         <mark key="^" line="79" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_16.sql" timestamp="1561009630134">
-        <mark key="[" line="35" column="66" />
-        <mark key="]" line="35" column="66" />
-        <mark key="." line="35" column="66" />
-        <mark key="^" line="88" column="28" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/BszbFuhuaqiCustom.java" timestamp="1561011155450">
+        <mark key="[" line="127" column="27" />
+        <mark key="]" line="127" column="27" />
+        <mark key="." line="125" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_16.sql" timestamp="1561010747116">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="57" column="72" />
+        <mark key="." line="63" column="31" />
+        <mark key="^" line="63" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/dto/PayableTermDTO.java" timestamp="1559632706690">
         <mark key="[" line="25" column="15" />
@@ -225,7 +229,6 @@
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/Utils.java" timestamp="1560925272236">
         <mark key="[" line="15" column="17" />
       </file>
-      <file name="/README.md" timestamp="1560996141791" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiSettledServiceImpl.java" timestamp="1560839265191">
         <mark key="[" line="511" column="35" />
         <mark key="]" line="511" column="51" />
@@ -301,7 +304,6 @@
         <mark key="^" line="8" column="86" />
         <mark key="." line="8" column="86" />
       </file>
-      <file name="$USER_HOME$/source/mall/pom.xml" timestamp="1560996546466" />
       <file name="/bszb.bszb_incub_station [bszb@120.26.120.234]" timestamp="1560842794233">
         <mark key="[" line="0" column="0" />
       </file>
@@ -330,7 +332,6 @@
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/util/MapstrcutUtil.java" timestamp="1560501962658">
         <mark key="[" line="39" column="81" />
       </file>
-      <file name="$USER_HOME$/source/mall/mall-common/src/main/java/com/macro/mall/common/api/ResultCode.java" timestamp="1560996571169" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbCustomInvoiceServiceImpl.java" timestamp="1560483916924">
         <mark key="[" line="388" column="41" />
         <mark key="]" line="418" column="47" />
@@ -349,12 +350,17 @@
         <mark key="^" line="618" column="41" />
         <mark key="." line="618" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbFuhuaqiCustomMapper.xml" timestamp="1561003588478">
-        <mark key="'" line="310" column="0" />
-        <mark key="[" line="306" column="0" />
-        <mark key="]" line="306" column="0" />
-        <mark key="." line="306" column="0" />
-        <mark key="^" line="284" column="5" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbFuhuaqiCustomMapper.xml" timestamp="1561011567362">
+        <mark key="'" line="322" column="0" />
+        <mark key="[" line="359" column="0" />
+        <mark key="]" line="363" column="46" />
+        <mark key="." line="363" column="0" />
+        <mark key="^" line="314" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/BaseModel.java" timestamp="1561011135086">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console.sql" timestamp="1559746527862">
         <mark key="[" line="0" column="0" />
@@ -386,7 +392,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/source/mall/mall-mbg/src/main/resources/generatorConfig.xml" timestamp="1560996239018" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbTerminationConverter.java" timestamp="1560502010980">
         <mark key="[" line="61" column="56" />
         <mark key="]" line="60" column="75" />
@@ -399,7 +404,8 @@
         <mark key="^" line="38" column="0" />
         <mark key="." line="41" column="102" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiCustomServiceImpl.java" timestamp="1560998689315">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiCustomServiceImpl.java" timestamp="1561010309997">
+        <mark key="[" line="89" column="23" />
         <mark key="]" line="111" column="92" />
         <mark key="^" line="111" column="92" />
         <mark key="." line="111" column="92" />
@@ -419,6 +425,7 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="20" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1561010271043" />
       <file name="/Dummy.txt" timestamp="1560998677740">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -474,7 +481,6 @@
         <mark key="." line="496" column="139" />
         <mark key="^" line="496" column="139" />
       </file>
-      <file name="/EsProductServiceImpl.java" timestamp="1560996164615" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbBusinessCostRecordMapper.xml" timestamp="1559747960536">
         <mark key="[" line="184" column="11" />
         <mark key="]" line="244" column="43" />
@@ -630,43 +636,46 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>bt.TERM_UUID is null</text>
       </register>
       <register name="/" type="4">
         <text>NOW\(\)</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">U0VMRUNUIERJU1RJTkNUKGJjLkNVU1RPTV9VVUlEKSwgQkZDVVNfVU5JRCBBUyBiZmN1c1VuaWQsIEJGQ1VTX1VVSUQgQVMgYmZjdXNVdWlkLCBCRkNVU19DREFURSBBUyBiZmN1c0NkYXRlLCBCRkNVU19VREFURSBBUyBiZmN1c1VkYXRlLCBCRkNVU19DVVNSIEFTIGJmY3VzQ3VzciwgQkZDVVNfQ1VTUk5BTUUgQVMgYmZjdXNDdXNybmFtZSwgQkZDVVNfQ1VTVE9NVVVJRCBBUyBiZmN1c0N1c3RvbXV1aWQgLCBDVVNUT01fVU5JRCBBUyBjdXN0b21VbmlkLCBDVVNUT01fVVVJRCBBUyBjdXN0b21VdWlkLCBDVVNUT01fQ0RBVEUgQVMgY3VzdG9tQ2RhdGUsIENVU1RPTV9VREFURSBBUyBjdXN0b21VZGF0ZSwgQ1VTVE9NX0NVU1IgQVMgY3VzdG9tQ3VzciwgQ1VTVE9NX05BTUUgQVMgY3VzdG9tTmFtZSwgQ1VTVE9NX09MRF9OQU1FIEFTIGN1c3RvbU9sZE5hbWUsIENVU1RPTV9UWVBFIEFTIGN1c3RvbVR5cGUsIENVU1RPTV9TQ0FMRSBBUyBjdXN0b21TY2FsZSwgQ1VTVE9NX0NUSU1FIEFTIGN1c3RvbUN0aW1lLCBDVVNUT01fQ09ERSBBUyBjdXN0b21Db2RlLCBDVVNUT01fT1JJR0lOIEFTIGN1c3RvbU9yaWdpbiwgQ1VTVE9NX1JFR0lTVEVSX0FERFIgQVMgY3VzdG9tUmVnaXN0ZXJBZGRyLCBDVVNUT01fV0VCU0lURSBBUyBjdXN0b21XZWJzaXRlLCBDVVNUT01fQ0FURUdPUlkxIEFTIGN1c3RvbUNhdGVnb3J5MSwgQ1VTVE9NX0NBVEVHT1JZMiBBUyBjdXN0b21DYXRlZ29yeTIsIENVU1RPTV9CVVNJTkVTUyBBUyBjdXN0b21CdXNpbmVzcywgQ1VTVE9NX1NVTU1BUlkgQVMgY3VzdG9tU3VtbWFyeSwgQ1VTVE9NX1JFTUFSSyBBUyBjdXN0b21SZW1hcmssIENVU1RPTV9DVVNUT01fTUFOQUdFUiBBUyBjdXN0b21DdXN0b21NYW5hZ2VyLCBDVVNUT01fQ1VTVE9NX01BTkFHRVJfTkFNRSBBUyBjdXN0b21DdXN0b21NYW5hZ2VyTmFtZSwgQ1VTVE9NX1BST1ZJTkNFIEFTIGN1c3RvbVByb3ZpbmNlLCBDVVNUT01fQ0lUWSBBUyBjdXN0b21DaXR5LCBDVVNUT01fQUREUiBBUyBjdXN0b21BZGRyLCBDVVNUT01fQ09OVEFDVFNfTkFNRSBBUyBjdXN0b21Db250YWN0c05hbWUsIENVU1RPTV9DT05UQUNUU19ERVAgQVMgY3VzdG9tQ29udGFjdHNEZXAsIENVU1RPTV9DT05UQUNUU19URUwgQVMgY3VzdG9tQ29udGFjdHNUZWwsIENVU1RPTV9DT05UQUNUX1JFTUFSSyBBUyBjdXN0b21Db250YWN0UmVtYXJrICwgIyDnu5/orqHpgL7mnJ/mrKHmlbAgKHNlbGVjdCBjb2FsZXNjZShzdW0oY2FzZSB3aGVuIERBVEVESUZGKGJwLlBBWV9EQVRFICwgYmNyLkJCQ1JfQ0RBVEUpIDwgLTEwIHRoZW4gMSBlbHNlIDAgZW5kICksIDApIGZyb20gYnN6Yl9wYXlhYmxlIGJwIGpvaW4gYnN6Yl9idXNpbmVzc19jb3N0X3JlY29yZCBhcyBiY3Igb24gYnAuUEFZX1VVSUQgPSBiY3IuQkJDUl9CVVNVVUlEIGpvaW4gYnN6Yl9idXNpbmVzcyBhcyBiYjEgb24gYmIxLkJVU0lORVNTX1VVSUQgPSBicC5QQVlfQlVTSU5FU1NVVUlEIHdoZXJlIGJiMS5CVVNJTkVTU19DVVNVVUlEID0gYmMuQ1VTVE9NX1VVSUQgKSBhcyBleHRQYXJhbTEsICMg5Zyo55So5bel5L2N5pWwIChzZWxlY3QgY29hbGVzY2Uoc3VtKGZzLkJGU0VUVExFX1dPUktTVEFUSU9OTlVNKSwgMCkgZnJvbSBic3piX2Z1aHVhcWlfc2V0dGxlZCBmcyBqb2luIGJzemJfZnVodWFxaV9idXNpbmVzcyBhcyBmYjIgb24gZmIyLkJGQlVTX1VVSUQgPSBmcy5CRlNFVFRMRV9CRkJVU1VVSUQgam9pbiBic3piX2J1c2luZXNzIGFzIGJiMiBvbiBiYjIuQlVTSU5FU1NfVVVJRCA9IGZiMi5CRkJVU19CVVNVVUlEIHdoZXJlIGJiMi5CVVNJTkVTU19DVVNVVUlEID0gYmMuQ1VTVE9NX1VVSUQgKSBhcyBleHRQYXJhbTIsICMg5Zyo55So5Zyw5Z2A5pWwIChzZWxlY3QgY29hbGVzY2Uoc3VtKGZvLkJGT1JFR0FfUkVHTlVNKSwgMCkgZnJvbSBic3piX2Z1aHVhcWlfb3JlZ2lzdGFwcCBmbyBqb2luIGJzemJfZnVodWFxaV9idXNpbmVzcyBhcyBmYjMgb24gZmIzLkJGQlVTX1VVSUQgPSBmby5CRk9SRUdBX0JVU1VVSUQgam9pbiBic3piX2J1c2luZXNzIGFzIGJiMyBvbiBiYjMuQlVTSU5FU1NfVVVJRCA9IGZiMy5CRkJVU19CVVNVVUlEIHdoZXJlIGJiMy5CVVNJTkVTU19DVVNVVUlEID0gYmMuQ1VTVE9NX1VVSUQgKSBhcyBleHRQYXJhbTMsICMg5ZCI5ZCM5pS25YWlIChjb2FsZXNjZShzdW0oYmIuQlVTSU5FU1NfUFJJQ0UpLDApKSBhcyBleFBhcmFtNCwgIyDlvIDlp4vlhaXpqbvml7bpl7QgKG1pbihiYi5CVVNJTkVTU19CRUdJTl9EQVRFKSkgYXMgZXhQYXJhbTUgLCAjIOWQiOWQjOWIsOacn+aXtumXtCAobWF4KGJiLkJVU0lORVNTX0VORF9EQVRFKSkgYXMgZXhQYXJhbTYgRlJPTSBic3piX2J1c2luZXNzIGJiIGpvaW4gYnN6Yl9mdWh1YXFpX2J1c2luZXNzIGFzIGZiIG9uIGZiLkJGQlVTX0JVU1VVSUQgPSBiYi5CVVNJTkVTU19VVUlEIGxlZnQgam9pbiBic3piX3Rlcm1pbmF0aW9uIGFzIGJ0IG9uIGJ0LlRFUk1fQlVTVVVJRCA9IGJiLkJVU0lORVNTX1VVSUQgSk9JTiBic3piX2N1c3RvbSBiYyBPTiBiYi5CVVNJTkVTU19DVVNVVUlEPWJjLkNVU1RPTV9VVUlEIEpPSU4gYnN6Yl9mdWh1YXFpX2N1c3RvbSBmYyBvbiBiYy5DVVNUT01fVVVJRD1mYy5CRkNVU19DVVNUT01VVUlEIEFORCAoKGRhdGVfZm9ybWF0KE5PVygpLCclWS0lbScpIGJldHdlZW4gYmIuQlVTSU5FU1NfQkVHSU5fREFURSBBTkQgYmIuQlVTSU5FU1NfRU5EX0RBVEUgYW5kIGJ0LlRFUk1fVVVJRCBpcyBudWxsKSBvciAoZGF0ZV9mb3JtYXQoTk9XKCksJyVZLSVtJykgYmV0d2VlbiBiYi5CVVNJTkVTU19CRUdJTl9EQVRFIGFuZCBidC5URVJNX0JFR0lOX0RBVEUgYW5kIGJ0LlRFUk1fVVVJRCBpcyBub3QgbnVsbCkgKSBHUk9VUCBCWSBiYy5DVVNUT01fVVVJRCBsaW1pdCA1IA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIChtaW4oYmIuQlVTSU5FU1NfQkVHSU5fREFURSkpIGFzIGV4UGFyYW02LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMg5ZCI5ZCM5Yiw5pyf5pe26Ze0Cg==</text>
+        <text encoding="base64">ICAgIChzZWxlY3QgY29hbGVzY2Uoc3VtKGNhc2Ugd2hlbiBEQVRFRElGRihicC5QQVlfREFURSAsIGJjci5CQkNSX0NEQVRFKSAgPCFbQ0RBVEFbPF1dPiAgLTEwIHRoZW4gMQogICAgZWxzZSAwIGVuZCApLCAwKSBmcm9tCiAgICBic3piX3BheWFibGUgYnAgam9pbiBic3piX2J1c2luZXNzX2Nvc3RfcmVjb3JkIGFzIGJjciBvbiBicC5QQVlfVVVJRCA9IGJjci5CQkNSX0JVU1VVSUQgam9pbgogICAgYnN6Yl9idXNpbmVzcyBhcyBiYjEgb24gYmIxLkJVU0lORVNTX1VVSUQgPSBicC5QQVlfQlVTSU5FU1NVVUlEIHdoZXJlIGJiMS5CVVNJTkVTU19DVVNVVUlEID0KICAgIGJjLkNVU1RPTV9VVUlEICkgYXMKICAgIGV4dFBhcmFtMSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMg5byA5aeL5YWl6am75pe26Ze0Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBleHRQYXJhbTc7CiAgcHJpdmF0ZSBTdHJpbmcgZXh0UGFyYW04OwogIHByaXZhdGUgU3RyaW5nIGV4dFBhcmFtOTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMg5ZCI5ZCM5pS25YWlCg==</text>
+        <text encoding="base64">ICAgIChtYXgoYmIuQlVTSU5FU1NfRU5EX0RBVEUpKSBhcyBleFBhcmFtNgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMg5Zyo55So5Zyw5Z2A5pWwCg==</text>
+      <register name="4" type="4">
+        <text>((date_format(NOW(),'%Y-%m-%d') between bb.BUSINESS_BEGIN_DATE AND bb.BUSINESS_END_DATE and
+    bt.TERM_UUID is null) or
+    (date_format(NOW(),'%Y-%m-%d') between bb.BUSINESS_BEGIN_DATE and bt.TERM_BEGIN_DATE and
+    bt.TERM_UUID is not null) )</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMg5Zyo55So5bel5L2N5pWwCg==</text>
+        <text encoding="base64">ICAgICMg5ZCI5ZCM5Yiw5pyf5pe26Ze0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMg57uf6K6h6YC+5pyf5qyh5pWwCg==</text>
+        <text encoding="base64">ICAgICMg5byA5aeL5YWl6am75pe26Ze0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMg5ZCI5ZCM5pS25YWlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8cmVzdWx0TWFwIGlkPSJJbmN1YmF0aW5nQ3VzdG9tZXIiIHR5cGU9IkJzemJGdWh1YXFpQ3VzdG9tIiBleHRlbmRzPSJmaWVsZE1hcHBlckVYIj4KICAgIAogIDwvcmVzdWx0TWFwPgo=</text>
+        <text encoding="base64">ICAgICMg5Zyo55So5Zyw5Z2A5pWwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8cmVzdWx0TWFwIGlkPSJSZXNpZGVudEN1c3RvbWVyIiB0eXBlPSJCc3piRnVodWFxaUN1c3RvbSIgZXh0ZW5kcz0iZmllbGRNYXBwZXJFWCI+CiAgPC9yZXN1bHRNYXA+Cg==</text>
+        <text encoding="base64">ICAgICMg5Zyo55So5bel5L2N5pWwCg==</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
@@ -679,7 +688,7 @@
       <last-replace>date_format(NOW(),'%Y-%m')</last-replace>
       <last-substitute>NOW\(\)</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>

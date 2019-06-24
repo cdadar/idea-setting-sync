@@ -132,8 +132,13 @@
         <mark key="^" line="8" column="86" />
         <mark key="." line="8" column="86" />
       </file>
-      <file name="/bszb_datarelated [bszb@120.26.120.234]" timestamp="1561355194899">
+      <file name="/bszb_datarelated [bszb@120.26.120.234]" timestamp="1561356956226">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/pom.xml" timestamp="1561357181437">
+        <mark key="[" line="1295" column="0" />
+        <mark key="]" line="1295" column="0" />
+        <mark key="." line="1295" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbIncubStationMapper.xml" timestamp="1560938710463">
         <mark key="[" line="342" column="11" />
@@ -153,7 +158,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="799" />
       </file>
-      <file name="/bszb_database_business [bszb@120.26.120.234]" timestamp="1561355196128">
+      <file name="/bszb_database_business [bszb@120.26.120.234]" timestamp="1561356957842">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbIncubatorbaseMapper.xml" timestamp="1561012823370">
@@ -228,7 +233,7 @@
         <mark key="^" line="551" column="46" />
         <mark key="." line="551" column="28" />
       </file>
-      <file name="/bszb_database [bszb@120.26.120.234]" timestamp="1561355197065">
+      <file name="/bszb_database [bszb@120.26.120.234]" timestamp="1561356958828">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbCustomDatabaseController.java" timestamp="1561347942164">
@@ -375,7 +380,7 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561112007096">
+      <file name="/Dummy.txt" timestamp="1561357183134">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -445,7 +450,7 @@
         <mark key="." line="99" column="45" />
         <mark key="^" line="107" column="55" />
       </file>
-      <file name="/bszb_dataposition [bszb@120.26.120.234]" timestamp="1561355197208">
+      <file name="/bszb_dataposition [bszb@120.26.120.234]" timestamp="1561356958919">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_11.sql" timestamp="1560318926993">
@@ -627,34 +632,34 @@
         <text>79430CEA28D044F6B692624EDC912290</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIOe7n+iuoeWuouaIt+W3suS9v+eUqOeahOW3peS9jeaVsAogICAgaW50IHN0YXRpb25OdW0gPSB0aGlzLmdldFVzZWRTdGF0aW9uTnVtQnlDdXMobW9kZWwpOwogICAgbW9kZWwuZ2V0T2JqTWFwKCkucHV0KCJzdGF0aW9uTnVtIiwgc3RhdGlvbk51bSk7CgogICAgaW50IHJlZ25OdW0gPSB0aGlzLmdldFVzZWRSZWdOdW1CeUN1cyhtb2RlbCk7CiAgICBtb2RlbC5nZXRPYmpNYXAoKS5wdXQoInJlZ051bSIsIHJlZ25OdW0pOwoKICAgIGludCBzZXJ2aWNlTnVtID0gdGhpcy5nZXRBZHZhbmNlZFNlcnZpY2VOdW1CeUN1cyhtb2RlbCk7CiAgICBtb2RlbC5nZXRPYmpNYXAoKS5wdXQoInNlcnZpY2VOdW0iLCBzZXJ2aWNlTnVtKTsKCiAgICBpbnQgaWNyZWdpc3Rlck51bSA9IHRoaXMuZ2V0SWNyZWdpc3Rlck51bUJ5Q3VzKG1vZGVsKTsKICAgIG1vZGVsLmdldE9iak1hcCgpLnB1dCgiaWNyZWdpc3Rlck51bSIsIGljcmVnaXN0ZXJOdW0pOwoKICAgIGludCB0ZXJtTnVtID0gdGhpcy5nZXRUZXJtTnVtQnlDdXMobW9kZWwpOwogICAgbW9kZWwuZ2V0T2JqTWFwKCkucHV0KCJ0ZXJtTnVtIiwgdGVybU51bSk7CgogICAgaW50IGliYWNrTnVtID0gdGhpcy5nZXRJYmFja051bUJ5Q3VzKG1vZGVsKTsKICAgIG1vZGVsLmdldE9iak1hcCgpLnB1dCgiaWJhY2tOdW0iLCBpYmFja051bSk7CgogICAgaW50IGJhY2tOdW0gPSB0aGlzLmdldEJhY2tOdW1CeUN1cyhtb2RlbCk7CiAgICBtb2RlbC5nZXRPYmpNYXAoKS5wdXQoImJhY2tOdW0iLCBiYWNrTnVtKTsKCiAgICBTdHJpbmcgcm9sZSA9IG1vZGVsLmdldE9wZXJhdG9yKCkuZ2V0QWNjb3VudFJvbGVTZXQoKS50b1N0cmluZygpOwogICAgLy8g6LSi5Yqh5Lq65ZGY5ZKM566h55CG5ZGYIOWtteWMluWZqOeuoeeQhuWRmAogICAgaWYgKHJvbGUuY29udGFpbnMoUm9sZVNpZ24uQ1dNQU5BR0VSKQogICAgICAgIHx8IHJvbGUuY29udGFpbnMoUm9sZVNpZ24uRklOQU5DRV9NRU5CRVIpCiAgICAgICAgfHwgcm9sZS5jb250YWlucyhSb2xlU2lnbi5BUFBfTUFOQUdFUikKICAgICAgICB8fCByb2xlLmNvbnRhaW5zKFJvbGVTaWduLkNPTV9MRUFERVIpCiAgICAgICAgfHwgcm9sZS5jb250YWlucyhSb2xlU2lnbi5JTkNVQkFUT1JfTU5HKSkgewogICAgICBtb2RlbC5nZXRTdHJNYXAoKS5wdXQoImlzQ3ciLCAiWSIpOwogICAgfSBlbHNlIHsKICAgICAgbW9kZWwuZ2V0U3RyTWFwKCkucHV0KCJpc0N3IiwgIk4iKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBNYXBwaW5nKHRhcmdldCA9ICJiZWdpbkRhdGUiLCBzb3VyY2UgPSAiZXh0UGFyYW02IiksCiAgICBATWFwcGluZyh0YXJnZXQgPSAiZW5kRGF0ZSIsIHNvdXJjZSA9ICJleHRQYXJhbTciKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBNYXBwaW5nKHRhcmdldCA9ICJpc0ZpbmFuY2luZyIsIGlnbm9yZSA9IHRydWUpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSA8cGx1Z2luPiA8Z3JvdXBJZD5vcmcubXliYXRpcy5nZW5lcmF0b3I8L2dyb3VwSWQ+IDxhcnRpZmFjdElkPm15YmF0aXMtZ2VuZXJhdG9yLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7bXliYXRpcy5nZW5lcmF0b3IuY29yZS52ZXJzaW9ufTwvdmVyc2lvbj4gPGNvbmZpZ3VyYXRpb24+IDxjb25maWd1cmF0aW9uRmlsZT4ke2Jhc2VkaXJ9L3NyYy9tYWluL3Jlc291cmNlcy9nZW5lcmF0b3IvZ2VuZXJhdG9yQ29uZmlnLnhtbDwvY29uZmlndXJhdGlvbkZpbGU+CiAgICAgICAgICAgICAgICA8b3ZlcndyaXRlPnRydWU8L292ZXJ3cml0ZT4gPHZlcmJvc2U+dHJ1ZTwvdmVyYm9zZT4gPC9jb25maWd1cmF0aW9uPiA8ZGVwZW5kZW5jaWVzPgogICAgICAgICAgICAgICAgPGRlcGVuZGVuY3k+IDxncm91cElkPm15c3FsPC9ncm91cElkPiA8YXJ0aWZhY3RJZD5teXNxbC1jb25uZWN0b3ItamF2YTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7bXlzcWwuY29ubmVjdG9yLnZlcnNpb259PC92ZXJzaW9uPiA8L2RlcGVuZGVuY3k+IDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+dGsubXliYXRpczwvZ3JvdXBJZD4gPGFydGlmYWN0SWQ+bWFwcGVyPC9hcnRpZmFjdElkPiA8dmVyc2lvbj4ke21hcHBlci52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4gPC9kZXBlbmRlbmNpZXM+IDwvcGx1Z2luPiAtLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBNYXBwaW5nKHRhcmdldCA9ICJpc0ZpbmFuY2luZyIsIGlnbm9yZSA9IHRydWUpLAo=</text>
+        <text encoding="base64">ICAgIC8vIOe7n+iuoeWuouaIt+W3suS9v+eUqOeahOW3peS9jeaVsAogICAgaW50IHN0YXRpb25OdW0gPSB0aGlzLmdldFVzZWRTdGF0aW9uTnVtQnlDdXMobW9kZWwpOwogICAgbW9kZWwuZ2V0T2JqTWFwKCkucHV0KCJzdGF0aW9uTnVtIiwgc3RhdGlvbk51bSk7CgogICAgaW50IHJlZ25OdW0gPSB0aGlzLmdldFVzZWRSZWdOdW1CeUN1cyhtb2RlbCk7CiAgICBtb2RlbC5nZXRPYmpNYXAoKS5wdXQoInJlZ051bSIsIHJlZ25OdW0pOwoKICAgIGludCBzZXJ2aWNlTnVtID0gdGhpcy5nZXRBZHZhbmNlZFNlcnZpY2VOdW1CeUN1cyhtb2RlbCk7CiAgICBtb2RlbC5nZXRPYmpNYXAoKS5wdXQoInNlcnZpY2VOdW0iLCBzZXJ2aWNlTnVtKTsKCiAgICBpbnQgaWNyZWdpc3Rlck51bSA9IHRoaXMuZ2V0SWNyZWdpc3Rlck51bUJ5Q3VzKG1vZGVsKTsKICAgIG1vZGVsLmdldE9iak1hcCgpLnB1dCgiaWNyZWdpc3Rlck51bSIsIGljcmVnaXN0ZXJOdW0pOwoKICAgIGludCB0ZXJtTnVtID0gdGhpcy5nZXRUZXJtTnVtQnlDdXMobW9kZWwpOwogICAgbW9kZWwuZ2V0T2JqTWFwKCkucHV0KCJ0ZXJtTnVtIiwgdGVybU51bSk7CgogICAgaW50IGliYWNrTnVtID0gdGhpcy5nZXRJYmFja051bUJ5Q3VzKG1vZGVsKTsKICAgIG1vZGVsLmdldE9iak1hcCgpLnB1dCgiaWJhY2tOdW0iLCBpYmFja051bSk7CgogICAgaW50IGJhY2tOdW0gPSB0aGlzLmdldEJhY2tOdW1CeUN1cyhtb2RlbCk7CiAgICBtb2RlbC5nZXRPYmpNYXAoKS5wdXQoImJhY2tOdW0iLCBiYWNrTnVtKTsKCiAgICBTdHJpbmcgcm9sZSA9IG1vZGVsLmdldE9wZXJhdG9yKCkuZ2V0QWNjb3VudFJvbGVTZXQoKS50b1N0cmluZygpOwogICAgLy8g6LSi5Yqh5Lq65ZGY5ZKM566h55CG5ZGYIOWtteWMluWZqOeuoeeQhuWRmAogICAgaWYgKHJvbGUuY29udGFpbnMoUm9sZVNpZ24uQ1dNQU5BR0VSKQogICAgICAgIHx8IHJvbGUuY29udGFpbnMoUm9sZVNpZ24uRklOQU5DRV9NRU5CRVIpCiAgICAgICAgfHwgcm9sZS5jb250YWlucyhSb2xlU2lnbi5BUFBfTUFOQUdFUikKICAgICAgICB8fCByb2xlLmNvbnRhaW5zKFJvbGVTaWduLkNPTV9MRUFERVIpCiAgICAgICAgfHwgcm9sZS5jb250YWlucyhSb2xlU2lnbi5JTkNVQkFUT1JfTU5HKSkgewogICAgICBtb2RlbC5nZXRTdHJNYXAoKS5wdXQoImlzQ3ciLCAiWSIpOwogICAgfSBlbHNlIHsKICAgICAgbW9kZWwuZ2V0U3RyTWFwKCkucHV0KCJpc0N3IiwgIk4iKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBNYXBwaW5nKHRhcmdldCA9ICJ0YWdzIiwgaWdub3JlID0gdHJ1ZSksCg==</text>
+        <text encoding="base64">ICAgIEBNYXBwaW5nKHRhcmdldCA9ICJiZWdpbkRhdGUiLCBzb3VyY2UgPSAiZXh0UGFyYW02IiksCiAgICBATWFwcGluZyh0YXJnZXQgPSAiZW5kRGF0ZSIsIHNvdXJjZSA9ICJleHRQYXJhbTciKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBNYXBwaW5nKHRhcmdldCA9ICJ0YWdzIiwgaWdub3JlID0gdHJ1ZSksCg==</text>
+        <text encoding="base64">ICAgIEBNYXBwaW5nKHRhcmdldCA9ICJpc0ZpbmFuY2luZyIsIGlnbm9yZSA9IHRydWUpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgIEBNYXBwaW5nKHRhcmdldCA9ICJpc0ZpbmFuY2luZyIsIGlnbm9yZSA9IHRydWUpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYnN6YkN1c3RvbS5zZXRDdXN0b20K</text>
+        <text encoding="base64">ICAgIEBNYXBwaW5nKHRhcmdldCA9ICJ0YWdzIiwgaWdub3JlID0gdHJ1ZSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBWIGN1c3RvbVRhZwogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldFN0ck1hcCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAucHV0KEJhc2VDb25zdGFudC5DVVJSRU5UX0FDVElPTl9PUywgQmFzZUNvbnN0YW50LkFDVElPTl9TQVZFX0FDVElWSVRZKTsK</text>
+        <text encoding="base64">ICAgIEBNYXBwaW5nKHRhcmdldCA9ICJ0YWdzIiwgaWdub3JlID0gdHJ1ZSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>action MavenRunHelperCleanInstall</text>

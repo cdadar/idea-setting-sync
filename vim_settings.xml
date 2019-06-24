@@ -132,7 +132,7 @@
         <mark key="^" line="8" column="86" />
         <mark key="." line="8" column="86" />
       </file>
-      <file name="/bszb_datarelated [bszb@120.26.120.234]" timestamp="1561346914394">
+      <file name="/bszb_datarelated [bszb@120.26.120.234]" timestamp="1561347550712">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbIncubStationMapper.xml" timestamp="1560938710463">
@@ -153,7 +153,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="799" />
       </file>
-      <file name="/bszb_database_business [bszb@120.26.120.234]" timestamp="1561346915967">
+      <file name="/bszb_database_business [bszb@120.26.120.234]" timestamp="1561347553118">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbIncubatorbaseMapper.xml" timestamp="1561012823370">
@@ -228,10 +228,10 @@
         <mark key="^" line="551" column="46" />
         <mark key="." line="551" column="28" />
       </file>
-      <file name="/bszb_database [bszb@120.26.120.234]" timestamp="1561346916981">
+      <file name="/bszb_database [bszb@120.26.120.234]" timestamp="1561347554572">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbCustomDatabaseController.java" timestamp="1561111753256">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbCustomDatabaseController.java" timestamp="1561347942164">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="12" />
         <mark key="." line="18" column="12" />
@@ -445,7 +445,7 @@
         <mark key="." line="99" column="45" />
         <mark key="^" line="107" column="55" />
       </file>
-      <file name="/bszb_dataposition [bszb@120.26.120.234]" timestamp="1561346917173">
+      <file name="/bszb_dataposition [bszb@120.26.120.234]" timestamp="1561347554758">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_11.sql" timestamp="1560318926993">
@@ -657,7 +657,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBWIGN1c3RvbVRhZwogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldFN0ck1hcCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAucHV0KEJhc2VDb25zdGFudC5DVVJSRU5UX0FDVElPTl9PUywgQmFzZUNvbnN0YW50LkFDVElPTl9TQVZFX0FDVElWSVRZKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action MavenRunHelperCleanInstall</text>
       </register>
     </registers>
     <search>
@@ -697,7 +697,6 @@
         <entry>action GotoImplementation</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Forward</entry>
-        <entry>action MavenRunHelperCleanInstall</entry>
         <entry>action GotoDeclaration</entry>
         <entry encoding="base64">JzwsJz5zL05PV1woXCkvZGF0ZV9mb3JtYXQoTk9XKCksJyVZLSVtJykvZw==</entry>
         <entry>action Back</entry>
@@ -713,6 +712,7 @@
         <entry>action CompileProject</entry>
         <entry>action EditorStartNewLine</entry>
         <entry>action Find</entry>
+        <entry>action MavenRunHelperCleanInstall</entry>
       </history-cmd>
       <history-expr />
       <history-input />

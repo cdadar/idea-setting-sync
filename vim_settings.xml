@@ -273,7 +273,7 @@
       <file name="/bszb.bszb_datarelated [bszb@120.26.120.234]" timestamp="1561111611297">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbCustomTagRelateController.java" timestamp="1561447725511">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbCustomTagRelateController.java" timestamp="1561449003269">
         <mark key="[" line="37" column="16" />
         <mark key="]" line="37" column="16" />
         <mark key="." line="37" column="16" />
@@ -301,6 +301,9 @@
         <mark key="]" line="148" column="20" />
         <mark key="^" line="148" column="20" />
         <mark key="." line="148" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/BusinessVO.java" timestamp="1561449092784">
+        <mark key="[" line="45" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/IBszbIncubBusinAddressRelateService.java" timestamp="1559792100498">
         <mark key="[" line="20" column="0" />

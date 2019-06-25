@@ -470,7 +470,7 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561370362055">
+      <file name="/Dummy.txt" timestamp="1561430685285">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -544,9 +544,9 @@
       <file name="/bszb_dataposition [bszb@120.26.120.234]" timestamp="1561358638539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbDatabaseBusinessMapper.xml" timestamp="1561369343338">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbDatabaseBusinessMapper.xml" timestamp="1561430637997">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="143" column="0" />
+        <mark key="[" line="147" column="51" />
         <mark key="]" line="143" column="52" />
         <mark key="." line="143" column="0" />
       </file>

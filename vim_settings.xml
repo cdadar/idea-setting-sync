@@ -56,10 +56,6 @@
         <mark key="^" line="64" column="20" />
         <mark key="." line="64" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayableObsoleteVO.java" timestamp="1561457139316">
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/test/java/com/eazer/bszb/incubator/service/impl/BszbIncubatorbaseServiceImplTest.java" timestamp="1560334560311">
         <mark key="[" line="27" column="93" />
         <mark key="]" line="27" column="93" />
@@ -219,6 +215,11 @@
         <mark key="^" line="37" column="22" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/IndepositTurnVO.java" timestamp="1561513688604">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/common/model/dto/BszbPayableDTO.java" timestamp="1559740473479">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="16" />
@@ -249,11 +250,11 @@
         <mark key="." line="506" column="1" />
         <mark key="^" line="506" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessPayableController.java" timestamp="1561459050832">
-        <mark key="[" line="284" column="67" />
-        <mark key="]" line="284" column="67" />
-        <mark key="^" line="278" column="49" />
-        <mark key="." line="284" column="67" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessPayableController.java" timestamp="1561513835968">
+        <mark key="[" line="360" column="20" />
+        <mark key="]" line="360" column="20" />
+        <mark key="^" line="323" column="4" />
+        <mark key="." line="360" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiSettledServiceImpl.java" timestamp="1561370218838">
         <mark key="[" line="829" column="0" />
@@ -278,7 +279,6 @@
         <mark key="]" line="37" column="16" />
         <mark key="." line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/common/dao/mapper/IBszbBusinessMapper.xml" timestamp="1561458922295" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_7.sql" timestamp="1560252777407">
         <mark key="[" line="26" column="56" />
         <mark key="]" line="26" column="57" />
@@ -314,33 +314,22 @@
         <mark key="^" line="26" column="12" />
         <mark key="." line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayablePaidDepositVO.java" timestamp="1561458643625">
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="13" column="29" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/test/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiSettledServiceImplTest.java" timestamp="1560497798472">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="23" column="14" />
         <mark key="." line="31" column="55" />
         <mark key="^" line="31" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" timestamp="1561458970399">
-        <mark key="'" line="162" column="4" />
-        <mark key="[" line="159" column="83" />
-        <mark key="]" line="159" column="83" />
-        <mark key="." line="159" column="83" />
-        <mark key="^" line="155" column="11" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" timestamp="1561513962473">
+        <mark key="[" line="568" column="0" />
+        <mark key="]" line="568" column="0" />
+        <mark key="." line="568" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubatorbaseServiceImpl.java" timestamp="1560395700411">
         <mark key="[" line="152" column="27" />
         <mark key="]" line="152" column="26" />
         <mark key="^" line="152" column="26" />
         <mark key="." line="152" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayablePaidVO.java" timestamp="1561458625381">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_5.sql" timestamp="1560255275936">
         <mark key="[" line="8" column="87" />
@@ -378,10 +367,9 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayablePaidLiquidateVO.java" timestamp="1561453237436">
-        <mark key="[" line="149" column="5" />
-        <mark key="]" line="149" column="5" />
-        <mark key="^" line="10" column="56" />
-        <mark key="." line="149" column="5" />
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbCustomDatabaseController.java" timestamp="1561369445581">
         <mark key="[" line="43" column="17" />
@@ -477,7 +465,7 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561459104114">
+      <file name="/Dummy.txt" timestamp="1561514164552">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -507,7 +495,7 @@
         <mark key="^" line="75" column="6" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayablePendingVO.java" timestamp="1561457639456">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayablePendingVO.java" timestamp="1561513969390">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="26" />
       </file>
@@ -552,11 +540,6 @@
         <mark key="." line="99" column="45" />
         <mark key="^" line="107" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayablePaidTurnVO.java" timestamp="1561453175239">
-        <mark key="[" line="53" column="5" />
-        <mark key="]" line="53" column="5" />
-        <mark key="." line="53" column="5" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/test/java/com/eazer/bszb/incubator/service/impl/BszbBusinessCostRecordServiceImplTest.java" timestamp="1560497939584">
         <mark key="[" line="36" column="41" />
         <mark key="]" line="32" column="65" />
@@ -588,7 +571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/TerminationInfoVO.java" />
       <jump line="67" column="109" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/business.http" />
       <jump line="369" column="50" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/common/dao/mapper/IBszbBusinessMapper.xml" />
       <jump line="400" column="50" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/common/dao/mapper/IBszbBusinessMapper.xml" />
@@ -688,6 +670,7 @@
       <jump line="145" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" />
       <jump line="166" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" />
       <jump line="165" column="4" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" />
+      <jump line="487" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -697,60 +680,59 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>objToPaidVo</text>
+        <text>e&quot;, source = &quot;extParam3&quot;),</text>
       </register>
       <register name="/" type="4">
-        <text>Paid</text>
+        <text>Liquidate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5bey5pS25qy+CiAgICAgKiBAcGFyYW0gaW5jdWJhdG9yVXVpZAogICAgICogQHBhcmFtIGJlZ2luRGF0ZQogICAgICogQHBhcmFtIGVuZERhdGUKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgQEF1dGhvcml6YXRpb24KICAgIEBSZXF1ZXN0TWFwcGluZygKICAgICAgICAgICAgdmFsdWUgPSAicGFpZCIsCiAgICAgICAgICAgIG1ldGhvZCA9IHtSZXF1ZXN0TWV0aG9kLkdFVH0pCiAgICBAUmVzcG9uc2VCb2R5CiAgICBwdWJsaWMgUmVzdWx0PExpc3Q8UGF5YWJsZVBhaWRWTz4+IHBhaWQoCiAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0oImluY3ViYXRvclV1aWQiKSBTdHJpbmcgaW5jdWJhdG9yVXVpZCwKICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJiZWdpbkRhdGUiLCByZXF1aXJlZCA9IGZhbHNlKSBARGF0ZVRpbWVGb3JtYXQocGF0dGVybiA9ICJ5eXl5LU1NLWRkIikKICAgICAgICAgICAgICAgICAgICBEYXRlIGJlZ2luRGF0ZSwKICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJlbmREYXRlIiwgcmVxdWlyZWQgPSBmYWxzZSkgQERhdGVUaW1lRm9ybWF0KHBhdHRlcm4gPSAieXl5eS1NTS1kZCIpCiAgICAgICAgICAgICAgICAgICAgRGF0ZSBlbmREYXRlLAogICAgICAgICAgICBAUmVxdWVzdFBhcmFtKHZhbHVlID0gInR5cGUiLCByZXF1aXJlZCA9IGZhbHNlKSBCeXRlIHR5cGUsCiAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAic3RhcnQiLCByZXF1aXJlZCA9IGZhbHNlKSBJbnRlZ2VyIHN0YXJ0LAogICAgICAgICAgICBAUmVxdWVzdFBhcmFtKHZhbHVlID0gImxpbWl0IiwgcmVxdWlyZWQgPSBmYWxzZSkgSW50ZWdlciBsaW1pdCkgewogICAgICAgIFBhZ2UgcGFnZSA9IFBhZ2VVdGlsLmluaXRQYWdlKHN0YXJ0LCBsaW1pdCk7CiAgICAgICAgTGlzdDxCc3piUGF5YWJsZT4gYmVhbnMgPQogICAgICAgICAgICAgICAgdGhpcy5ic3piUGF5YWJsZVNlcnZpY2UuZmluZFBhaWRXaXRoQnVzaW5lc3NCeUluY3ViYXRvclV1aWQoCiAgICAgICAgICAgICAgICAgICAgICAgIGluY3ViYXRvclV1aWQsIGJlZ2luRGF0ZSwgZW5kRGF0ZSwgdHlwZSwgcGFnZSk7CiAgICAgICAgcmV0dXJuIEdyaWRSZXN1bHQub2YocGFnZSwgKCkgLT4gdGhpcy5ic3piUGF5YWJsZUNvbnZlcnRlci5vYmpUb1BhaWRWbyhiZWFucykpOwogICAgfQo=</text>
+        <text encoding="base64">ICAvKioKICAgKiDlt7LmlLbmrL7ov53nuqbph5EKICAgKgogICAqIEBwYXJhbSBpbmN1YmF0b3JVdWlkCiAgICogQHBhcmFtIGJlZ2luRGF0ZQogICAqIEBwYXJhbSBlbmREYXRlCiAgICogQHJldHVybgogICAqLwogIEBBdXRob3JpemF0aW9uCiAgQFJlcXVlc3RNYXBwaW5nKAogICAgICB2YWx1ZSA9ICJwYWlkL2xpcXVpZGF0ZSIsCiAgICAgIG1ldGhvZCA9IHtSZXF1ZXN0TWV0aG9kLkdFVH0pCiAgQFJlc3BvbnNlQm9keQogIHB1YmxpYyBSZXN1bHQ8TGlzdDxQYXlhYmxlUGFpZExpcXVpZGF0ZVZPPj4gcGFpZExpcXVpZGF0ZSgKICAgICAgQFJlcXVlc3RQYXJhbSgiaW5jdWJhdG9yVXVpZCIpIFN0cmluZyBpbmN1YmF0b3JVdWlkLAogICAgICBAUmVxdWVzdFBhcmFtKHZhbHVlID0gImJlZ2luRGF0ZSIsIHJlcXVpcmVkID0gZmFsc2UpIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQiKQogICAgICAgICAgRGF0ZSBiZWdpbkRhdGUsCiAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAiZW5kRGF0ZSIsIHJlcXVpcmVkID0gZmFsc2UpIEBEYXRlVGltZUZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQiKQogICAgICAgICAgRGF0ZSBlbmREYXRlLAogICAgICBAUmVxdWVzdFBhcmFtKHZhbHVlID0gInN0YXJ0IiwgcmVxdWlyZWQgPSBmYWxzZSkgSW50ZWdlciBzdGFydCwKICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJsaW1pdCIsIHJlcXVpcmVkID0gZmFsc2UpIEludGVnZXIgbGltaXQpIHsKICAgIFBhZ2UgcGFnZSA9IFBhZ2VVdGlsLmluaXRQYWdlKHN0YXJ0LCBsaW1pdCk7CiAgICBMaXN0PEJzemJQYXlhYmxlPiBiZWFucyA9CiAgICAgICAgdGhpcy5ic3piUGF5YWJsZVNlcnZpY2UuZmluZFBhaWRXaXRoQnVzaW5lc3NCeUluY3ViYXRvclV1aWQoCiAgICAgICAgICAgIGluY3ViYXRvclV1aWQsIGJlZ2luRGF0ZSwgZW5kRGF0ZSwgKGJ5dGUpIDQsIHBhZ2UpOwogICAgcmV0dXJuIEdyaWRSZXN1bHQub2YocGFnZSwgKCkgLT4gdGhpcy5ic3piUGF5YWJsZUNvbnZlcnRlci5vYmpUb1BhaWRMaXF1aWRhdGVWbyhiZWFucykpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ0eXBlIiwgcmVxdWlyZWQgPSBmYWxzZSkgQnl0ZSB0eXBlLAo=</text>
+        <text encoding="base64">ICAgIEBNYXBwaW5nKHRhcmdldCA9ICJpbnZvaWNlIiwgc291cmNlID0gImV4dFBhcmFtMyIpLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE1hcHBpbmcodGFyZ2V0ID0gImRhdGUiLCBzb3VyY2UgPSAiYnVzaW5lc3MuYnVzaW5lc3NFbmREYXRlIiksCg==</text>
+        <text encoding="base64">ICBATWFwcGluZ3MoewogICAgICAgICAgQE1hcHBpbmcodGFyZ2V0ID0gInV1aWQiLCBzb3VyY2UgPSAicGF5VXVpZCIpLAogICAgICAgICAgQE1hcHBpbmcodGFyZ2V0ID0gImluY3ViYXRvciIsIHNvdXJjZSA9ICJidXNpbmVzcy5ic3piSW5jdWJhdG9yYmFzZS5pbmN1Yk5hbWUiKSwKICAgICAgICAgIEBNYXBwaW5nKHRhcmdldCA9ICJpbmN1YmF0b3JVdWlkIiwgc291cmNlID0gImJ1c2luZXNzLmJzemJJbmN1YmF0b3JiYXNlLmluY3ViVXVpZCIpLAogICAgICAgICAgQE1hcHBpbmcodGFyZ2V0ID0gImN1c3RvbSIsIHNvdXJjZSA9ICJidXNpbmVzcy5idXNpbmVzc0N1c25hbWUiKSwKICAgICAgICAgIEBNYXBwaW5nKHRhcmdldCA9ICJjdXN0b21VdWlkIiwgc291cmNlID0gImJ1c2luZXNzLmJ1c2luZXNzQ3VzdXVpZCIpLAogICAgICAgICAgQE1hcHBpbmcodGFyZ2V0ID0gImJ1c2luZXNzVXVpZCIsIHNvdXJjZSA9ICJwYXlCdXNpbmVzc3V1aWQiKSwKICAgICAgICAgIEBNYXBwaW5nKHRhcmdldCA9ICJ0eXBlIiwgc291cmNlID0gInBheVR5cGUiKSwKICAgICAgICAgIEBNYXBwaW5nKHRhcmdldCA9ICJwYXlUeXBlIiwgc291cmNlID0gInBheVBheVR5cGUiKSwKICAgICAgICAgIEBNYXBwaW5nKHRhcmdldCA9ICJiZWdpbkRhdGUiLCBzb3VyY2UgPSAicGF5QmVnaW5EYXRlIiksCiAgICAgICAgICBATWFwcGluZyh0YXJnZXQgPSAiZW5kRGF0ZSIsIHNvdXJjZSA9ICJwYXlFbmREYXRlIiksCiAgfSkKICBQYXlhYmxlUGFpZFR1cm5WTyBvYmpUb1BhaWRUdXJuVm8oQnN6YlBheWFibGUgcGF5YWJsZSk7CgogIExpc3Q8UGF5YWJsZVBhaWRUdXJuVk8+IG9ialRvUGFpZFR1cm5WbyhMaXN0PEJzemJQYXlhYmxlPiBwYXlhYmxlcyk7CgogIEBBZnRlck1hcHBpbmcKICBkZWZhdWx0IHZvaWQgb2JqVG9QYWlkVHVyblZvKEJzemJQYXlhYmxlIHBheWFibGUsIEBNYXBwaW5nVGFyZ2V0IFBheWFibGVQYWlkVHVyblZPIHZvKSB7CiAgICBpZiAocGF5YWJsZS5nZXRCdXNpbmVzcygpICE9IG51bGwpIHsKICAgICAgdm8uc2V0Tm8odGhpcy5oYW5kbGVyUGF5YWJsZU5vKHBheWFibGUpKTsKICAgIH0KICAgIAogICAgCiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQmlnRGVjaW1hbC5aRVJPLmVxdWFscyh2by5nZXRQcmljZSgpKSkgewogICAgICAgICAgICB2by5zZXRTdGF0dXMoKGJ5dGUpIDIpOwogICAgICAgIH0gZWxzZSBpZiAoQmlnRGVjaW1hbC5aRVJPLmVxdWFscyh2by5nZXRDb25maXJtKCkpKSB7CiAgICAgICAgICAgIHZvLnNldFN0YXR1cygoYnl0ZSkgMCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdm8uc2V0U3RhdHVzKChieXRlKSAxKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEBNYXBwaW5nKHRhcmdldCA9ICJsaXF1aWRhdGUiLCBzb3VyY2UgPSAibGlxdWlkYXRlLmxpcXVpZGF0ZURhbWFnZXMiKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIlBheWFibGVQYWlkRGVwb3NpdFZPeyIgKwogICAgICAgICAgICAgICAgInByaWNlPSIgKyB0aGlzLnByaWNlICsKICAgICAgICAgICAgICAgICIsIGNvbmZpcm09IiArIHRoaXMuY29uZmlybSArCiAgICAgICAgICAgICAgICAiLCB0dXJuPSIgKyB0aGlzLnR1cm4gKwogICAgICAgICAgICAgICAgIiwgdGVybVByaWNlPSIgKyB0aGlzLnRlcm1QcmljZSArCiAgICAgICAgICAgICAgICAiLCBsaXF1aWRhdGU9IiArIHRoaXMubGlxdWlkYXRlICsKICAgICAgICAgICAgICAgICIsIHBheVN0YXR1cz0iICsgdGhpcy5wYXlTdGF0dXMgKwogICAgICAgICAgICAgICAgIiwgY29uc3VtZT0iICsgdGhpcy5jb25zdW1lICsKICAgICAgICAgICAgICAgICIsIGRhdGU9IiArIHRoaXMuZGF0ZSArCiAgICAgICAgICAgICAgICAiLCBzdGF0dXM9IiArIHRoaXMuc3RhdHVzICsKICAgICAgICAgICAgICAgICIsIGludm9pY2U9IiArIHRoaXMuaW52b2ljZSArCiAgICAgICAgICAgICAgICAiLCBpbnZvaWNlT2Jzb2xldGU9IiArIHRoaXMuaW52b2ljZU9ic29sZXRlICsKICAgICAgICAgICAgICAgICIsIGNhblR1cm49IiArIHRoaXMuY2FuVHVybiArCiAgICAgICAgICAgICAgICAnfSc7CiAgICB9CgogICAgcHVibGljIEJpZ0RlY2ltYWwgZ2V0Q29uZmlybSgpIHsKICAgICAgICByZXR1cm4gdGhpcy5jb25maXJtOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENvbmZpcm0oQmlnRGVjaW1hbCBjb25maXJtKSB7CiAgICAgICAgdGhpcy5jb25maXJtID0gY29uZmlybTsKICAgIH0KCiAgICBwdWJsaWMgRG91YmxlIGdldFR1cm4oKSB7CiAgICAgICAgcmV0dXJuIHRoaXMudHVybjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRUdXJuKERvdWJsZSB0dXJuKSB7CiAgICAgICAgdGhpcy50dXJuID0gdHVybjsKICAgIH0KCiAgICBwdWJsaWMgQnl0ZSBnZXRQYXlTdGF0dXMoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMucGF5U3RhdHVzOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFBheVN0YXR1cyhCeXRlIHBheVN0YXR1cykgewogICAgICAgIHRoaXMucGF5U3RhdHVzID0gcGF5U3RhdHVzOwogICAgfQoKICAgIHB1YmxpYyBMb25nIGdldENvbnN1bWUoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMuY29uc3VtZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDb25zdW1lKExvbmcgY29uc3VtZSkgewogICAgICAgIHRoaXMuY29uc3VtZSA9IGNvbnN1bWU7CiAgICB9CgogICAgcHVibGljIEJ5dGUgZ2V0U3RhdHVzKCkgewogICAgICAgIHJldHVybiB0aGlzLnN0YXR1czsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTdGF0dXMoQnl0ZSBzdGF0dXMpIHsKICAgICAgICB0aGlzLnN0YXR1cyA9IHN0YXR1czsKICAgIH0KCiAgICBwdWJsaWMgRG91YmxlIGdldEludm9pY2UoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMuaW52b2ljZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJbnZvaWNlKERvdWJsZSBpbnZvaWNlKSB7CiAgICAgICAgdGhpcy5pbnZvaWNlID0gaW52b2ljZTsKICAgIH0KCiAgICBwdWJsaWMgRG91YmxlIGdldEludm9pY2VPYnNvbGV0ZSgpIHsKICAgICAgICByZXR1cm4gdGhpcy5pbnZvaWNlT2Jzb2xldGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0SW52b2ljZU9ic29sZXRlKERvdWJsZSBpbnZvaWNlT2Jzb2xldGUpIHsKICAgICAgICB0aGlzLmludm9pY2VPYnNvbGV0ZSA9IGludm9pY2VPYnNvbGV0ZTsKICAgIH0KCiAgICBwdWJsaWMgRGF0ZSBnZXREYXRlKCkgewogICAgICAgIHJldHVybiB0aGlzLmRhdGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RGF0ZShEYXRlIGRhdGUpIHsKICAgICAgICB0aGlzLmRhdGUgPSBkYXRlOwogICAgfQoKICAgIHB1YmxpYyBCaWdEZWNpbWFsIGdldFByaWNlKCkgewogICAgICAgIHJldHVybiB0aGlzLnByaWNlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFByaWNlKEJpZ0RlY2ltYWwgcHJpY2UpIHsKICAgICAgICB0aGlzLnByaWNlID0gcHJpY2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q2FuVHVybihEb3VibGUgY2FuVHVybikgewogICAgICAgIHRoaXMuY2FuVHVybiA9IGNhblR1cm47CiAgICB9CgoKICAgIHB1YmxpYyBEb3VibGUgZ2V0VGVybVByaWNlKCkgewogICAgICAgIHJldHVybiB0aGlzLnRlcm1QcmljZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRUZXJtUHJpY2UoRG91YmxlIHRlcm1QcmljZSkgewogICAgICAgIHRoaXMudGVybVByaWNlID0gdGVybVByaWNlOwogICAgfQoKICAgIHB1YmxpYyBEb3VibGUgZ2V0TGlxdWlkYXRlKCkgewogICAgICAgIHJldHVybiB0aGlzLmxpcXVpZGF0ZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRMaXF1aWRhdGUoRG91YmxlIGxpcXVpZGF0ZSkgewogICAgICAgIHRoaXMubGlxdWlkYXRlID0gbGlxdWlkYXRlOwogICAgfQo=</text>
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5ld0J1c2luZXNzVXVpZCgpIHsKICAgIHJldHVybiB0aGlzLm5ld0J1c2luZXNzVXVpZDsKICB9CgogIHB1YmxpYyB2b2lkIHNldE5ld0J1c2luZXNzVXVpZChTdHJpbmcgbmV3QnVzaW5lc3NVdWlkKSB7CiAgICB0aGlzLm5ld0J1c2luZXNzVXVpZCA9IG5ld0J1c2luZXNzVXVpZDsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0T2xkUGF5YWJsZVV1aWQoKSB7CiAgICByZXR1cm4gdGhpcy5vbGRQYXlhYmxlVXVpZDsKICB9CgogIHB1YmxpYyB2b2lkIHNldE9sZFBheWFibGVVdWlkKFN0cmluZyBvbGRQYXlhYmxlVXVpZCkgewogICAgdGhpcy5vbGRQYXlhYmxlVXVpZCA9IG9sZFBheWFibGVVdWlkOwogIH0KCiAgcHVibGljIFN0cmluZyBnZXRPbGRCdXNpbmVzc1V1aWQoKSB7CiAgICByZXR1cm4gdGhpcy5vbGRCdXNpbmVzc1V1aWQ7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRPbGRCdXNpbmVzc1V1aWQoU3RyaW5nIG9sZEJ1c2luZXNzVXVpZCkgewogICAgdGhpcy5vbGRCdXNpbmVzc1V1aWQgPSBvbGRCdXNpbmVzc1V1aWQ7CiAgfQoKICBwdWJsaWMgQmlnRGVjaW1hbCBnZXRQcmljZSgpIHsKICAgIHJldHVybiB0aGlzLnByaWNlOwogIH0KCiAgcHVibGljIHZvaWQgc2V0UHJpY2UoQmlnRGVjaW1hbCBwcmljZSkgewogICAgdGhpcy5wcmljZSA9IHByaWNlOwogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQnl0ZSBzdGF0dXM7CgogICAgcHJpdmF0ZSBEb3VibGUgaW52b2ljZTsKCiAgICBwcml2YXRlIERvdWJsZSBpbnZvaWNlT2Jzb2xldGU7CgogICAgcHJpdmF0ZSBEb3VibGUgY2FuVHVybjsK</text>
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5ld3BheWFibGVObygpIHsKICAgIHJldHVybiB0aGlzLm5ld3BheWFibGVObzsKICB9CgogIHB1YmxpYyB2b2lkIHNldE5ld3BheWFibGVObyhTdHJpbmcgbmV3cGF5YWJsZU5vKSB7CiAgICB0aGlzLm5ld3BheWFibGVObyA9IG5ld3BheWFibGVObzsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0T2xkUGF5YWJsZU5vKCkgewogICAgcmV0dXJuIHRoaXMub2xkUGF5YWJsZU5vOwogIH0KCiAgcHVibGljIHZvaWQgc2V0T2xkUGF5YWJsZU5vKFN0cmluZyBvbGRQYXlhYmxlTm8pIHsKICAgIHRoaXMub2xkUGF5YWJsZU5vID0gb2xkUGF5YWJsZU5vOwogIH0KCiAgcHVibGljIERhdGUgZ2V0Q3JlYXRlVGltZSgpIHsKICAgIHJldHVybiB0aGlzLmNyZWF0ZVRpbWU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRDcmVhdGVUaW1lKERhdGUgY3JlYXRlVGltZSkgewogICAgdGhpcy5jcmVhdGVUaW1lID0gY3JlYXRlVGltZTsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0TmV3UGF5YWJsZVV1aWQoKSB7CiAgICByZXR1cm4gdGhpcy5uZXdQYXlhYmxlVXVpZDsKICB9CgogIHB1YmxpYyB2b2lkIHNldE5ld1BheWFibGVVdWlkKFN0cmluZyBuZXdQYXlhYmxlVXVpZCkgewogICAgdGhpcy5uZXdQYXlhYmxlVXVpZCA9IG5ld1BheWFibGVVdWlkOwogIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQmlnRGVjaW1hbCBjb25maXJtOwoKICAgIHByaXZhdGUgRG91YmxlIHR1cm47CgogICAgcHJpdmF0ZSBEb3VibGUgdGVybVByaWNlOwoKICAgIHByaXZhdGUgRG91YmxlIGxpcXVpZGF0ZTsKCiAgICBwcml2YXRlIEJ5dGUgcGF5U3RhdHVzOwoKICAgIHByaXZhdGUgTG9uZyBjb25zdW1lOwoK</text>
+        <text encoding="base64">ICBwcml2YXRlIERhdGUgY3JlYXRlVGltZTsKICBwcml2YXRlIFN0cmluZyBvbGRQYXlhYmxlVXVpZDsKICBwcml2YXRlIFN0cmluZyBvbGRCdXNpbmVzc1V1aWQ7CiAgcHJpdmF0ZSBCaWdEZWNpbWFsIHByaWNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEludm9pY2VPYnNvbGV0ZShEb3VibGUgaW52b2ljZU9ic29sZXRlKSB7CiAgICAgICAgdGhpcy5pbnZvaWNlT2Jzb2xldGUgPSBpbnZvaWNlT2Jzb2xldGU7CiAgICB9CgogICAgcHVibGljIERvdWJsZSBnZXRDYW5UdXJuKCkgewogICAgICAgIHJldHVybiB0aGlzLmNhblR1cm47CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q2FuVHVybihEb3VibGUgY2FuVHVybikgewogICAgICAgIHRoaXMuY2FuVHVybiA9IGNhblR1cm47CiAgICB9Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBuZXdwYXlhYmxlTm87CiAgcHJpdmF0ZSBTdHJpbmcgbmV3UGF5YWJsZVV1aWQ7CiAgcHJpdmF0ZSBTdHJpbmcgbmV3QnVzaW5lc3NVdWlkOwoKICBwcml2YXRlIFN0cmluZyBvbGRQYXlhYmxlTm87Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBEb3VibGUgZ2V0SW52b2ljZSgpIHsKICAgICAgICByZXR1cm4gdGhpcy5pbnZvaWNlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEludm9pY2UoRG91YmxlIGludm9pY2UpIHsKICAgICAgICB0aGlzLmludm9pY2UgPSBpbnZvaWNlOwogICAgfQoKICAgIHB1YmxpYyBEb3VibGUgZ2V0SW52b2ljZU9ic29sZXRlKCkgewogICAgICAgIHJldHVybiB0aGlzLmludm9pY2VPYnNvbGV0ZTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJ0eXBlIiwgcmVxdWlyZWQgPSBmYWxzZSkgQnl0ZSB0eXBlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldENvbnN1bWUoTG9uZyBjb25zdW1lKSB7CiAgICAgICAgdGhpcy5jb25zdW1lID0gY29uc3VtZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE1hcHBpbmcodGFyZ2V0ID0gImRhdGUiLCBzb3VyY2UgPSAiYnVzaW5lc3MuYnVzaW5lc3NFbmREYXRlIiksCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1BhaWQvUGFpZERlcG9zaXQvZw==</text>
+        <text encoding="base64">JzwsJz5zL0xpcXVpZGF0ZS9UdXJuL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>Paid</last-search>
+      <last-search>Liquidate</last-search>
       <last-offset />
-      <last-pattern>Paid</last-pattern>
-      <last-replace>PaidDeposit</last-replace>
-      <last-substitute>Paid</last-substitute>
+      <last-pattern>Liquidate</last-pattern>
+      <last-replace>Turn</last-replace>
+      <last-substitute>Liquidate</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEYXRlVXRpbFw+</entry>
         <entry encoding="base64">XDxic3piUGF5YWJsZVRlcm1cPg==</entry>
         <entry encoding="base64">XDxCc3piUGF5YWJsZVw+</entry>
         <entry>incubatorUuid</entry>
@@ -770,9 +752,9 @@
         <entry>Obsolete</entry>
         <entry>Pending</entry>
         <entry>Paid</entry>
+        <entry>Liquidate</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4vc0luY3ViYXRpbmcvUmVzaWRlbnQvZw==</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action Replace</entry>
         <entry>action CompileProject</entry>
@@ -792,6 +774,7 @@
         <entry encoding="base64">JzwsJz5zL09ic29sZXRlL1BhaWQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1BlbmRpbmcvUGFpZC9n</entry>
         <entry encoding="base64">JzwsJz5zL1BhaWQvUGFpZERlcG9zaXQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0xpcXVpZGF0ZS9UdXJuL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />

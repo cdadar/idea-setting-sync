@@ -4,22 +4,22 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="jsonIgnoreProperties" value="@JsonIgnoreProperties(ignoreUnknown = true)" description="@JsonIgnoreProperties(ignoreUnknown = true)" toReformat="false" toShortenFQNames="true">
+  <template name="jsonIgnoreProperties" value="@JsonIgnoreProperties(ignoreUnknown = true)" description="jackjson bean 的多余输入字段忽略" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="date" value="@DateTimeFormat(pattern = &quot;yyyy-MM-dd&quot;)&#10;" description="date" toReformat="false" toShortenFQNames="true">
+  <template name="date" value="@DateTimeFormat(pattern = &quot;yyyy-MM-dd&quot;)&#10;" description="controller 参数的时间格式" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="time" value="@DateTimeFormat(pattern = &quot;yyyy-MM-dd HH:mm:ss&quot;)&#10;" description="time" toReformat="false" toShortenFQNames="true">
+  <template name="time" value="@DateTimeFormat(pattern = &quot;yyyy-MM-dd HH:mm:ss&quot;)&#10;" description="controller 参数的时间格式" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="mapper" value="@Mapper(componentModel = &quot;spring&quot;)" description="@Mapper(componentModel = &quot;spring&quot;)" toReformat="false" toShortenFQNames="true">
+  <template name="mapper" value="@Mapper(componentModel = &quot;spring&quot;)" description="mapstruct 类 spring 管理" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

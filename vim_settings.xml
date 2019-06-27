@@ -687,7 +687,7 @@
         <text>Custom</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CUlERSBhbmQgUGx1Z2luIFVwZGF0ZXM6IFdlIHdhbnRlZCB5b3VyIElERSB0byByZWNlaXZlIHVwZ3JhZGVzIG92ZXIgYSBzZWN1cmUgY29ubmVjdGlvbi4gVW5mb3J0dW5hdGVseSwgdGhpcyBkb2Vzbid0IHdvcmsgd2l0aCB0aGUgJ2pzc2UuZW5hYmxlU05JRXh0ZW5zaW9uJyBwcm9wZXJ0eSBzZXQgdG8gJ2ZhbHNlJy4gVGhlIElERSB3aWxsIHVzZSBwbGFpbiBIVFRQIGNvbm5lY3Rpb25zIHdoZW4gY2hlY2tpbmcgZm9yIHVwZGF0ZXMu</text>
+        <text>IDE and Plugin Updates: We wanted your IDE to receive upgrades over a secure connection. Unfortunately, this doesn't work with the 'jsse.enableSNIExtension' property set to 'false'. The IDE will use plain HTTP connections when checking for updates.</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ewogICJuZXdCdXNpbmVzc1V1aWQiOiAiOEQ3RjY1NEU3QUU0NDEyQzk5Nzk4QTBDNEFDNjJBOEYiLAogICJuZXdQYXlhYmxlVXVpZCI6ICJBQkI3RDc3NDAwMjM0MjM0QUQxQzMyMjZENTlCRDhEQSIsCiAgInByaWNlIjogIjEiLAogICJvbGRQYXlhYmxlVXVpZCI6ICI2NEU2NTJFQ0NDMUQ0RjQ4QTlFNjY4NDJDMDFGNDE5QyIsCiAgIm9sZEJ1c2luZXNzVXVpZCI6ICJCMkY0MjU0RkUyQkI0QzREQjlBOTJFMjAxRjdGQjZBNCIKfQo=</text>

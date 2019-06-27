@@ -51,6 +51,7 @@
         <mark key="^" line="115" column="19" />
         <mark key="." line="115" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/.gitignore" timestamp="1561606621271" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/test/java/com/eazer/bszb/incubator/service/impl/BszbIncubatorbaseServiceImplTest.java" timestamp="1560334560311">
         <mark key="[" line="27" column="93" />
         <mark key="]" line="27" column="93" />

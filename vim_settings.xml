@@ -141,7 +141,6 @@
         <mark key="^" line="525" column="35" />
         <mark key="." line="525" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIndepositTurnServiceImpl.java" timestamp="1561553769409" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbCustomInvoiceMapper.xml" timestamp="1560477040269">
         <mark key="[" line="548" column="76" />
         <mark key="]" line="551" column="43" />
@@ -423,7 +422,6 @@
         <mark key="^" line="57" column="45" />
         <mark key="." line="57" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessIndepositTurnController.java" timestamp="1561553721979" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" timestamp="1561370339334">
         <mark key="[" line="835" column="0" />
         <mark key="]" line="835" column="0" />
@@ -722,7 +720,7 @@
         <text encoding="base64">LXNlcnZlcgotWG1zMTI4bQotWG14MTUzNm0KLVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT0yNDBtCi1YWDorVXNlQ29uY01hcmtTd2VlcEdDCi1YWDpTb2Z0UmVmTFJVUG9saWN5TVNQZXJNQj01MAotZWEKLURzdW4uaW8udXNlQ2Fub25DYWNoZXM9ZmFsc2UKLURqYXZhLm5ldC5wcmVmZXJJUHY0U3RhY2s9dHJ1ZQotRGpkay5odHRwLmF1dGgudHVubmVsaW5nLmRpc2FibGVkU2NoZW1lcz0iIgotWFg6K0hlYXBEdW1wT25PdXRPZk1lbW9yeUVycm9yCi1YWDotT21pdFN0YWNrVHJhY2VJbkZhc3RUaHJvdwotRGF3dC51c2VTeXN0ZW1BQUZvbnRTZXR0aW5ncz1sY2QKLURzdW4uamF2YTJkLnJlbmRlcmVyPXN1bi5qYXZhMmQubWFybGluLk1hcmxpblJlbmRlcmluZ0VuZ2luZQotRGlkZS5uby5wbGF0Zm9ybS51cGRhdGU9dHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action EditorStartNewLine</text>
       </register>
     </registers>
     <search>
@@ -769,7 +767,6 @@
         <entry>%s/incubator/custom/g</entry>
         <entry>s/Incubator/Custom/g</entry>
         <entry>%s/Incubator/Custom/g</entry>
-        <entry>action EditorStartNewLine</entry>
         <entry>action TypeHierarchy</entry>
         <entry>%s/Custom/Incubator/g</entry>
         <entry>action GotoNextError</entry>
@@ -778,6 +775,7 @@
         <entry>action RearrangeCode</entry>
         <entry>action Back</entry>
         <entry>action Find</entry>
+        <entry>action EditorStartNewLine</entry>
       </history-cmd>
       <history-expr />
       <history-input />

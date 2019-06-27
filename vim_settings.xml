@@ -15,7 +15,7 @@
         <mark key="." line="130" column="15" />
         <mark key="^" line="134" column="44" />
       </file>
-      <file name="/a.dummy" timestamp="1561546167457">
+      <file name="/a.dummy" timestamp="1561628777880">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="0" />
@@ -32,12 +32,6 @@
         <mark key="]" line="22" column="46" />
         <mark key="." line="21" column="10" />
         <mark key="^" line="21" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/base/config/spring-mvc.xml" timestamp="1561548333814">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayablePaidTodoVO.java" timestamp="1561516515448">
         <mark key="[" line="54" column="0" />
@@ -87,11 +81,11 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/settled.http" timestamp="1561554744112">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="144" column="97" />
-        <mark key="]" line="144" column="97" />
-        <mark key="." line="144" column="97" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/Alimobile.java" timestamp="1561629433591">
+        <mark key="[" line="268" column="6" />
+        <mark key="]" line="63" column="19" />
+        <mark key="." line="63" column="19" />
+        <mark key="^" line="63" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_16.sql" timestamp="1561010747116">
         <mark key="[" line="55" column="0" />
@@ -245,6 +239,12 @@
         <mark key="." line="0" column="966" />
         <mark key="^" line="0" column="965" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/controller/BaseController.java" timestamp="1561630854608">
+        <mark key="[" line="39" column="2" />
+        <mark key="]" line="39" column="2" />
+        <mark key="^" line="70" column="19" />
+        <mark key="." line="39" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbPayableServiceImpl.java" timestamp="1561626168890">
         <mark key="^" line="1410" column="13" />
       </file>
@@ -266,6 +266,16 @@
         <mark key="]" line="213" column="3" />
         <mark key="^" line="583" column="17" />
         <mark key="." line="152" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/wf/service/aop/WfInstanceHistoryAopService.java" timestamp="1561629050892">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="95" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/ApplicationUtil.java" timestamp="1561628747370">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="10" />
+        <mark key="." line="19" column="10" />
+        <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiSettledServiceImpl.java" timestamp="1561540393277">
         <mark key="[" line="829" column="0" />
@@ -344,6 +354,12 @@
         <mark key="[" line="77" column="14" />
         <mark key="]" line="77" column="46" />
         <mark key="." line="77" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/interceptor/AuthorizationInterceptor.java" timestamp="1561630175568">
+        <mark key="[" line="42" column="51" />
+        <mark key="]" line="42" column="51" />
+        <mark key="." line="42" column="12" />
+        <mark key="^" line="42" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubatorbaseServiceImpl.java" timestamp="1560395700411">
         <mark key="[" line="152" column="27" />
@@ -474,9 +490,12 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561626162142">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/BaseConstant.java" timestamp="1561630277490">
+        <mark key="[" line="90" column="39" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1561630373727">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="19" />
       </file>
@@ -578,7 +597,7 @@
         <mark key="]" line="63" column="32" />
         <mark key="." line="63" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1561627689737">
+      <file name="/fragment.java" timestamp="1561629439535">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -694,49 +713,49 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>business</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>Custom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdm8uc2V0QnVzaW5lc3NJbnRlcnZhbCgKICAgICAgICAgIERhdGVVdGlsLmJldHdlZW4oRGF0ZVV0aWwuZGF0ZSgpLCBidXNpbmVzcy5nZXRCdXNpbmVzc0VuZERhdGUoKSwgRGF0ZVVuaXQuTUlOVVRFLCBmYWxzZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgTE9HLmluZm8oIuaWh+S7tuaJk+W8gOmUmeivrzogJXMiLCBleC5nZXRNZXNzYWdlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgTE9HID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoV2ZJbnN0YW5jZUhpc3RvcnlBb3BTZXJ2aWNlLmNsYXNzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdm8uc2V0QnVzaW5lc3NJbnRlcnZhbCgKICAgICAgICAgIERhdGVVdGlsLmJldHdlZW4oRGF0ZVV0aWwuZGF0ZSgpLCBidXNpbmVzcy5nZXRCdXNpbmVzc0VuZERhdGUoKSwgRGF0ZVVuaXQuTUlOVVRFLCBmYWxzZSkpOwo=</text>
+        <text encoding="base64">ICAgIH0KICAgIHJldHVybiBuZXcgRXJyb3JFbnRpdHkoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdm8uc2V0QnVzaW5lc3NJbnRlcnZhbCgKICAgICAgICAgICAgICBEYXRlVXRpbC5iZXR3ZWVuKERhdGVVdGlsLmRhdGUoKSwgdm8uZ2V0RGVhZGxpbmUoKSwgRGF0ZVVuaXQuTUlOVVRFLCBmYWxzZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgRXJyb3JFbnRpdHkgZXJyb3JFbnRpdHkgPQogICAgICAgICAgbmV3IEVycm9yRW50aXR5KCgoRmllbGRFcnJvcikgb2JqZWN0RXJyb3IpLmdldEZpZWxkKCksIG9iamVjdEVycm9yLmdldERlZmF1bHRNZXNzYWdlKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSByZWZpZD0ic3RhdGlzdGljc0FsbFdpdGhCdXNpbmVzcyIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSByZWZpZD0ic3RhdGlzdGljc0FsbFdpdGhCdXNpbmVzcyIvPgo=</text>
+        <text encoding="base64">ICAgICAgdm8uc2V0QnVzaW5lc3NJbnRlcnZhbCgKICAgICAgICAgIERhdGVVdGlsLmJldHdlZW4oRGF0ZVV0aWwuZGF0ZSgpLCBidXNpbmVzcy5nZXRCdXNpbmVzc0VuZERhdGUoKSwgRGF0ZVVuaXQuTUlOVVRFLCBmYWxzZSkpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>e</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSByZWZpZD0ic3RhdGlzdGljc0FsbFdpdGhCdXNpbmVzcyIvPgo=</text>
+        <text encoding="base64">ICAgICAgdm8uc2V0QnVzaW5lc3NJbnRlcnZhbCgKICAgICAgICAgICAgICBEYXRlVXRpbC5iZXR3ZWVuKERhdGVVdGlsLmRhdGUoKSwgdm8uZ2V0RGVhZGxpbmUoKSwgRGF0ZVVuaXQuTUlOVVRFLCBmYWxzZSkpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICA8aW5jbHVkZSByZWZpZD0ic3RhdGlzdGljc0FsbFdpdGhCdXNpbmVzcyIvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9InN0YXRpc3RpY3NPdmVyZHVlV2l0aEJ1c2luZXNzQnlJbmN1YmF0b3JVdWlkIiByZXN1bHRNYXA9IkJzemJQYXlhYmxlIgogICAgICAgICAgICBwYXJhbWV0ZXJUeXBlPSJCc3piUGF5YWJsZSI+CiAgICAgICAgPGluY2x1ZGUgcmVmaWQ9ImZpbmRBbGxXaXRoQnVzaW5lc3MiLz4KICAgICAgICBhbmQgYWEuUEFZX1BBWV9UWVBFID0gMAogICAgICAgIGFuZCBhYS5QQVlfSVNfVEVSTSA9IDAKICAgICAgICBhbmQgYWEuUEFZX1NUQVRVUyA9IDEKICAgICAgICBhbmQgYWEuUEFZX0NPTkZJUk0gPSAwIGFuZCBhYS5wYXlfZGF0ZSAmbHQ7IGRhdGVfZm9ybWF0KG5vdygpLCclWS0lbS0lZCcpIGFuZAogICAgICAgIERBVEVESUZGKG5vdygpLGFhLlBBWV9EQVRFICkgJmx0Oz0gMTAKICAgICAgICBvcmRlciBieSBhYS5QQVlfREFURQogICAgPC9zZWxlY3Q+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSByZWZpZD0ic3RhdGlzdGljc0FsbFdpdGhCdXNpbmVzcyIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSByZWZpZD0ic3RhdGlzdGljc0FsbFdpdGhCdXNpbmVzcyIvPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -786,12 +805,12 @@
         <entry>%s/Custom/Incubator/g</entry>
         <entry>action GotoNextError</entry>
         <entry>action Replace</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action RearrangeCode</entry>
         <entry>action EditorStartNewLine</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action Find</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />

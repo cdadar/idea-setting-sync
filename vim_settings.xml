@@ -45,7 +45,6 @@
         <mark key="^" line="115" column="19" />
         <mark key="." line="115" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbFuhuaqiSettledConverter.java" timestamp="1561690282230" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/test/java/com/eazer/bszb/incubator/service/impl/BszbIncubatorbaseServiceImplTest.java" timestamp="1560334560311">
         <mark key="[" line="27" column="93" />
         <mark key="]" line="27" column="93" />
@@ -262,10 +261,6 @@
         <mark key="." line="506" column="1" />
         <mark key="^" line="506" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/wf/service/aop/WfInstanceHistoryAopService.java" timestamp="1561629050892">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="95" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/ApplicationUtil.java" timestamp="1561628747370">
         <mark key="[" line="19" column="10" />
         <mark key="]" line="19" column="10" />
@@ -277,10 +272,6 @@
         <mark key="]" line="829" column="106" />
         <mark key="^" line="458" column="52" />
         <mark key="." line="829" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/profiles/dev/config.properties" timestamp="1561624766988">
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbCustomMapper.xml" timestamp="1561105637938">
         <mark key="[" line="352" column="17" />
@@ -299,6 +290,11 @@
         <mark key="]" line="431" column="104" />
         <mark key="^" line="431" column="103" />
         <mark key="." line="431" column="83" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/incubator.http" timestamp="1561703539925">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="49" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_7.sql" timestamp="1560252777407">
         <mark key="[" line="26" column="56" />
@@ -356,11 +352,11 @@
         <mark key="." line="42" column="12" />
         <mark key="^" line="42" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubatorbaseServiceImpl.java" timestamp="1560395700411">
-        <mark key="[" line="152" column="27" />
-        <mark key="]" line="152" column="26" />
-        <mark key="^" line="152" column="26" />
-        <mark key="." line="152" column="26" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubatorbaseServiceImpl.java" timestamp="1561703939859">
+        <mark key="[" line="361" column="7" />
+        <mark key="]" line="364" column="0" />
+        <mark key="^" line="361" column="7" />
+        <mark key="." line="364" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_5.sql" timestamp="1560255275936">
         <mark key="[" line="8" column="87" />
@@ -379,11 +375,14 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="799" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbIncubatorbaseMapper.xml" timestamp="1561012823370">
-        <mark key="[" line="498" column="0" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbIncubatorbaseMapper.xml" timestamp="1561703312348">
+        <mark key="[" line="845" column="61" />
         <mark key="]" line="512" column="27" />
         <mark key="^" line="498" column="60" />
         <mark key="." line="498" column="60" />
+      </file>
+      <file name="/bszb.bszb_incubatorbase [bszb@120.26.120.234]" timestamp="1561704033708">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbCustomTagRelateMapper.xml" timestamp="1561105619373">
         <mark key="[" line="162" column="14" />
@@ -411,7 +410,6 @@
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/util/MapstrcutUtil.java" timestamp="1561691568228">
         <mark key="[" line="28" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/common/controller/BszbBusinessController.java" timestamp="1561690220174" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbCustomInvoiceServiceImpl.java" timestamp="1561370103295">
         <mark key="[" line="714" column="0" />
         <mark key="]" line="714" column="117" />
@@ -488,7 +486,7 @@
       <file name="/Dummy.vm" timestamp="1561625355963">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1561111697860">
+      <file name="/dummy.sql" timestamp="1561703948064">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="52" />
         <mark key="^" line="0" column="19" />
@@ -601,7 +599,7 @@
         <mark key="]" line="63" column="32" />
         <mark key="." line="63" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1561629439535">
+      <file name="/fragment.java" timestamp="1561703658299">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -717,49 +715,73 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>2E444DB2FCFC421E84DE845CC574B6B6</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>Custom</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChtb2RlbC5nZXRCc3piQnVzaW5lc3MoKSAhPSBudWxsKSB7Cg==</text>
+      <register name="0" type="4">
+        <text>A44218FE6DF8436D9E235674BC044BB8</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYnN6YkJ1c2luZXNzID0gKHRoaXMuYnN6YkJ1c2luZXNzID09IG51bGwgPyBuZXcgQnN6YkJ1c2luZXNzKCkgOiB0aGlzLmJzemJCdXNpbmVzcyk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgTE9HID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoV2ZJbnN0YW5jZUhpc3RvcnlBb3BTZXJ2aWNlLmNsYXNzKTsK</text>
+      <register name="2" type="4">
+        <text>else {
+        LOG.error(&quot;获取孵化器失败！&quot; + &quot;\t&quot; + &quot;孵化器已经重复&quot;);
+        return null;
+      }
+    } else {</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0KICAgIHJldHVybiBuZXcgRXJyb3JFbnRpdHkoKTsK</text>
+        <text encoding="base64">ICAgIGJlYW4gPSB0aGlzLmZpbmRPbmVCeUZ1dWlkKGJlYW4pOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgRXJyb3JFbnRpdHkgZXJyb3JFbnRpdHkgPQogICAgICAgICAgbmV3IEVycm9yRW50aXR5KCgoRmllbGRFcnJvcikgb2JqZWN0RXJyb3IpLmdldEZpZWxkKCksIG9iamVjdEVycm9yLmdldERlZmF1bHRNZXNzYWdlKCkpOwo=</text>
+      <register name="4" type="4">
+        <text>{
+  &quot;name&quot;: &quot;杭州极讯企业管理有限公司&quot;,
+  &quot;hatchManager&quot;: &quot;俞恺灵&quot;,
+  &quot;admin&quot;: &quot;虞丽丽&quot;,
+  &quot;uuid&quot;: &quot;A44218FE6DF8436D9E235674BC044BB8&quot;,
+  &quot;sort&quot;: &quot;PRO&quot;,
+  &quot;region&quot;: [
+    &quot;12&quot;,
+    &quot;1201&quot;,
+    &quot;120101&quot;
+  ],
+  &quot;address&quot;: &quot;文化广场&quot;,
+  &quot;files&quot;: &quot;http://bszbtest.oss-cn-hangzhou.aliyuncs.com/2019/04/微信图片_20180803094048_1555659561384.jpg&quot;,
+  &quot;stationSum&quot;: 100,
+  &quot;stationUsedSum&quot;: 20,
+  &quot;addressSum&quot;: 80,
+  &quot;addressUsedSum&quot;: 10,
+  &quot;hatchManagerUuid&quot;: &quot;ED3E2D24F7414CCF82CD6682D3D685BF&quot;,
+  &quot;adminUuid&quot;: &quot;7A5632E24B014D3485A461A73AFD108C&quot;,
+  &quot;adminContact&quot;: &quot;13562623636&quot;
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuYnN6YkJ1c2luZXNzID0gKHRoaXMuYnN6YkJ1c2luZXNzID09IG51bGwgPyBuZXcgQnN6YkJ1c2luZXNzKCkgOiB0aGlzLmJzemJCdXNpbmVzcyk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>e</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdm8uc2V0QnVzaW5lc3NJbnRlcnZhbCgKICAgICAgICAgIERhdGVVdGlsLmJldHdlZW4oRGF0ZVV0aWwuZGF0ZSgpLCBidXNpbmVzcy5nZXRCdXNpbmVzc0VuZERhdGUoKSwgRGF0ZVVuaXQuTUlOVVRFLCBmYWxzZSkpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgTE9HID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoV2ZJbnN0YW5jZUhpc3RvcnlBb3BTZXJ2aWNlLmNsYXNzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdm8uc2V0QnVzaW5lc3NJbnRlcnZhbCgKICAgICAgICAgICAgICBEYXRlVXRpbC5iZXR3ZWVuKERhdGVVdGlsLmRhdGUoKSwgdm8uZ2V0RGVhZGxpbmUoKSwgRGF0ZVVuaXQuTUlOVVRFLCBmYWxzZSkpOwo=</text>
+        <text encoding="base64">ICAgIH0KICAgIHJldHVybiBuZXcgRXJyb3JFbnRpdHkoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSByZWZpZD0ic3RhdGlzdGljc0FsbFdpdGhCdXNpbmVzcyIvPgo=</text>
+        <text encoding="base64">ICAgICAgRXJyb3JFbnRpdHkgZXJyb3JFbnRpdHkgPQogICAgICAgICAgbmV3IEVycm9yRW50aXR5KCgoRmllbGRFcnJvcikgb2JqZWN0RXJyb3IpLmdldEZpZWxkKCksIG9iamVjdEVycm9yLmdldERlZmF1bHRNZXNzYWdlKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSByZWZpZD0ic3RhdGlzdGljc0FsbFdpdGhCdXNpbmVzcyIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CompileProject</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -812,9 +834,9 @@
         <entry>action EditorStartNewLine</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action Find</entry>
-        <entry>action Back</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action CompileProject</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />

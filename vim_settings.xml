@@ -33,6 +33,7 @@
         <mark key="." line="21" column="10" />
         <mark key="^" line="21" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbCustomBusinessController.java" timestamp="1561705535274" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayablePaidTodoVO.java" timestamp="1561516515448">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -599,7 +600,7 @@
         <mark key="]" line="63" column="32" />
         <mark key="." line="63" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1561703658299">
+      <file name="/fragment.java" timestamp="1561705510016">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -715,7 +716,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>payable</text>
       </register>
       <register name="/" type="4">
         <text>Custom</text>
@@ -724,22 +725,25 @@
         <text>A44218FE6DF8436D9E235674BC044BB8</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkIHByaXZhdGUgSUJzemJQYXlhYmxlU2VydmljZSBic3piUGF5YWJsZVNlcnZpY2U7CiAgQEF1dG93aXJlZCBwcml2YXRlIEJzemJQYXlhYmxlQ29udmVydGVyIGJzemJQYXlhYmxlQ29udmVydGVyOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="4">
         <text>else {
         LOG.error(&quot;获取孵化器失败！&quot; + &quot;\t&quot; + &quot;孵化器已经重复&quot;);
         return null;
       }
     } else {</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGJlYW4gPSB0aGlzLmZpbmRPbmVCeUZ1dWlkKGJlYW4pOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
   &quot;name&quot;: &quot;杭州极讯企业管理有限公司&quot;,
   &quot;hatchManager&quot;: &quot;俞恺灵&quot;,
@@ -762,23 +766,20 @@
   &quot;adminContact&quot;: &quot;13562623636&quot;
 }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYnN6YkJ1c2luZXNzID0gKHRoaXMuYnN6YkJ1c2luZXNzID09IG51bGwgPyBuZXcgQnN6YkJ1c2luZXNzKCkgOiB0aGlzLmJzemJCdXNpbmVzcyk7Cg==</text>
-      </register>
       <register name="u" type="4">
         <text>e</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgTE9HID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoV2ZJbnN0YW5jZUhpc3RvcnlBb3BTZXJ2aWNlLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuYnN6YkJ1c2luZXNzID0gKHRoaXMuYnN6YkJ1c2luZXNzID09IG51bGwgPyBuZXcgQnN6YkJ1c2luZXNzKCkgOiB0aGlzLmJzemJCdXNpbmVzcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0KICAgIHJldHVybiBuZXcgRXJyb3JFbnRpdHkoKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgTE9HID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoV2ZJbnN0YW5jZUhpc3RvcnlBb3BTZXJ2aWNlLmNsYXNzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgRXJyb3JFbnRpdHkgZXJyb3JFbnRpdHkgPQogICAgICAgICAgbmV3IEVycm9yRW50aXR5KCgoRmllbGRFcnJvcikgb2JqZWN0RXJyb3IpLmdldEZpZWxkKCksIG9iamVjdEVycm9yLmdldERlZmF1bHRNZXNzYWdlKCkpOwo=</text>
+        <text encoding="base64">ICAgIH0KICAgIHJldHVybiBuZXcgRXJyb3JFbnRpdHkoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRXJyb3JFbnRpdHkgZXJyb3JFbnRpdHkgPQogICAgICAgICAgbmV3IEVycm9yRW50aXR5KCgoRmllbGRFcnJvcikgb2JqZWN0RXJyb3IpLmdldEZpZWxkKCksIG9iamVjdEVycm9yLmdldERlZmF1bHRNZXNzYWdlKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>

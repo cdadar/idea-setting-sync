@@ -50,10 +50,11 @@
         <mark key="^" line="115" column="19" />
         <mark key="." line="115" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubCustomController.java" timestamp="1561710649018">
-        <mark key="[" line="106" column="11" />
-        <mark key="]" line="110" column="24" />
-        <mark key="." line="110" column="24" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubCustomController.java" timestamp="1561948934991">
+        <mark key="[" line="94" column="2" />
+        <mark key="]" line="95" column="1" />
+        <mark key="." line="95" column="1" />
+        <mark key="^" line="95" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/CustomInfoVO.java" timestamp="1561948157476">
         <mark key="[" line="9" column="13" />

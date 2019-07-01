@@ -55,6 +55,9 @@
         <mark key="]" line="110" column="24" />
         <mark key="." line="110" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/CustomInfoVO.java" timestamp="1561948157476">
+        <mark key="[" line="9" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/test/java/com/eazer/bszb/incubator/service/impl/BszbIncubatorbaseServiceImplTest.java" timestamp="1560334560311">
         <mark key="[" line="27" column="93" />
         <mark key="]" line="27" column="93" />
@@ -242,7 +245,6 @@
         <mark key="^" line="445" column="11" />
         <mark key="." line="445" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubAimsServiceImpl.java" timestamp="1561946465614" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/PayablePendingRefundVO.java" timestamp="1561517731200">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="20" />

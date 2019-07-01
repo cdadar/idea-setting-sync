@@ -15,7 +15,7 @@
         <mark key="." line="40" column="4" />
         <mark key="^" line="40" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1561709953969">
+      <file name="/a.dummy" timestamp="1561965281493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="0" />
@@ -110,6 +110,9 @@
         <mark key="]" line="63" column="19" />
         <mark key="." line="63" column="19" />
         <mark key="^" line="63" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubFinanceController.java" timestamp="1561965789275">
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_16.sql" timestamp="1561010747116">
         <mark key="[" line="55" column="0" />
@@ -296,8 +299,8 @@
         <mark key="^" line="353" column="122" />
         <mark key="." line="353" column="123" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubAimsController.java" timestamp="1561714451503">
-        <mark key="[" line="24" column="60" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubAimsController.java" timestamp="1561964352738">
+        <mark key="[" line="23" column="41" />
         <mark key="]" line="24" column="72" />
         <mark key="." line="47" column="23" />
       </file>
@@ -363,6 +366,16 @@
         <mark key="^" line="484" column="29" />
         <mark key="." line="726" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubStationConfigController.java" timestamp="1561965007145">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubFinanceAimsController.java" timestamp="1561965781816">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="28" column="63" />
+        <mark key="^" line="26" column="25" />
+        <mark key="." line="26" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/interceptor/AuthorizationInterceptor.java" timestamp="1561630175568">
         <mark key="[" line="42" column="51" />
         <mark key="]" line="42" column="51" />
@@ -425,6 +438,11 @@
         <mark key="]" line="18" column="22" />
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubFinanceStatisticsController.java" timestamp="1561965279633">
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="11" column="49" />
+        <mark key="." line="11" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbCustomInvoiceServiceImpl.java" timestamp="1561950789066">
         <mark key="[" line="295" column="0" />
@@ -503,7 +521,7 @@
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/BaseConstant.java" timestamp="1561630277490">
         <mark key="[" line="90" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561950857359">
+      <file name="/Dummy.txt" timestamp="1561964908198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -614,8 +632,8 @@
         <mark key="^" line="66" column="55" />
         <mark key="." line="163" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1561714251311">
-        <mark key="[" line="0" column="25" />
+      <file name="/fragment.java" timestamp="1561964883771">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="0" />
@@ -731,13 +749,13 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>currentOrgConfig</text>
+        <text>statistics</text>
       </register>
       <register name="/" type="4">
         <text>null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChjdXJyZW50T3JnQ29uZmlnID09IG51bGwpIHsKICAgICAgdGhyb3cgbmV3IENvcmVCYXNlRXhjZXB0aW9uKCLpg6jpl6jorr7nva7kuI3lrZjlnKgs6K+36IGU57O7566h55CG5ZGY6K6+572uISIpOwogICAgfQo=</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkIHByaXZhdGUgSUJzemJJbmN1YkFpbXNTZXJ2aWNlIGJzemJJbmN1YkFpbXNTZXJ2aWNlOwoKICBAQXV0b3dpcmVkIHByaXZhdGUgQnN6YkluY3ViQWltc0NvbnZlcnQgYnN6YkluY3ViQWltc0NvbnZlcnQ7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgdm9pZCBhY3Rpb25CYXRjaFNhdmVBY3Rpdml0eShMaXN0PEJzemJJbmN1YkFpbXM+IGFpbXMpOwo=</text>

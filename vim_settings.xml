@@ -194,6 +194,9 @@
         <mark key="^" line="28" column="16" />
         <mark key="." line="28" column="16" />
       </file>
+      <file name="/bszb_fuhuaqi_business [bszb@120.26.120.234]" timestamp="1562050198639">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/191.7479.19.vmoptions" timestamp="1561622866077">
         <mark key="[" line="4" column="29" />
       </file>
@@ -240,9 +243,9 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/pubattment.http" timestamp="1561692872054">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="58" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/pubattment.http" timestamp="1562050727261">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="28" column="17" />
         <mark key="^" line="37" column="22" />
         <mark key="." line="9" column="0" />
       </file>
@@ -781,8 +784,8 @@
       <register name="/" type="4">
         <text>null</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">R0VUIHt7dXJsfX0vYXBpL2JzemIvaW5jdWJhdG9yL2N1c3RvbS9saXN0P2luY3ViYXRvclV1aWQ9OTdCMUE2MDk5REE0NEQ3NkIzRENCNzAyMjg1NUE0MDgmbGltaXQ9NSZzdGFydD0wJnRhYj1yZXNpZGVudEN1c3RvbWVyJnRva2VuPXt7dG9rZW59fQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">UE9TVCB7e3VybH19L2FwaS9wdWIvYXR0YWNobWVudC91cGxvYWQ/dG9rZW49e3t0b2tlbn19CkFjY2VwdDogKi8qCkNhY2hlLUNvbnRyb2w6IG5vLWNhY2hlCkNvbnRlbnQtVHlwZTogbXVsdGlwYXJ0L2Zvcm0tZGF0YTsgYm91bmRhcnk9V2ViQXBwQm91bmRhcnkKCi0tV2ViQXBwQm91bmRhcnkKQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJmaWxlIjtmaWxlbmFtZT0iaGVsbG9fd29ybGQuZ2lmIgoKPCAvaG9tZS9jaGVucy9Eb3dubG9hZHMvaGVsbG9fd29ybGQuZ2lmCgotLVdlYkFwcEJvdW5kYXJ5CkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTtuYW1lPSJ0eXBlIgoKMQoKLS1XZWJBcHBCb3VuZGFyeQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7bmFtZT0iaXRlbVV1aWQiCgpBRjA1N0ZEQkNFNzA0QzgxODMxNUM3MzEzODI5QjdENAoKLS1XZWJBcHBCb3VuZGFyeS0t</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTRUxFQ1QgRElTVElOQ1QoYmMuQ1VTVE9NX1VVSUQpCg==</text>
@@ -818,7 +821,7 @@
         <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action EditorStartNewLine</text>
       </register>
     </registers>
     <search>
@@ -871,9 +874,9 @@
         <entry>action Replace</entry>
         <entry>action RearrangeCode</entry>
         <entry>action GotoDeclaration</entry>
-        <entry>action EditorStartNewLine</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action Find</entry>
+        <entry>action EditorStartNewLine</entry>
       </history-cmd>
       <history-expr />
       <history-input />

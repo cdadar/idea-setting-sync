@@ -620,10 +620,10 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="73" column="93" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncomeServiceImpl.java" timestamp="1562143941796">
-        <mark key="[" line="1855" column="0" />
-        <mark key="]" line="1855" column="0" />
-        <mark key="." line="1855" column="0" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncomeServiceImpl.java" timestamp="1562144998532">
+        <mark key="[" line="1905" column="63" />
+        <mark key="]" line="1905" column="72" />
+        <mark key="." line="1905" column="63" />
         <mark key="^" line="1856" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/TerminationVO.java" timestamp="1559787610080">
@@ -846,13 +846,13 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>longInvestment</text>
+        <text>fin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>equityTransfer</text>
+        <text>financial</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1vZGVsLnNldENvbmRpdGlvbihjbmQpOwo=</text>

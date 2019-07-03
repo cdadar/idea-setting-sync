@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/finance/service/IBszbBudgetSetService.java" timestamp="1562064965488" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_12.sql" timestamp="1560322770591">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="9" column="51" />
@@ -80,7 +79,6 @@
         <mark key="." line="95" column="1" />
         <mark key="^" line="95" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/finance/service/impl/BszbBudgetSetServiceImpl.java" timestamp="1562065549230" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/CustomInfoVO.java" timestamp="1561948157476">
         <mark key="[" line="9" column="13" />
       </file>
@@ -131,12 +129,6 @@
         <mark key="]" line="63" column="19" />
         <mark key="." line="63" column="19" />
         <mark key="^" line="63" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubFinanceController.java" timestamp="1562067948111">
-        <mark key="[" line="60" column="28" />
-        <mark key="]" line="60" column="28" />
-        <mark key="^" line="58" column="27" />
-        <mark key="." line="60" column="28" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_16.sql" timestamp="1561010747116">
         <mark key="[" line="55" column="0" />
@@ -342,7 +334,6 @@
         <mark key="]" line="39" column="23" />
         <mark key="." line="39" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbBackMapper.xml" timestamp="1562055896134" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/ApplicationUtil.java" timestamp="1561628747370">
         <mark key="[" line="19" column="10" />
         <mark key="]" line="19" column="10" />
@@ -875,7 +866,7 @@
         <text encoding="base64">ICAgIFN0cmluZyBvcmdVdWlkID0gdGhpcy5ic3piSW5jdWJhdG9yYmFzZVNlcnZpY2UuZ2V0T3JnVXVpZChvcmdVdWlkKTsKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action EditorStartNewLine</text>
       </register>
     </registers>
     <search>
@@ -885,7 +876,7 @@
       <last-replace>customUuid</last-replace>
       <last-substitute>null</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -926,11 +917,11 @@
         <entry>action FindInPath</entry>
         <entry>action Find</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action EditorStartNewLine</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action Back</entry>
         <entry>action ParameterInfo</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action EditorStartNewLine</entry>
       </history-cmd>
       <history-expr />
       <history-input />

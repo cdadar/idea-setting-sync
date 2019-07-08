@@ -317,7 +317,6 @@
         <mark key="^" line="302" column="45" />
         <mark key="." line="302" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessPayableController.java" timestamp="1562317868412" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/ApplicationUtil.java" timestamp="1561628747370">
         <mark key="[" line="19" column="10" />
         <mark key="]" line="19" column="10" />
@@ -375,7 +374,6 @@
         <mark key="^" line="26" column="12" />
         <mark key="." line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/resources/com/eazer/bszb/dao/mapper/IBszbBusinessMapper.xml" timestamp="1562323474163" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/test/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiSettledServiceImplTest.java" timestamp="1560497798472">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="23" column="14" />
@@ -481,7 +479,6 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/resources/com/eazer/bszb/dao/mapper/IBszbIncomeMapper.xml" timestamp="1562323676470" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console.sql" timestamp="1562148728096">
         <mark key="[" line="7" column="48" />
         <mark key="]" line="7" column="80" />
@@ -658,7 +655,6 @@
         <mark key="^" line="66" column="55" />
         <mark key="." line="163" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubCustomPayableController.java" timestamp="1562315403391" />
       <file name="/fragment.java" timestamp="1562316540266">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
@@ -818,7 +814,7 @@
         <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Replace</text>
+        <text>action SonarLint.AnalyzeFiles</text>
       </register>
     </registers>
     <search>
@@ -867,13 +863,13 @@
         <entry>action TypeHierarchy</entry>
         <entry>action FindBugs.CurrentFileAction</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action SonarLint.AnalyzeFiles</entry>
         <entry>action CompileDirty</entry>
         <entry>action RearrangeCode</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
+        <entry>action SonarLint.AnalyzeFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />

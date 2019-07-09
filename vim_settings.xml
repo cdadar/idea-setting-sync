@@ -70,11 +70,6 @@
         <mark key="." line="109" column="15" />
         <mark key="^" line="109" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubCustomController.java" timestamp="1562662652219">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/test/java/com/eazer/bszb/incubator/service/impl/BszbIncubatorbaseServiceImplTest.java" timestamp="1560334560311">
         <mark key="[" line="27" column="93" />
         <mark key="]" line="27" column="93" />
@@ -93,11 +88,6 @@
         <mark key="]" line="55" column="13" />
         <mark key="^" line="55" column="13" />
         <mark key="." line="55" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/BusinessStatusVO.java" timestamp="1562639536141">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbIncubStationMapper.xml" timestamp="1560938710463">
         <mark key="[" line="342" column="11" />
@@ -172,11 +162,6 @@
         <mark key="]" line="551" column="43" />
         <mark key="^" line="551" column="46" />
         <mark key="." line="551" column="28" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/target/generated-sources/annotations/com/eazer/bszb/incubator/model/converter/BszbCustomInvoiceConverterImpl.java" timestamp="1562661817998">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_20.sql" timestamp="1562225565161">
         <mark key="[" line="0" column="370" />
@@ -334,10 +319,11 @@
         <mark key="^" line="302" column="45" />
         <mark key="." line="302" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/pub/model/converter/PubAttachmentConverter.java" timestamp="1562658577210">
-        <mark key="[" line="32" column="51" />
-        <mark key="]" line="32" column="51" />
-        <mark key="." line="32" column="51" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_24.sql" timestamp="1562669312894">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="4" />
+        <mark key="." line="27" column="4" />
+        <mark key="^" line="5" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/ApplicationUtil.java" timestamp="1561628747370">
         <mark key="[" line="19" column="10" />
@@ -393,11 +379,6 @@
         <mark key="]" line="148" column="20" />
         <mark key="^" line="148" column="20" />
         <mark key="." line="148" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/BszbCustomInvoice.java" timestamp="1562660977224">
-        <mark key="[" line="444" column="0" />
-        <mark key="]" line="447" column="34" />
-        <mark key="." line="444" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/BusinessVO.java" timestamp="1562664471874">
         <mark key="[" line="42" column="24" />
@@ -847,46 +828,108 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIGNjLlBBWV9EQVRFID49IG5vdyBhbmQg</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIGZpeG1lOiDlpI3mnYLluqbmnInngrnpq5gg5pyJ5b6F5LyY5YyWIOWPquimgeWwseaYr+WIsOacn+aXtumXtOeahOiOt+WPlgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgd2hlcmUgUEFZX0RBVEUgPj0gbm93KCkKICAgICAgICAgICAgICAgICBhbmQgREFURURJRkYoIFBBWV9EQVRFLG5vdygpKSA8IDMwCiAgICAgICAgICAgICAgICAgYW5kIFBBWV9DT05GSVJNID0gMAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgIGFuZCBjYy5QQVlfREFURSA+PSBub3coKQogICAgICAgIGFuZCBEQVRFRElGRihub3coKSxjYy5QQVlfREFURSkgJmx0OyAzMA==</text>
+        <text encoding="base64">KHNlbGVjdCAqCiAgICAgICAgICAgICAgIGZyb20gYnN6Yl9wYXlhYmxlCiAgICAgICAgICAgICAgIHdoZXJlIFBBWV9EQVRFID49IG5vdygpCiAgICAgICAgICAgICAgICAgYW5kIERBVEVESUZGKCBQQVlfREFURSxub3coKSkgPCAzMAogICAgICAgICAgICAgICAgIGFuZCBQQVlfQ09ORklSTSA9IDAKICAgICAgICAgICAgICAgZ3JvdXAgYnkgUEFZX0JVU0lORVNTVVVJRAogICAgICAgICAgICAgICBvcmRlciBieSBQQVlfREFURSBhc2MKKQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhbmQgY2MuUEFZX0RBVEUgPj0gbm93KCkKICBhbmQgREFURURJRkYobm93KCksIGNjLlBBWV9EQVRFKSA8IDMwCiAgYW5kIGNjLlBBWV9DT05GSVJNID0gMAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>BUSINESS_UNID                                                                                                  AS businessUnid,
+       BUSINESS_UUID                                                                                                  AS businessUuid,
+       BUSINESS_CDATE                                                                                                 AS businessCdate,
+       BUSINESS_UDATE                                                                                                 AS businessUdate,
+       BUSINESS_CUSR                                                                                                  AS businessCusr,
+       BUSINESS_STATUS                                                                                                AS businessStatus,
+       BUSINESS_CUSUUID                                                                                               AS businessCusuuid,
+       BUSINESS_CUSNAME                                                                                               AS businessCusname,
+       BUSINESS_ITEMUUID                                                                                              AS businessItemuuid,
+       BUSINESS_PRICE                                                                                                 AS businessPrice,
+       BUSINESS_INDEPOSIT                                                                                             AS businessIndeposit,
+       BUSINESS_TYPE                                                                                                  AS businessType,
+       BUSINESS_NAME                                                                                                  AS businessName,
+       BUSINESS_NO                                                                                                    AS businessNo,
+       BUSINESS_BEGIN_DATE                                                                                            AS businessBeginDate,
+       BUSINESS_END_DATE                                                                                              AS businessEndDate,
+       BUSINESS_INVOICE                                                                                               AS businessInvoice,
+       BUSINESS_CONFIRM                                                                                               AS businessConfirm,
+       BUSINESS_ORGUUID                                                                                               AS businessOrguuid,
+       BUSINESS_IBACKUUID                                                                                             AS businessIbackuuid,
+       BUSINESS_TURN_FLAG                                                                                             AS businessTurnFlag,
+       BUSINESS_LIQUIDATE_FLAG                                                                                        AS businessLiquidateFlag,
+       BUSINESS_IS_ARCHIVED                                                                                           AS businessIsArchived,
+       BUSINESS_ARCHIVED_DATE                                                                                         AS businessArchivedDate,
+       BUSINESS_IS_DISCOUNT                                                                                           AS businessIsDiscount,
+       BFBUS_UNID                                                                                                     AS bfbusUnid,
+       BFBUS_UUID                                                                                                     AS bfbusUuid,
+       BFBUS_CDATE                                                                                                    AS bfbusCdate,
+       BFBUS_UDATE                                                                                                    AS bfbusUdate,
+       BFBUS_CUSR                                                                                                     AS bfbusCusr,
+       BFBUS_STATUS                                                                                                   AS bfbusStatus,
+       BFBUS_INCUB_ORGUUID                                                                                            AS bfbusIncubOrguuid,
+       BFBUS_INCUBNAME                                                                                                AS bfbusIncubname,
+       BFBUS_BUSUUID                                                                                                  AS bfbusBusuuid,
+       BFBUS_INCUBUUID                                                                                                AS bfbusIncubuuid,
+       PAY_UNID                                                                                                       AS payUnid,
+       PAY_UUID                                                                                                       AS payUuid,
+       PAY_CDATE                                                                                                      AS payCdate,
+       PAY_UDATE                                                                                                      AS payUdate,
+       PAY_STATUS                                                                                                     AS payStatus,
+       PAY_CUSR                                                                                                       AS payCusr,
+       PAY_CUSRNAME                                                                                                   AS payCusrname,
+       PAY_BUSINESSUUID                                                                                               AS payBusinessuuid,
+       PAY_DATE                                                                                                       AS payDate,
+       PAY_PRICE                                                                                                      AS payPrice,
+       PAY_CONFIRM                                                                                                    AS payConfirm,
+       PAY_REMARK                                                                                                     AS payRemark,
+       PAY_BEGIN_DATE                                                                                                 AS payBeginDate,
+       PAY_END_DATE                                                                                                   AS payEndDate,
+       PAY_TYPE                                                                                                       AS payType,
+       PAY_INDEX                                                                                                      AS payIndex,
+       PAY_PAYUUID                                                                                                    AS payPayuuid,
+       PAY_TURN_UUID                                                                                                  AS payTurnUuid,
+       PAY_IS_TERM                                                                                                    AS payIsTerm,
+       PAY_PAY_TYPE                                                                                                   AS payPayType,
+       (SELECT round(COALESCE(SUM(BBCR_CONFIRM), 0), 2)
+        FROM BSZB_BUSINESS_COST_RECORD
+        WHERE BBCR_BUSUUID = PAY_UUID)                                                                                as extParam1,
+       (SELECT count(*)
+        FROM bszb_payable as temp
+        where PAY_CONFIRM = 0
+          and PAY_PAY_TYPE != 1
+          AND temp.PAY_BUSINESSUUID = cc.PAY_BUSINESSUUID)                                                            as extParam</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIEJzemJCdXNpbmVzcyByZWNlbnRTZXR0bGVkID0KICAgICAgICAgICAgICBvcmVnaXN0YXBwLmdldFJlY2VudFNldHRsZWQoKS5nZXRCc3piRnVodWFxaUJ1c2luZXNzKCkuZ2V0QnN6YkJ1c2luZXNzKCk7CiAgICAgICAgICAvLyDliKTmlq3lnLDlnYDlkIjlkIzmnIDov5HnmoTlt6XkvY3lkIjlkIzmmK/lkKblt7Lnu4/lrZjlnKjnu4jmraLlkIjlkIwg57uI5q2i5ZCI5ZCM5piv5ZCm5byA5aeL55Sf5pWICiAgICAgICAgICBpZiAocmVjZW50U2V0dGxlZC5nZXRCdXNpbmVzc0VuZERhdGUoKSAhPSBudWxsCiAgICAgICAgICAgICAgJiYgKHJlY2VudFNldHRsZWQuZ2V0QnN6YlRlcm1pbmF0aW9uKCkuZ2V0VGVybVVuaWQoKSA9PSBudWxsCiAgICAgICAgICAgICAgICAgIHx8IEJ5dGUudmFsdWVPZihyZWNlbnRTZXR0bGVkLmdldEJzemJUZXJtaW5hdGlvbigpLmdldFRlcm1TdGF0dXMoKSkgPT0gMCkpIHsKICAgICAgICAgICAgdm8uc2V0RGVhZGxpbmUoCiAgICAgICAgICAgICAgICByZWNlbnRTZXR0bGVkLmdldEJ1c2luZXNzRW5kRGF0ZSgpLmNvbXBhcmVUbyhidXNpbmVzcy5nZXRCdXNpbmVzc0VuZERhdGUoKSkgPj0gMAogICAgICAgICAgICAgICAgICAgID8gYnVzaW5lc3MuZ2V0QnVzaW5lc3NFbmREYXRlKCkKICAgICAgICAgICAgICAgICAgICA6IHJlY2VudFNldHRsZWQuZ2V0QnVzaW5lc3NFbmREYXRlKCkpOwogICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdm8uc2V0RGVhZGxpbmUoCiAgICAgICAgICAgICAgICByZWNlbnRTZXR0bGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0QnN6YlRlcm1pbmF0aW9uKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRUZXJtQmVnaW5EYXRlKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5jb21wYXJlVG8oYnVzaW5lc3MuZ2V0QnVzaW5lc3NFbmREYXRlKCkpCiAgICAgICAgICAgICAgICAgICAgICAgID49IDAKICAgICAgICAgICAgICAgICAgICA/IGJ1c2luZXNzLmdldEJ1c2luZXNzRW5kRGF0ZSgpCiAgICAgICAgICAgICAgICAgICAgOiByZWNlbnRTZXR0bGVkLmdldEJzemJUZXJtaW5hdGlvbigpLmdldFRlcm1CZWdpbkRhdGUoKSk7CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">b3JkZXIgYnkgY2MuUEFZX0RBVEUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbS5nZXRTdHJNYXAoKS5wdXQoQmFzZUNvbnN0YW50LkNVUlJFTlRfQUNUSU9OX09TLCBCYXNlQ29uc3RhbnQuQUNUSU9OX1NBVkVfQUNUSVZJVFkpOwo=</text>
+        <text encoding="base64">Z3JvdXAgYnkgYWEuQlVTSU5FU1NfVVVJRApvcmRlciBieSBjYy5QQVlfREFURQpsaW1pdCA1Cg==</text>
       </register>
       <register name="u" type="4">
         <text>e</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbS5zZXRCZmN1c0lzTW92ZU91dCgoYnl0ZSkgMSk7CiAgICBjdXN0b20uZ2V0U3RyTWFwKCkucHV0KEJhc2VDb25zdGFudC5DVVJSRU5UX0FDVElPTl9PUywgQmFzZUNvbnN0YW50LkFDVElPTl9TQVZFX0FDVElWSVRZKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgIGFuZCBjYy5QQVlfREFURSA+PSBub3coKQogICAgICAgIGFuZCBEQVRFRElGRihub3coKSxjYy5QQVlfREFURSkgJmx0OyAzMA==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">RElTVElOQ1QoYmMuQ1VTVE9NX1VVSUQpLAogICAgICAgICAgICAgICBCRkNVU19VTklEICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYmZjdXNVbmlkLAogICAgICAgICAgICAgICBCRkNVU19VVUlEICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYmZjdXNVdWlkLAogICAgICAgICAgICAgICBCRkNVU19DREFURSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYmZjdXNDZGF0ZSwKICAgICAgICAgICAgICAgQkZDVVNfVURBVEUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGJmY3VzVWRhdGUsCiAgICAgICAgICAgICAgIEJGQ1VTX0NVU1IgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBiZmN1c0N1c3IsCiAgICAgICAgICAgICAgIEJGQ1VTX0NVU1JOQU1FICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBiZmN1c0N1c3JuYW1lLAogICAgICAgICAgICAgICBCRkNVU19DVVNUT01VVUlEICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYmZjdXNDdXN0b211dWlkLAogICAgICAgICAgICAgICBCRkNVU19JU19NT1ZFX09VVCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgYmZjdXNJc01vdmVPdXQsCiAgICAgICAgICAgICAgIEJGQ1VTX01PVkVfT1VUX0RBVEUgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBiZmN1c01vdmVPdXREYXRlLAogICAgICAgICAgICAgICBCRkNVU19NT1ZFX09VVF9JTkNVQkFUT1IgICAgICAgICAgICAgICAgICAgICAgQVMgYmZjdXNNb3ZlT3V0SW5jdWJhdG9yLAogICAgICAgICAgICAgICBCRkNVU19NT1ZFX09VVF9JTkNVQkFUT1JfTkFNRSAgICAgICAgICAgICAgICAgQVMgYmZjdXNNb3ZlT3V0SW5jdWJhdG9yTmFtZSwKICAgICAgICAgICAgICAgQkZDVVNfTU9WRV9PVVRfUkVBU09OICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGJmY3VzTW92ZU91dFJlYXNvbiwKICAgICAgICAgICAgICAgQ1VTVE9NX1VOSUQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGN1c3RvbVVuaWQsCiAgICAgICAgICAgICAgIENVU1RPTV9VVUlEICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjdXN0b21VdWlkLAogICAgICAgICAgICAgICBDVVNUT01fQ0RBVEUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgY3VzdG9tQ2RhdGUsCiAgICAgICAgICAgICAgIENVU1RPTV9VREFURSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjdXN0b21VZGF0ZSwKICAgICAgICAgICAgICAgQ1VTVE9NX0NVU1IgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGN1c3RvbUN1c3IsCiAgICAgICAgICAgICAgIENVU1RPTV9OQU1FICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjdXN0b21OYW1lLAogICAgICAgICAgICAgICBDVVNUT01fT0xEX05BTUUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgY3VzdG9tT2xkTmFtZSwKICAgICAgICAgICAgICAgQ1VTVE9NX1RZUEUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGN1c3RvbVR5cGUsCiAgICAgICAgICAgICAgIENVU1RPTV9TQ0FMRSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjdXN0b21TY2FsZSwKICAgICAgICAgICAgICAgQ1VTVE9NX0NUSU1FICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGN1c3RvbUN0aW1lLAogICAgICAgICAgICAgICBDVVNUT01fQ09ERSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgY3VzdG9tQ29kZSwKICAgICAgICAgICAgICAgQ1VTVE9NX09SSUdJTiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGN1c3RvbU9yaWdpbiwKICAgICAgICAgICAgICAgQ1VTVE9NX1JFR0lTVEVSX0FERFIgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGN1c3RvbVJlZ2lzdGVyQWRkciwKICAgICAgICAgICAgICAgQ1VTVE9NX1dFQlNJVEUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGN1c3RvbVdlYnNpdGUsCiAgICAgICAgICAgICAgIENVU1RPTV9DQVRFR09SWTEgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjdXN0b21DYXRlZ29yeTEsCiAgICAgICAgICAgICAgIENVU1RPTV9DQVRFR09SWTIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjdXN0b21DYXRlZ29yeTIsCiAgICAgICAgICAgICAgIENVU1RPTV9CVVNJTkVTUyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjdXN0b21CdXNpbmVzcywKICAgICAgICAgICAgICAgQ1VTVE9NX1NVTU1BUlkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGN1c3RvbVN1bW1hcnksCiAgICAgICAgICAgICAgIENVU1RPTV9SRU1BUksgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjdXN0b21SZW1hcmssCiAgICAgICAgICAgICAgIENVU1RPTV9DVVNUT01fTUFOQUdFUiAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjdXN0b21DdXN0b21NYW5hZ2VyLAogICAgICAgICAgICAgICBDVVNUT01fQ1VTVE9NX01BTkFHRVJfTkFNRSAgICAgICAgICAgICAgICAgICAgQVMgY3VzdG9tQ3VzdG9tTWFuYWdlck5hbWUsCiAgICAgICAgICAgICAgIENVU1RPTV9QUk9WSU5DRSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjdXN0b21Qcm92aW5jZSwKICAgICAgICAgICAgICAgQ1VTVE9NX0NJVFkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGN1c3RvbUNpdHksCiAgICAgICAgICAgICAgIENVU1RPTV9BRERSICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjdXN0b21BZGRyLAogICAgICAgICAgICAgICBDVVNUT01fQ09OVEFDVFNfTkFNRSAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgY3VzdG9tQ29udGFjdHNOYW1lLAogICAgICAgICAgICAgICBDVVNUT01fQ09OVEFDVFNfREVQICAgICAgICAgICAgICAgICAgICAgICAgICAgQVMgY3VzdG9tQ29udGFjdHNEZXAsCiAgICAgICAgICAgICAgIENVU1RPTV9DT05UQUNUU19URUwgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjdXN0b21Db250YWN0c1RlbCwKICAgICAgICAgICAgICAgQ1VTVE9NX0NPTlRBQ1RfUkVNQVJLICAgICAgICAgICAgICAgICAgICAgICAgIEFTIGN1c3RvbUNvbnRhY3RSZW1hcmssCiAgICAgICAgICAgICAgIENVU1RPTV9UQUdJRFMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjdXN0b21UYWdpZHMsCiAgICAgICAgICAgICAgIENVU1RPTV9JU19GSU5BTkNJTkcgICAgICAgICAgICAgICAgICAgICAgICAgICBBUyBjdXN0b21Jc0ZpbmFuY2luZywKICAgICAgICAgICAgICAgKHNlbGVjdCBjb2FsZXNjZShzdW0oY2FzZSB3aGVuIERBVEVESUZGKGJwLlBBWV9EQVRFLCBiY3IuQkJDUl9DREFURSkgPCAtMTAgdGhlbiAxIGVsc2UgMCBlbmQpLCAwKQogICAgICAgICAgICAgICAgZnJvbSBic3piX3BheWFibGUgYnAKICAgICAgICAgICAgICAgICAgICAgICAgIGpvaW4gYnN6Yl9idXNpbmVzc19jb3N0X3JlY29yZCBhcyBiY3Igb24gYnAuUEFZX1VVSUQgPSBiY3IuQkJDUl9CVVNVVUlECiAgICAgICAgICAgICAgICAgICAgICAgICBqb2luIGJzemJfYnVzaW5lc3MgYXMgYmIxIG9uIGJiMS5CVVNJTkVTU19VVUlEID0gYnAuUEFZX0JVU0lORVNTVVVJRAogICAgICAgICAgICAgICAgd2hlcmUgYmIxLkJVU0lORVNTX0NVU1VVSUQgPSBiYy5DVVNUT01fVVVJRCkgYXMgZXh0UGFyYW0xLAogICAgICAgICAgICAgICAoc2VsZWN0IGNvYWxlc2NlKHN1bShjYXNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVuIERBVEVESUZGKGJwLlBBWV9EQVRFLCBiY3IuQkJDUl9DREFURSkgPCAtMTAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIERBVEVESUZGKGJjci5CQkNSX0NEQVRFLCBicC5QQVlfREFURSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgMCBlbmQpLCAwKQogICAgICAgICAgICAgICAgZnJvbSBic3piX3BheWFibGUgYnAKICAgICAgICAgICAgICAgICAgICAgICAgIGpvaW4gYnN6Yl9idXNpbmVzc19jb3N0X3JlY29yZCBhcyBiY3Igb24gYnAuUEFZX1VVSUQgPSBiY3IuQkJDUl9CVVNVVUlECiAgICAgICAgICAgICAgICAgICAgICAgICBqb2luIGJzemJfYnVzaW5lc3MgYXMgYmIxIG9uIGJiMS5CVVNJTkVTU19VVUlEID0gYnAuUEFZX0JVU0lORVNTVVVJRAogICAgICAgICAgICAgICAgd2hlcmUgYmIxLkJVU0lORVNTX0NVU1VVSUQgPSBiYy5DVVNUT01fVVVJRCkgYXMgZXh0UGFyYW0yLAogICAgICAgICAgICAgICAoY29hbGVzY2Uoc3VtKGJiLkJVU0lORVNTX1BSSUNFKSwgMCkpICAgICAgICAgYXMgZXh0UGFyYW0zLAogICAgICAgICAgICAgICAoc2VsZWN0IGNvYWxlc2NlKHN1bShiY3IuQkJDUl9DT05GSVJNKSwgMCkKICAgICAgICAgICAgICAgIGZyb20gYnN6Yl9wYXlhYmxlIGJwCiAgICAgICAgICAgICAgICAgICAgICAgICBqb2luIGJzemJfYnVzaW5lc3NfY29zdF9yZWNvcmQgYXMgYmNyIG9uIGJwLlBBWV9VVUlEID0gYmNyLkJCQ1JfQlVTVVVJRAogICAgICAgICAgICAgICAgICAgICAgICAgam9pbiBic3piX2J1c2luZXNzIGFzIGJiMSBvbiBiYjEuQlVTSU5FU1NfVVVJRCA9IGJwLlBBWV9CVVNJTkVTU1VVSUQKICAgICAgICAgICAgICAgIHdoZXJlIGJiMS5CVVNJTkVTU19DVVNVVUlEID0gYmMuQ1VTVE9NX1VVSUQpIGFzIGV4dFBhcmFtNCwKICAgICAgICAgICAgICAgcm91bmQoKGNvYWxlc2NlKGNvdW50KEJVU0lORVNTX1VVSUQpKSAtCiAgICAgICAgICAgICAgICAgICAgICBjb2FsZXNjZShzdW0oY2FzZSB3aGVuIGJ0LlRFUk1fVVVJRCBpcyBub3QgbnVsbCBhbmQgYnQuVEVSTV9TVEFUVVMgdGhlbiAxIGVsc2UgMCBlbmQpLCAwKSkgLwogICAgICAgICAgICAgICAgICAgICAoY29hbGVzY2UoY291bnQoQlVTSU5FU1NfVVVJRCkpKSwgMikgICAgYXMgZXh0UGFyYW01LAogICAgICAgICAgICAgICAobWluKGJiLkJVU0lORVNTX0JFR0lOX0RBVEUpKSAgICAgICAgICAgICAgICAgYXMgZXh0UGFyYW02LAogICAgICAgICAgICAgICAobWF4KGNhc2UKICAgICAgICAgICAgICAgICAgICAgICAgd2hlbiBidC5URVJNX1VVSUQgaXMgbm90IG51bGwgYW5kIGJ0LlRFUk1fU1RBVFVTID0gMSB0aGVuIGJ0LlRFUk1fQkVHSU5fREFURQogICAgICAgICAgICAgICAgICAgICAgICBlbHNlIGJiLkJVU0lORVNTX0VORF9EQVRFIGVuZCkpICAgICAgYXMgZXh0UGFyYW03</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvKiog5bel5L2c5rWB5byV5pOO6KGoKFdmRW5naW5lKeaooeWei+WvueixoSAqLwogIHByaXZhdGUgQnN6YkZ1aHVhcWlCdXNpbmVzcyBic3piRnVodWFxaUJ1c2luZXNzOwogIHByaXZhdGUgQnN6YkJ1c2luZXNzIGJzemJCdXNpbmVzczsKICBwcml2YXRlIEJzemJDdXN0b20gYnN6YkN1c3RvbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKiog5bel5L2c5rWB5byV5pOO6KGoKFdmRW5naW5lKeaooeWei+WvueixoSAqLwogIHByaXZhdGUgQnN6YkZ1aHVhcWlCdXNpbmVzcyBic3piRnVodWFxaUJ1c2luZXNzOwogIHByaXZhdGUgQnN6YkJ1c2luZXNzIGJzemJCdXNpbmVzczsKICBwcml2YXRlIEJzemJDdXN0b20gYnN6YkN1c3RvbTsK</text>
+        <text encoding="base64">ICAgICAgICAgIEJzemJCdXNpbmVzcyByZWNlbnRTZXR0bGVkID0KICAgICAgICAgICAgICBvcmVnaXN0YXBwLmdldFJlY2VudFNldHRsZWQoKS5nZXRCc3piRnVodWFxaUJ1c2luZXNzKCkuZ2V0QnN6YkJ1c2luZXNzKCk7CiAgICAgICAgICAvLyDliKTmlq3lnLDlnYDlkIjlkIzmnIDov5HnmoTlt6XkvY3lkIjlkIzmmK/lkKblt7Lnu4/lrZjlnKjnu4jmraLlkIjlkIwg57uI5q2i5ZCI5ZCM5piv5ZCm5byA5aeL55Sf5pWICiAgICAgICAgICBpZiAocmVjZW50U2V0dGxlZC5nZXRCdXNpbmVzc0VuZERhdGUoKSAhPSBudWxsCiAgICAgICAgICAgICAgJiYgKHJlY2VudFNldHRsZWQuZ2V0QnN6YlRlcm1pbmF0aW9uKCkuZ2V0VGVybVVuaWQoKSA9PSBudWxsCiAgICAgICAgICAgICAgICAgIHx8IEJ5dGUudmFsdWVPZihyZWNlbnRTZXR0bGVkLmdldEJzemJUZXJtaW5hdGlvbigpLmdldFRlcm1TdGF0dXMoKSkgPT0gMCkpIHsKICAgICAgICAgICAgdm8uc2V0RGVhZGxpbmUoCiAgICAgICAgICAgICAgICByZWNlbnRTZXR0bGVkLmdldEJ1c2luZXNzRW5kRGF0ZSgpLmNvbXBhcmVUbyhidXNpbmVzcy5nZXRCdXNpbmVzc0VuZERhdGUoKSkgPj0gMAogICAgICAgICAgICAgICAgICAgID8gYnVzaW5lc3MuZ2V0QnVzaW5lc3NFbmREYXRlKCkKICAgICAgICAgICAgICAgICAgICA6IHJlY2VudFNldHRsZWQuZ2V0QnVzaW5lc3NFbmREYXRlKCkpOwogICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdm8uc2V0RGVhZGxpbmUoCiAgICAgICAgICAgICAgICByZWNlbnRTZXR0bGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0QnN6YlRlcm1pbmF0aW9uKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRUZXJtQmVnaW5EYXRlKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5jb21wYXJlVG8oYnVzaW5lc3MuZ2V0QnVzaW5lc3NFbmREYXRlKCkpCiAgICAgICAgICAgICAgICAgICAgICAgID49IDAKICAgICAgICAgICAgICAgICAgICA/IGJ1c2luZXNzLmdldEJ1c2luZXNzRW5kRGF0ZSgpCiAgICAgICAgICAgICAgICAgICAgOiByZWNlbnRTZXR0bGVkLmdldEJzemJUZXJtaW5hdGlvbigpLmdldFRlcm1CZWdpbkRhdGUoKSk7CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>

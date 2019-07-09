@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/target/generated-sources/annotations/com/eazer/bszb/incubator/model/converter/BszbFuhuaqiSettledConverterImpl.java" timestamp="1562318826234">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/ProfitVO.java" timestamp="1562223059310">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="16" column="7" />
@@ -200,15 +197,13 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/payables.http" timestamp="1562312342125">
-        <mark key="'" line="98" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbFuhuaqiSettledMapper.xml" timestamp="1562309010038">
         <mark key="[" line="302" column="92" />
         <mark key="]" line="302" column="104" />
         <mark key="^" line="297" column="42" />
         <mark key="." line="391" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/test/java/com/eazer/wf/service/impl/InstanceActivityScheduleServiceImplTest.java" timestamp="1562652910248" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/service/impl/BszbAnnouncementServiceImpl.java" timestamp="1560838166037">
         <mark key="[" line="38" column="36" />
         <mark key="]" line="38" column="35" />
@@ -481,9 +476,6 @@
         <mark key="]" line="7" column="80" />
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="48" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/business.http" timestamp="1562318096855">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/pub/service/IPubAttachmentService.java" timestamp="1561366682005">
         <mark key="[" line="56" column="46" />
@@ -811,7 +803,7 @@
         <text encoding="base64">ICAgICAgICA8aW5jbHVkZSByZWZpZD0iZmllbGRBc1Byb3BlcnR5Ii8+LAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action MavenRunHelperCleanInstall</text>
       </register>
     </registers>
     <search>
@@ -847,7 +839,6 @@
         <entry encoding="base64">XDxmaW5kQWxsQnlQYXlVdWlkQW5kU3RhdHVzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action VcsShowNextChangeMarker</entry>
         <entry>action GotoNextBookmark</entry>
         <entry encoding="base64">JzwsJz5zL2luY29tZVRhcmdldG5hbWUvaW5jb21lUmVtYXJrL2c=</entry>
         <entry>action GotoImplementation</entry>
@@ -867,6 +858,7 @@
         <entry>action EditorStartNewLine</entry>
         <entry>action RearrangeCode</entry>
         <entry>action Find</entry>
+        <entry>action MavenRunHelperCleanInstall</entry>
       </history-cmd>
       <history-expr />
       <history-input />

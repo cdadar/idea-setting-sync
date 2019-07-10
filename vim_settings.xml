@@ -125,7 +125,7 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbPayableMapper.xml" timestamp="1562677225710">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbPayableMapper.xml" timestamp="1562738736776">
         <mark key="'" line="888" column="74" />
         <mark key="[" line="888" column="59" />
         <mark key="]" line="888" column="79" />
@@ -936,7 +936,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MavenRunHelperCleanInstall</text>
+        <text>action SonarLint.AnalyzeFiles</text>
       </register>
     </registers>
     <search>
@@ -978,8 +978,6 @@
         <entry>action FindBugs.CurrentFileAction</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action CompileDirty</entry>
-        <entry>action SonarLint.AnalyzeFiles</entry>
-        <entry>action CompileProject</entry>
         <entry>action GotoImplementation</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action MethodDown</entry>
@@ -992,6 +990,8 @@
         <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
         <entry>action MavenRunHelperCleanInstall</entry>
+        <entry>action CompileProject</entry>
+        <entry>action SonarLint.AnalyzeFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />

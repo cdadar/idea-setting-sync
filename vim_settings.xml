@@ -122,7 +122,6 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/action/BszbFuhuaqiBusinessAction.java" timestamp="1562745247840" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/dto/PayableTermDTO.java" timestamp="1559632706690">
         <mark key="[" line="25" column="15" />
         <mark key="]" line="25" column="15" />
@@ -442,7 +441,6 @@
         <mark key="^" line="8" column="86" />
         <mark key="." line="8" column="86" />
       </file>
-      <file name="/IBszbPayableMapper.xml" timestamp="1562743334389" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_15.sql" timestamp="1560936119784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1192" />
@@ -571,7 +569,6 @@
         <mark key="^" line="56" column="32" />
         <mark key="." line="56" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbIndepositLiquidateMapper.xml" timestamp="1562743009796" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/address.http" timestamp="1562057901629">
         <mark key="[" line="22" column="59" />
         <mark key="]" line="22" column="90" />
@@ -943,7 +940,7 @@
         <text encoding="base64">Z3JvdXAgYnkgYWEuQlVTSU5FU1NfVVVJRApvcmRlciBieSBjYy5QQVlfREFURQpsaW1pdCA1Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action MavenRunHelperCleanInstall</text>
+        <text>action CompileProject</text>
       </register>
     </registers>
     <search>
@@ -953,7 +950,7 @@
       <last-replace>BRECORD</last-replace>
       <last-substitute>INCOME</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -993,12 +990,12 @@
         <entry>action Replace</entry>
         <entry>action RecentFiles</entry>
         <entry>action Back</entry>
-        <entry>action CompileProject</entry>
         <entry>action SonarLint.AnalyzeFiles</entry>
         <entry>action EditorStartNewLine</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action Find</entry>
         <entry>action MavenRunHelperCleanInstall</entry>
+        <entry>action CompileProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />

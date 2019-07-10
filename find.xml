@@ -28,6 +28,8 @@
     <mask>*Convert.java</mask>
     <mask>*Mapper</mask>
     <mask>*Mapper.xml</mask>
+    <mask>IBszbIndepositLiquidateMapper.xml</mask>
+    <mask>IBszbPayableMapper*</mask>
     <mask>*</mask>
   </component>
 </application>

@@ -3,30 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessOregistappController.java" timestamp="1562771598346">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiOregistappServiceImpl.java" timestamp="1562771660692">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="393" column="1" />
-        <mark key="]" line="393" column="14" />
-        <mark key="." line="393" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bszb/yc-core/1.7/yc-core-1.7.jar!/org/apache/ibatis/logging/jdbc/PreparedStatementLogger.class" timestamp="1562675760775">
         <mark key="[" line="43" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/business.http" timestamp="1562771351494">
-        <mark key="'" line="131" column="137" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="480" />
-        <mark key="." line="139" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" timestamp="1562769874823">
-        <mark key="'" line="673" column="9" />
+        <mark key="'" line="672" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubCustomController.java" timestamp="1562770132850" />
       <file name="/dummy.sql" timestamp="1562771469142">
         <mark key="[" line="0" column="0" />
       </file>
@@ -40,7 +25,6 @@
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/IBszbIndepositLiquidateService.java" timestamp="1562769653493">
         <mark key="[" line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncomeServiceImpl.java" timestamp="1562770116701" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbPayableTermServiceImpl.java" timestamp="1562769835297">
         <mark key="[" line="132" column="0" />
         <mark key="]" line="135" column="66" />
@@ -71,23 +55,8 @@
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/finance/model/converter/BszbIncomeConverter.java" timestamp="1562770908914">
         <mark key="'" line="95" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/IBszbFuhuaqiOregistappService.java" timestamp="1562771656231">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="14" />
-        <mark key="^" line="106" column="4" />
-        <mark key="." line="106" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubBusinAddressRelateServiceImpl.java" timestamp="1562768653943">
-        <mark key="]" line="87" column="26" />
-        <mark key="." line="87" column="26" />
-        <mark key="^" line="87" column="26" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiSettledServiceImpl.java" timestamp="1562771738902">
-        <mark key="'" line="460" column="19" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="177" column="61" />
-        <mark key="." line="105" column="0" />
+        <mark key="'" line="424" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/profiles/dev/config.properties" timestamp="1562675126655">
         <mark key="[" line="18" column="35" />
@@ -263,7 +232,7 @@
       <last-replace>ee.</last-replace>
       <last-substitute>cc.</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>

@@ -49,6 +49,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/common/model/BszbBusiness.java" timestamp="1562817090061" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbFuhuaqiOregistappMapper.xml" timestamp="1562828700116">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="520" column="42" />
+        <mark key="]" line="520" column="57" />
+        <mark key="^" line="520" column="41" />
+        <mark key="." line="520" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiAdvancedServiceImpl.java" timestamp="1562763851083">
         <mark key="[" line="407" column="60" />
       </file>
@@ -90,7 +97,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2563" column="38" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncomeServiceImpl.java" />
       <jump line="2562" column="39" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncomeServiceImpl.java" />
       <jump line="2561" column="46" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncomeServiceImpl.java" />
       <jump line="2559" column="44" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncomeServiceImpl.java" />
@@ -190,6 +196,7 @@
       <jump line="405" column="78" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/common/dao/mapper/IBszbBusinessMapper.xml" />
       <jump line="637" column="42" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/common/dao/mapper/IBszbBusinessMapper.xml" />
       <jump line="410" column="19" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbPayableMapper.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbFuhuaqiOregistappMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -205,7 +212,7 @@
         <text encoding="base64">XDxCc3piUGF5YWJsZVdpdGhFbmFibGVUZXJtXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>incubator</text>
+        <text>BFBUS_INCUBUUID</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxyZXN1bHRNYXAgaWQ9IlBheWFibGVXaXRoRW5hYmxlVGVybSIgdHlwZT0iQnN6YlBheWFibGUiIGV4dGVuZHM9IkJzemJQYXlhYmxlIj4KCiAgICAgICAgPGFzc29jaWF0aW9uIHByb3BlcnR5PSJsaXF1aWRhdGUiIGNvbHVtbj0icGF5VXVpZCIKICAgICAgICAgICAgICAgICAgICAgc2VsZWN0PSJjb20uZWF6ZXIuYnN6Yi5pbmN1YmF0b3IuZGFvLm1hcHBlci5JQnN6YkluZGVwb3NpdExpcXVpZGF0ZU1hcHBlci5maW5kT25lQnlQYXlVdWlkQW5kU3RhdHVzIi8+CgogICAgICAgIDxjb2xsZWN0aW9uIHByb3BlcnR5PSJwYXlhYmxlc1Rlcm1zIiBvZlR5cGU9IkJzemJQYXlhYmxlIiBjb2x1bW49InBheVV1aWQiCiAgICAgICAgICAgICAgICAgICAgc2VsZWN0PSJmaW5kQWxsQnlQYXlVdWlkQW5kU3RhdHVzIi8+CgogICAgICAgIDxjb2xsZWN0aW9uIHByb3BlcnR5PSJ0dXJucyIgb2ZUeXBlPSJCc3piSW5kZXBvc2l0VHVybiIgY29sdW1uPSJwYXlVdWlkIgogICAgICAgICAgICAgICAgICAgIHNlbGVjdD0iY29tLmVhemVyLmJzemIuaW5jdWJhdG9yLmRhby5tYXBwZXIuSUJzemJJbmRlcG9zaXRUdXJuTWFwcGVyLmZpbmRBbGxCeU5ld1BheWFibGVVdWlkIi8+CgogICAgICAgIDxjb2xsZWN0aW9uIHByb3BlcnR5PSJvbGRUdXJucyIgb2ZUeXBlPSJCc3piSW5kZXBvc2l0VHVybiIgY29sdW1uPSJwYXlVdWlkIgogICAgICAgICAgICAgICAgICAgIHNlbGVjdD0iY29tLmVhemVyLmJzemIuaW5jdWJhdG9yLmRhby5tYXBwZXIuSUJzemJJbmRlcG9zaXRUdXJuTWFwcGVyLmZpbmRBbGxCeU9sZFBheWFibGVVdWlkIi8+CgogICAgPC9yZXN1bHRNYXA+Cg==</text>

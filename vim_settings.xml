@@ -3,6 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1562838466341">
+        <mark key="p" line="0" column="9" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/IBszbIndepositLiquidateService.java" timestamp="1562769653493">
+        <mark key="[" line="15" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiOregistappServiceImpl.java" timestamp="1562833452306">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="766" column="71" />
@@ -14,34 +24,6 @@
         <mark key="[" line="313" column="28" />
         <mark key="]" line="313" column="126" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/bszb/yc-core/1.7/yc-core-1.7.jar!/org/apache/ibatis/logging/jdbc/PreparedStatementLogger.class" timestamp="1562675760775">
-        <mark key="[" line="43" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" timestamp="1562826733763">
-        <mark key="'" line="671" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbIndepositLiquidateMapper.xml" timestamp="1562825286979">
-        <mark key="[" line="211" column="16" />
-        <mark key="]" line="211" column="40" />
-        <mark key="^" line="211" column="26" />
-        <mark key="." line="211" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1562771469142">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1562838466341">
-        <mark key="p" line="0" column="9" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbFuhuaqiBusinessMapper.xml" timestamp="1562824668510">
-        <mark key="." line="560" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/IBszbIndepositLiquidateService.java" timestamp="1562769653493">
-        <mark key="[" line="15" column="53" />
-      </file>
       <file name="/bszb.bszb_fuhuaqi_settled [bszb@120.26.120.234]" timestamp="1562771060174">
         <mark key="[" line="0" column="0" />
       </file>
@@ -51,6 +33,9 @@
         <mark key="]" line="520" column="57" />
         <mark key="^" line="520" column="41" />
         <mark key="." line="520" column="42" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/bszb/yc-core/1.7/yc-core-1.7.jar!/org/apache/ibatis/logging/jdbc/PreparedStatementLogger.class" timestamp="1562675760775">
+        <mark key="[" line="43" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiAdvancedServiceImpl.java" timestamp="1562763851083">
         <mark key="[" line="407" column="60" />
@@ -67,6 +52,9 @@
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/BszbFuhuaqiBusiness.java" timestamp="1562817013388">
         <mark key="^" line="136" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" timestamp="1562826733763">
+        <mark key="'" line="671" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbPayableServiceImpl.java" timestamp="1562769667963">
         <mark key="'" line="888" column="44" />
       </file>
@@ -80,6 +68,12 @@
         <mark key="^" line="410" column="32" />
         <mark key="." line="873" column="57" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbIndepositLiquidateMapper.xml" timestamp="1562825286979">
+        <mark key="[" line="211" column="16" />
+        <mark key="]" line="211" column="40" />
+        <mark key="^" line="211" column="26" />
+        <mark key="." line="211" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiSettledServiceImpl.java" timestamp="1562833423862">
         <mark key="'" line="424" column="19" />
         <mark key="[" line="893" column="14" />
@@ -89,6 +83,9 @@
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/profiles/dev/config.properties" timestamp="1562675126655">
         <mark key="[" line="18" column="35" />
+      </file>
+      <file name="/dummy.sql" timestamp="1562771469142">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1562826685880">
         <mark key="[" line="0" column="0" />

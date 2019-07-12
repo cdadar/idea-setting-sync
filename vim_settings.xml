@@ -36,6 +36,9 @@
         <mark key="]" line="1644" column="0" />
         <mark key="." line="1644" column="0" />
       </file>
+      <file name="/Dummy.vm" timestamp="1562920164698">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1562771469142">
         <mark key="[" line="0" column="0" />
       </file>
@@ -103,7 +106,7 @@
       <file name="$USER_HOME$/workspace/bsoa/bszb/profiles/dev/config.properties" timestamp="1562675126655">
         <mark key="[" line="18" column="35" />
       </file>
-      <file name="/fragment.java" timestamp="1562826685880">
+      <file name="/fragment.java" timestamp="1562920175931">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbIncubAddressMapper.xml" timestamp="1562763972950">
@@ -272,7 +275,7 @@
       <last-replace>ee.</last-replace>
       <last-substitute>cc.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>

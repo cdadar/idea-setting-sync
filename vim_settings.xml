@@ -19,7 +19,7 @@
       <file name="$MAVEN_REPOSITORY$/com/bszb/yc-core/1.7/yc-core-1.7.jar!/org/apache/ibatis/logging/jdbc/PreparedStatementLogger.class" timestamp="1562675760775">
         <mark key="[" line="43" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/finance/dao/mapper/IBszbIncomeMapper.xml" timestamp="1563184821251">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/finance/dao/mapper/IBszbIncomeMapper.xml" timestamp="1563259908252">
         <mark key="[" line="791" column="0" />
         <mark key="]" line="795" column="73" />
         <mark key="^" line="791" column="13" />

@@ -11,10 +11,13 @@
         <mark key="." line="766" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiBusinessServiceImpl.java" timestamp="1563260335321" />
-      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/resources/com/eazer/bszb/dao/mapper/IBszbIncomeMapper.xml" timestamp="1563258352961">
-        <mark key="[" line="796" column="38" />
-        <mark key="]" line="792" column="95" />
-        <mark key="." line="792" column="63" />
+      <file name="$USER_HOME$/workspace/bsoa/cang/pom.xml" timestamp="1563260762953">
+        <mark key="[" line="10" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/resources/com/eazer/bszb/dao/mapper/IBszbIncomeMapper.xml" timestamp="1563260662099">
+        <mark key="[" line="794" column="47" />
+        <mark key="]" line="794" column="47" />
+        <mark key="." line="794" column="47" />
         <mark key="^" line="792" column="62" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bszb/yc-core/1.7/yc-core-1.7.jar!/org/apache/ibatis/logging/jdbc/PreparedStatementLogger.class" timestamp="1562675760775">
@@ -37,7 +40,7 @@
       <file name="/dummy.sql" timestamp="1562771469142">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563258450472">
+      <file name="/Dummy.txt" timestamp="1563260766005">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/custom.http" timestamp="1563260432427">
@@ -230,7 +233,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>D0C714A62E1D470E887B4B878471FFDF</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmj5DnjrDjgIHlvoDmnaXmrL7ot6jmnJ9cPg==</text>

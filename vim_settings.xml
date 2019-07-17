@@ -58,7 +58,7 @@
         <mark key="^" line="176" column="3" />
         <mark key="." line="176" column="104" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbFuhuaqiBusinessMapper.xml" timestamp="1563271084410">
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbFuhuaqiBusinessMapper.xml" timestamp="1563342883178">
         <mark key="[" line="826" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/IBszbIndepositLiquidateService.java" timestamp="1562769653493">
@@ -67,6 +67,9 @@
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubatorbaseServiceImpl.java" timestamp="1563184711778">
         <mark key="[" line="189" column="64" />
         <mark key="]" line="189" column="73" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/pubattment.http" timestamp="1563343278129">
+        <mark key="[" line="70" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/core/service/impl/CoreAccountServiceImpl.java" timestamp="1563260104329">
         <mark key="[" line="331" column="0" />

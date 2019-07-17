@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -21,7 +21,6 @@
     <mask>*.html</mask>
     <mask>*Controller.java</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*Payable*</mask>
     <mask>*Convert.java</mask>
     <mask>*Mapper</mask>
@@ -29,5 +28,6 @@
     <mask>IBszbIndepositLiquidateMapper.xml</mask>
     <mask>IBszbPayableMapper*</mask>
     <mask>*</mask>
+    <mask>*.java</mask>
   </component>
 </application>

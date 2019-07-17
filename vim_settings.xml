@@ -42,8 +42,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubCustomController.java" timestamp="1563345428521">
-        <mark key="^" line="197" column="24" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubCustomController.java" timestamp="1563347140452">
+        <mark key="[" line="43" column="16" />
+        <mark key="]" line="43" column="15" />
+        <mark key="^" line="43" column="15" />
+        <mark key="." line="43" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f31d8876-27f6-4b15-9969-7c454bbc5768/console_1.sql" timestamp="1563263241905">
         <mark key="[" line="0" column="0" />
@@ -236,10 +239,10 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzcHJpbmdmcmFtZXdvcmtcPg==</text>
+        <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAQXV0aG9yaXphdGlvbgogIEBHZXRNYXBwaW5nKHZhbHVlID0gInNldHRsZWQiKQogIEBSZXNwb25zZUJvZHkKICBwdWJsaWMgUmVzdWx0PExpc3Q8U2V0dGxlZFZPPj4gc2V0dGxlZCgKICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJjdXN0b21VdWlkIikgU3RyaW5nIGN1c3RvbVV1aWQsCiAgICAgIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAic3RhcnQiLCByZXF1aXJlZCA9IGZhbHNlKSBJbnRlZ2VyIHN0YXJ0LAogICAgICBAUmVxdWVzdFBhcmFtKHZhbHVlID0gImxpbWl0IiwgcmVxdWlyZWQgPSBmYWxzZSkgSW50ZWdlciBsaW1pdCkgewogICAgLy8g5p2D6ZmQ5pON5L2cCiAgICBQYWdlIHBhZ2UgPSBQYWdlVXRpbC5pbml0UGFnZShzdGFydCwgbGltaXQpOwogICAgTGlzdDxCc3piRnVodWFxaVNldHRsZWQ+IGJlYW5zID0KICAgICAgICB0aGlzLmJzemJGdWh1YXFpU2V0dGxlZFNlcnZpY2UuZmluZEFsbFdpdGhCdXNpbmVzc0J5Q3VzdG9tVXVpZChjdXN0b21VdWlkLCBwYWdlKTsKICAgIHJldHVybiBHcmlkUmVzdWx0Lm9mKHBhZ2UsIHRoaXMuYnN6YkZ1aHVhcWlTZXR0bGVkQ29udmVydGVyLm9ialRvVm8oYmVhbnMpKTsKICB9Cgo=</text>
@@ -283,17 +286,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzcHJpbmdmcmFtZXdvcmtcPg==</last-search>
+      <last-search encoding="base64">XDxwcml2YXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzcHJpbmdmcmFtZXdvcmtcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcml2YXRlXD4=</last-pattern>
       <last-replace>ee.</last-replace>
       <last-substitute>cc.</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYXZlXD4=</entry>
         <entry encoding="base64">XDxkdG9Ub09ialw+</entry>
         <entry encoding="base64">XDxmaW5kQWxsQnlQYXlVdWlkQW5kU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxmaWVsZE1hcHBlckVYXD4=</entry>
@@ -313,6 +315,7 @@
         <entry encoding="base64">XDxzdGF0aXN0aWNzT2ZPcGVyYXRpb25Db3N0XD4=</entry>
         <entry encoding="base64">XDzmj5DnjrDjgIHlvoDmnaXmrL7ot6jmnJ9cPg==</entry>
         <entry encoding="base64">XDxzcHJpbmdmcmFtZXdvcmtcPg==</entry>
+        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>

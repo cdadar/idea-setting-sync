@@ -54,6 +54,11 @@
         <option name="primaryLanguage" value="CHINESE" />
       </app-key>
     </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>

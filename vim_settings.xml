@@ -84,6 +84,13 @@
       <file name="$USER_HOME$/workspace/bsoa/cang/src/main/java/com/eazer/base/common/GridResult.java" timestamp="1563432197670">
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/resources/http/income.http" timestamp="1563434661975">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="59" />
+        <mark key="]" line="44" column="59" />
+        <mark key="^" line="44" column="42" />
+        <mark key="." line="44" column="59" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbPayableMapper.xml" timestamp="1563420981148">
         <mark key="'" line="593" column="26" />
         <mark key="[" line="585" column="74" />
@@ -112,11 +119,11 @@
       <file name="$USER_HOME$/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/191.7479.19.vmoptions" timestamp="1563418362962">
         <mark key="[" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/java/com/eazer/bszb/service/impl/BszbBooksServiceImpl.java" timestamp="1563433181515">
-        <mark key="[" line="89" column="15" />
-        <mark key="]" line="80" column="35" />
+      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/java/com/eazer/bszb/service/impl/BszbBooksServiceImpl.java" timestamp="1563434724644">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
         <mark key="^" line="80" column="35" />
-        <mark key="." line="80" column="35" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/administrative/service/impl/BszbIchapterfileEffectServiceImpl.java" timestamp="1563355663630">
         <mark key="[" line="133" column="5" />
@@ -223,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="59" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/finance.http" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/payables.http" />
       <jump line="98" column="3" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/payables.http" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/target/generated-sources/annotations/com/eazer/bszb/incubator/model/converter/BszbFuhuaqiSettledConverterImpl.java" />
@@ -323,6 +329,7 @@
       <jump line="21" column="32" filename="$USER_HOME$/workspace/bsoa/bszb/profiles/dev/config.properties" />
       <jump line="29" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console_29.sql" />
       <jump line="80" column="6" filename="$USER_HOME$/workspace/bsoa/cang/src/main/java/com/eazer/bszb/finance/controller/BszbBooksController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bsoa/cang/src/main/resources/http/income.http" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -332,46 +339,46 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>BOOKS_IS_ENABLE</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>begin</text>
       </register>
-      <register name="0" type="4">
-        <text>selectBooksListWithBlanceByDate</text>
+      <register name="0" type="2">
+        <text encoding="base64">R0VUIHt7dXJsfX0vYXBpL2JzemIvZmluYW5jZS9ib29rcy9pbmNvbWUvc3RhdGlzdGljc09mSW5BbmRPdXQ/YmVnaW5EYXRlPTIwMTctMTEtMDElMjAwMDowMDowMCZlbmREYXRlPTIwMTgtMTEtMDElMjAwMDowMDowMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aGVyZXdoZXJlPiR7Y29uZGl0aW9ufTwvaGVyZXdoZXJlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBATWFwcGluZygiYm9va3NJc0VuYWJsZSIpCiAgcHJpdmF0ZSBCeXRlIGlzRW5hYmxlOwo=</text>
+        <text encoding="base64">ICAgIC8vIOiOt+WPlueUs+ivt+S6uuaJgOWcqOmDqOmXqAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIERvdWJsZSBpbml0QmFsYW5jZTsK</text>
+        <text encoding="base64">ICAgIENvcmVPcmdhbml6YXRpb24gY3VycmVudE9yZ2FuaXphdGlvbiA9IHRoaXMuc3ByaW5nTXZjQmFzZVNlcnZpY2UuZ2V0Q3VycmVudFVzZXJPcmdhbml6YXRpb24oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcyBleHRQYXJhbTUK</text>
+        <text encoding="base64">ICAgICAgICA8aGVyZXdoZXJlPiR7Y29uZGl0aW9ufTwvaGVyZXdoZXJlPgo=</text>
       </register>
       <register name="u" type="4">
         <text>e</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSByZWZpZD0iZ2V0Q291bnRJbmNvbWVCeU5vQXNzaWduIi8+Cg==</text>
+        <text encoding="base64">ICBATWFwcGluZygiYm9va3NJc0VuYWJsZSIpCiAgcHJpdmF0ZSBCeXRlIGlzRW5hYmxlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJRk5VTEwoYi5JTkNPTUVfUEFZTU9ORVksMCkgQVMgZXh0UGFyYW0zLAogICAgICAgIElGTlVMTChiLklOQ09NRV9NT05FWSwwKSBBUyBleHRQYXJhbTQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNSU4oYi5JTkNPTUVfREFURSkgQVMgZXh0UGFyYW0xLAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIERvdWJsZSBpbml0QmFsYW5jZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcyBleHRQYXJhbTUK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>

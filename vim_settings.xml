@@ -150,11 +150,17 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563445413750">
-        <mark key="[" line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1563505860906">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncomeServiceImpl.java" timestamp="1563505858110">
+        <mark key="[" line="2753" column="31" />
+        <mark key="]" line="2761" column="71" />
+        <mark key="^" line="2761" column="71" />
+        <mark key="." line="2761" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/cang/src/main/java/com/eazer/bszb/service/IBszbBooksService.java" timestamp="1563432310178">
         <mark key="[" line="23" column="0" />

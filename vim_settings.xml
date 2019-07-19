@@ -9,6 +9,9 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="/bszb.bszb_business [bszb@127.0.0.1]" timestamp="1563508373368">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/finance/dao/mapper/IBszbIncomeMapper.xml" timestamp="1563259908252">
         <mark key="[" line="791" column="0" />
         <mark key="]" line="795" column="73" />
@@ -26,6 +29,9 @@
         <mark key="]" line="52" column="24" />
         <mark key="^" line="31" column="1" />
         <mark key="." line="52" column="24" />
+      </file>
+      <file name="/bszb.bszb_fuhuaqi_business [bszb@127.0.0.1]" timestamp="1563508406153">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/cang/src/main/resources/api/finance.http" timestamp="1563263205637">
         <mark key="[" line="16" column="97" />
@@ -144,11 +150,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1563424813614">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="58" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="26" />
+      <file name="/dummy.sql" timestamp="1563508417644">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="49" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1563506568980">
         <mark key="[" line="0" column="0" />

@@ -33,10 +33,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubCustomController.java" timestamp="1563438928732">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="49" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/cang/src/main/java/com/eazer/bszb/finance/controller/BszbBooksController.java" timestamp="1563435083378">
         <mark key="[" line="77" column="16" />
         <mark key="]" line="67" column="1" />
@@ -117,6 +113,7 @@
         <mark key="^" line="80" column="35" />
         <mark key="." line="85" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbFuhuaqiOregistappServiceImpl.java" timestamp="1563502499361" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbCustomInvoiceConverter.java" timestamp="1563262606219">
         <mark key="[" line="57" column="50" />
         <mark key="]" line="57" column="50" />
@@ -362,7 +359,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SonarLint.AnalyzeChangedFiles</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -416,8 +413,8 @@
         <entry>action EditorStartNewLine</entry>
         <entry>action GotoImplementation</entry>
         <entry>action RearrangeCode</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action SonarLint.AnalyzeChangedFiles</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />

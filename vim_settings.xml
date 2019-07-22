@@ -100,7 +100,12 @@
         <mark key="]" line="174" column="28" />
         <mark key="." line="174" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessController.java" timestamp="1563778661386" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessController.java" timestamp="1563779673171">
+        <mark key="[" line="147" column="4" />
+        <mark key="]" line="147" column="3" />
+        <mark key="^" line="147" column="3" />
+        <mark key="." line="147" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/vo/CustomInfoVO.java" timestamp="1563537284501">
         <mark key="'" line="23" column="2" />
         <mark key="[" line="23" column="0" />
@@ -398,7 +403,7 @@
         <text encoding="base64">ICAgICAgICAoc2VsZWN0IGNvYWxlc2NlKHN1bShjYXNlIHdoZW4gREFURURJRkYoYnAuUEFZX0RBVEUgLCBiY3IuQkJDUl9DREFURSkgIDwhW0NEQVRBWzxdXT4gIC0xMCB0aGVuIDEKICAgICAgICBlbHNlIDAgZW5kICksIDApIGZyb20KICAgICAgICBic3piX3BheWFibGUgYnAgam9pbiBic3piX2J1c2luZXNzX2Nvc3RfcmVjb3JkIGFzIGJjciBvbiBicC5QQVlfVVVJRCA9IGJjci5CQkNSX0JVU1VVSUQgam9pbgogICAgICAgIGJzemJfYnVzaW5lc3MgYXMgYmIxIG9uIGJiMS5CVVNJTkVTU19VVUlEID0gYnAuUEFZX0JVU0lORVNTVVVJRAogICAgICAgIGpvaW4gYnN6Yl9mdWh1YXFpX2J1c2luZXNzIGFzIGZiMSBvbiBmYjEuQkZCVVNfQlVTVVVJRCA9IGJiMS5CVVNJTkVTU19VVUlECiAgICAgICAgd2hlcmUgYmIxLkJVU0lORVNTX0NVU1VVSUQgPQogICAgICAgIGJjLkNVU1RPTV9VVUlEIGFuZCBmYjEuQkZCVVNfSU5DVUJVVUlEID0gI3tzdHJNYXAuaW5jdWJhdG9yVXVpZH0pIGFzCiAgICAgICAgZXh0UGFyYW0xLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action MavenRunHelperCleanInstall</text>
       </register>
     </registers>
     <search>
@@ -440,7 +445,6 @@
         <entry>action $EditorTranslateAction</entry>
         <entry>action Replace</entry>
         <entry>action CompileProject</entry>
-        <entry>action MavenRunHelperCleanInstall</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQmFjaw==</entry>
         <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz5zL2JlZ2luL2VuZC9n</entry>
@@ -454,6 +458,7 @@
         <entry>%s/?/'2E69B804DE8444F5A2FA29841126479B'/g</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action MavenRunHelperCleanInstall</entry>
       </history-cmd>
       <history-expr />
       <history-input />

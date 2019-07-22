@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*OregistappServiceImpl.java" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -29,5 +29,6 @@
     <mask>IBszbPayableMapper*</mask>
     <mask>*.java</mask>
     <mask>*</mask>
+    <mask>*OregistappServiceImpl.java</mask>
   </component>
 </application>

@@ -6,7 +6,6 @@
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/common/dao/mapper/IBszbBusinessMapper.xml" timestamp="1563516844648">
         <mark key="[" line="679" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessOregistappController.java" timestamp="1563786728194" />
       <file name="/a.dummy" timestamp="1563530348718">
         <mark key="[" line="0" column="0" />
       </file>
@@ -130,6 +129,9 @@
         <mark key="^" line="174" column="23" />
         <mark key="." line="174" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/doc/workflow.html" timestamp="1563846891557">
+        <mark key="'" line="120" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/BudgetGroupIncubatorList.java" timestamp="1563791041157">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="53" />
@@ -230,7 +232,6 @@
         <mark key="[" line="89" column="23" />
         <mark key="]" line="89" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/com/eazer/bszb/incubator/dao/mapper/IBszbFuhuaqiOregistappMapper.xml" timestamp="1563787042939" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/common/model/dto/CustomDTO.java" timestamp="1563537270060">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="23" column="0" />
@@ -259,14 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="15" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbFuhuaqiSettledConverter.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessOregistappController.java" />
-      <jump line="122" column="41" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbPayableServiceImpl.java" />
-      <jump line="246" column="14" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessPayableController.java" />
-      <jump line="171" column="30" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessPayableController.java" />
-      <jump line="124" column="13" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessPayableController.java" />
-      <jump line="72" column="13" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessPayableController.java" />
-      <jump line="36" column="30" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessPayableController.java" />
       <jump line="522" column="41" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessPayableController.java" />
       <jump line="520" column="23" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessPayableController.java" />
       <jump line="424" column="17" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbPayableServiceImpl.java" />
@@ -359,6 +352,14 @@
       <jump line="21" column="53" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/finance/finance.http" />
       <jump line="80" column="120" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/finance.http" />
       <jump line="90" column="172" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/finance.http" />
+      <jump line="123" column="5" filename="$USER_HOME$/workspace/bsoa/bszb/doc/workflow.html" />
+      <jump line="126" column="27" filename="$USER_HOME$/workspace/bsoa/bszb/doc/workflow.html" />
+      <jump line="129" column="6" filename="$USER_HOME$/workspace/bsoa/bszb/doc/workflow.html" />
+      <jump line="130" column="22" filename="$USER_HOME$/workspace/bsoa/bszb/doc/workflow.html" />
+      <jump line="131" column="6" filename="$USER_HOME$/workspace/bsoa/bszb/doc/workflow.html" />
+      <jump line="132" column="24" filename="$USER_HOME$/workspace/bsoa/bszb/doc/workflow.html" />
+      <jump line="116" column="26" filename="$USER_HOME$/workspace/bsoa/bszb/doc/workflow.html" />
+      <jump line="120" column="5" filename="$USER_HOME$/workspace/bsoa/bszb/doc/workflow.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -371,7 +372,7 @@
         <text encoding="base64">VE9ETyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiZWdpbk9mWWVhclw+</text>
+        <text encoding="base64">XDxlbGVtXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRocm93IG5ldyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIlV0aWxpdHkgY2xhc3MiKTsK</text>
@@ -414,17 +415,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiZWdpbk9mWWVhclw+</last-search>
+      <last-search encoding="base64">XDxlbGVtXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiZWdpbk9mWWVhclw+</last-pattern>
+      <last-pattern encoding="base64">XDxlbGVtXD4=</last-pattern>
       <last-replace>'2E69B804DE8444F5A2FA29841126479B'</last-replace>
       <last-substitute>?</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxic3piRGF0YWJhc2VCdXNpbmVzc1NlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxwdWJBdXRob3JTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxvYmpUb1dpdGhDb25maXJtVm9cPg==</entry>
         <entry encoding="base64">XDxCdXNpbmVzc1dpdGhFbmFibGVUZXJtXD4=</entry>
@@ -444,6 +444,7 @@
         <entry encoding="base64">XDxpbmN1YmF0b3JVdWlkXD4=</entry>
         <entry>?</entry>
         <entry encoding="base64">XDxiZWdpbk9mWWVhclw+</entry>
+        <entry encoding="base64">XDxlbGVtXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action OverrideMethods</entry>

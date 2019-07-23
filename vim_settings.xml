@@ -221,7 +221,7 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563791297941">
+      <file name="/Dummy.txt" timestamp="1563863893823">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="18" />
@@ -245,11 +245,11 @@
         <mark key="." line="68" column="79" />
         <mark key="^" line="68" column="79" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubBusinStationRelateServiceImpl.java" timestamp="1563863755259">
-        <mark key="[" line="195" column="6" />
-        <mark key="]" line="195" column="5" />
-        <mark key="." line="195" column="5" />
-        <mark key="^" line="195" column="5" />
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbIncubBusinStationRelateServiceImpl.java" timestamp="1563863954487">
+        <mark key="[" line="203" column="74" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
+        <mark key="^" line="208" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/common/service/impl/BszbBusinessServiceImpl.java" timestamp="1563515691553">
         <mark key="[" line="525" column="20" />
@@ -409,14 +409,14 @@
       <register name="0" type="2">
         <text encoding="base64">QFJ1bldpdGgoSlVuaXQ0Q2xhc3NSdW5uZXIuY2xhc3MpCkBXZWJBcHBDb25maWd1cmF0aW9uCkBDb250ZXh0Q29uZmlndXJhdGlvbigKICAgIGxvY2F0aW9ucyA9IHsKICAgICAgImNsYXNzcGF0aDpjb20vZWF6ZXIvYmFzZS9jb25maWcvYXBwbGljYXRpb25Db250ZXh0LWVudHJ5LnhtbCIsCiAgICAgICJjbGFzc3BhdGg6Y29tL2VhemVyL2Jhc2UvY29uZmlnL3NwcmluZy1tdmMueG1sIgogICAgfSkKQFRyYW5zYWN0aW9uQ29uZmlndXJhdGlvbih0cmFuc2FjdGlvbk1hbmFnZXIgPSAidHJhbnNhY3Rpb25NYW5hZ2VyIiwgZGVmYXVsdFJvbGxiYWNrID0gdHJ1ZSkKQFRyYW5zYWN0aW9uYWwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ewogICAg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ewogICAg</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -431,16 +431,16 @@
         <text>e</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
@@ -453,7 +453,7 @@
       <last-replace>'2E69B804DE8444F5A2FA29841126479B'</last-replace>
       <last-substitute>?</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>

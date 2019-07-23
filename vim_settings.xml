@@ -177,6 +177,10 @@
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/finance/controller/BszbIncomeController.java" timestamp="1563526391183">
         <mark key="[" line="58" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" timestamp="1563853890767">
+        <mark key="'" line="617" column="17" />
+        <mark key="[" line="607" column="0" />
+      </file>
       <file name="/bszb_fuhuaqi_business [bszb@127.0.0.1]" timestamp="1563516789192">
         <mark key="[" line="0" column="0" />
       </file>
@@ -260,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="522" column="41" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessPayableController.java" />
       <jump line="520" column="23" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/controller/BszbIncubBusinessPayableController.java" />
       <jump line="424" column="17" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbPayableServiceImpl.java" />
       <jump line="407" column="88" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbPayableServiceImpl.java" />
@@ -360,6 +363,7 @@
       <jump line="132" column="24" filename="$USER_HOME$/workspace/bsoa/bszb/doc/workflow.html" />
       <jump line="116" column="26" filename="$USER_HOME$/workspace/bsoa/bszb/doc/workflow.html" />
       <jump line="120" column="5" filename="$USER_HOME$/workspace/bsoa/bszb/doc/workflow.html" />
+      <jump line="617" column="17" filename="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -447,8 +451,6 @@
         <entry encoding="base64">XDxlbGVtXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action OverrideMethods</entry>
-        <entry>action $EditorTranslateAction</entry>
         <entry>action CompileProject</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQmFjaw==</entry>
         <entry>action Forward</entry>
@@ -466,6 +468,8 @@
         <entry>action SonarLint.AnalyzeFiles</entry>
         <entry>sp</entry>
         <entry>action Replace</entry>
+        <entry>action MethodDown</entry>
+        <entry>action MethodUp</entry>
         <entry>action Back</entry>
       </history-cmd>
       <history-expr />

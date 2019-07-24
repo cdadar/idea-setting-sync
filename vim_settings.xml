@@ -31,13 +31,6 @@
       <file name="/bszb.bszb_business [bszb@127.0.0.1]" timestamp="1563508373368">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/pub/service/impl/PubAttachmentServiceImpl.java" timestamp="1563874375014">
-        <mark key="'" line="688" column="21" />
-        <mark key="[" line="611" column="6" />
-        <mark key="]" line="611" column="22" />
-        <mark key="." line="611" column="22" />
-        <mark key="^" line="611" column="22" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbPayableConverter.java" timestamp="1563875561528">
         <mark key="[" line="671" column="12" />
         <mark key="]" line="671" column="11" />
@@ -88,13 +81,6 @@
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/base/util/HttpClientUtil.java" timestamp="1563791146126">
         <mark key="[" line="20" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/incubator/custom.http" timestamp="1563877752150">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="184" column="151" />
-        <mark key="]" line="184" column="151" />
-        <mark key="^" line="184" column="182" />
-        <mark key="." line="184" column="151" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/pom.xml" timestamp="1563872066097">
         <mark key="[" line="651" column="0" />
@@ -235,13 +221,6 @@
         <mark key="." line="825" column="0" />
         <mark key="^" line="760" column="55" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a7bddad-4e27-44d7-83df-de1c9ad21d25/console.sql" timestamp="1563877482058">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="64" column="23" />
-        <mark key="." line="43" column="74" />
-        <mark key="^" line="43" column="74" />
-      </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/IBszbIncubBusinStationRelateService.java" timestamp="1563861882090">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="83" column="15" />
@@ -253,13 +232,6 @@
       </file>
       <file name="/bszb.bszb_fuhuaqi_custom [bszb@127.0.0.1]" timestamp="1563879628414">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/service/impl/BszbTerminationServiceImpl.java" timestamp="1563869010071">
-        <mark key="'" line="619" column="17" />
-        <mark key="[" line="607" column="9" />
-        <mark key="]" line="607" column="5" />
-        <mark key="." line="607" column="5" />
-        <mark key="^" line="607" column="5" />
       </file>
       <file name="/bszb_fuhuaqi_business [bszb@127.0.0.1]" timestamp="1563516789192">
         <mark key="[" line="0" column="0" />
@@ -303,13 +275,6 @@
         <mark key="]" line="2499" column="19" />
         <mark key="." line="2499" column="19" />
         <mark key="^" line="2499" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/resources/api/pubattment.http" timestamp="1563869367768">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="76" column="47" />
-        <mark key="]" line="76" column="47" />
-        <mark key="^" line="76" column="78" />
-        <mark key="." line="76" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/cang/src/main/java/com/eazer/bszb/service/IBszbBooksService.java" timestamp="1563432310178">
         <mark key="[" line="23" column="0" />

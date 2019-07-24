@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Mapper.xml" />
+    <option name="FILE_MASK" value="*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -28,7 +28,7 @@
     <mask>IBszbPayableMapper*</mask>
     <mask>*.java</mask>
     <mask>*OregistappServiceImpl.java</mask>
-    <mask>*</mask>
     <mask>*Mapper.xml</mask>
+    <mask>*</mask>
   </component>
 </application>

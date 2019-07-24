@@ -77,11 +77,11 @@
         <mark key="^" line="65" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/java/com/eazer/bszb/finance/controller/BszbBooksController.java" timestamp="1563938256122">
-        <mark key="[" line="42" column="35" />
-        <mark key="]" line="70" column="1" />
-        <mark key="^" line="70" column="1" />
-        <mark key="." line="70" column="1" />
+      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/java/com/eazer/bszb/finance/controller/BszbBooksController.java" timestamp="1563939567933">
+        <mark key="[" line="89" column="42" />
+        <mark key="]" line="89" column="42" />
+        <mark key="." line="89" column="42" />
+        <mark key="^" line="89" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/finance/service/impl/BszbBudgetSetServiceImpl.java" timestamp="1563874119323">
         <mark key="[" line="892" column="7" />
@@ -271,7 +271,7 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563936546095">
+      <file name="/Dummy.txt" timestamp="1563939847597">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="5" />
@@ -283,12 +283,7 @@
         <mark key="." line="2499" column="19" />
         <mark key="^" line="2499" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/java/com/eazer/bszb/service/IBszbBooksService.java" timestamp="1563432310178">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="30" column="17" />
-        <mark key="^" line="30" column="17" />
-        <mark key="." line="30" column="17" />
-      </file>
+      <file name="$USER_HOME$/workspace/bsoa/cang/src/main/java/com/eazer/bszb/service/IBszbBooksService.java" timestamp="1563939751239" />
       <file name="$USER_HOME$/workspace/bsoa/bszb/src/main/java/com/eazer/bszb/incubator/model/converter/BszbFuhuaqiCustomConverter.java" timestamp="1563537552772">
         <mark key="[" line="55" column="79" />
         <mark key="]" line="68" column="79" />
@@ -456,7 +451,7 @@
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZW5kaW5nUmVmdW5kXD4=</text>
@@ -464,41 +459,41 @@
       <register name="0" type="4">
         <text>BooksVO</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAvLyA9PT09PT09PT09PT09PT09PT09PT095a2X5q615YiX6KGoPT09PT09PT09PT09PT09PT09PT09PT09CiAgLyoqIFVOSUQgKi8KICBAQUNGKENGID0gQ0YuVU5JRCkKICBwcml2YXRlIEludGVnZXIgaW5jb21lVW5pZDsKCiAgLyoqIFVVSUQgKi8KICBAQUNGKENGID0gQ0YuVVVJRCkKICBwcml2YXRlIFN0cmluZyBpbmNvbWVVdWlkOwoKICAvKiog5Yib5bu65pe26Ze0ICovCiAgQEFDRihDRiA9IENGLkNSRUFURVRJTUUpCiAgcHJpdmF0ZSBEYXRlIGluY29tZUNkYXRlOwoKICAvKiog5L+u5pS55pe26Ze0ICovCiAgQEFDRihDRiA9IENGLkxBU1RVUERBVEVUSU1FKQogIHByaXZhdGUgRGF0ZSBpbmNvbWVVZGF0ZTsKCiAgLyoqIOWIm+W7uuiAhSAqLwogIEBBQ0YoQ0YgPSBDRi5DUkVBVE9SKQogIHByaXZhdGUgU3RyaW5nIGluY29tZUN1c3I7CgogIC8qKiDotKbmiLdVVUlEICovCiAgcHJpdmF0ZSBTdHJpbmcgaW5jb21lQm9va3N1dWlkOwoKICAvKiog6LWE6YeR5pa55ZCRICovCiAgcHJpdmF0ZSBTdHJpbmcgaW5jb21lVGFyZ2V0OwoKICAvKiog6YeR6aKdICovCiAgcHJpdmF0ZSBEb3VibGUgaW5jb21lTW9uZXk7CgogIC8qKiDmkZjopoEgKi8KICBwcml2YXRlIFN0cmluZyBpbmNvbWVSZW1hcms7CgogIC8qKiDmlLbmlK/ml6XmnJ8gKi8KICBwcml2YXRlIFN0cmluZyBpbmNvbWVEYXRlOwoKICAvKiog5b2T5YmN5L2Z6aKdICovCiAgcHJpdmF0ZSBEb3VibGUgaW5jb21lQ3VycmVudDsKCiAgLyoqIOaUr+WHuumHkeminSAqLwogIHByaXZhdGUgRG91YmxlIGluY29tZVBheW1vbmV5OwoKICAvKiog5pS25pSv57G75Z6LICovCiAgcHJpdmF0ZSBTdHJpbmcgaW5jb21lVHlwZTsKCiAgLyoqIOWvueaWueaIt+WQjSAqLwogIHByaXZhdGUgU3RyaW5nIGluY29tZVRhcmdldG5hbWU7CgogIC8qKiDmmK/lkKbnoa7orqTlrowgKi8KICBwcml2YXRlIFN0cmluZyBpbmNvbWVDb25maXJtOwoKICAvKiog5a6i5oi3VVVJRCAqLwogIHByaXZhdGUgU3RyaW5nIGluY29tZUN1c3V1aWQ7CgogIC8qKiDmmK/lkKblv73nlaXorqHnrpflnKjliKnmtqbph4wgKDA65ZCmfDE65LiN5a6M5YWo5b+955WlfDI65a6M5YWo5b+955WlKSAqLwogIHByaXZhdGUgQnl0ZSBpbmNvbWVJZ25vcmU7CgogIC8qKiDkuJrliqHpg6jpl6hVVUlEICovCiAgcHJpdmF0ZSBTdHJpbmcgaW5jb21lV29ya09yZ1V1aWQ7CgogIHB1YmxpYyBJbnRlZ2VyIGdldEluY29tZVVuaWQoKSB7CiAgICByZXR1cm4gdGhpcy5pbmNvbWVVbmlkOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SW5jb21lVW5pZChJbnRlZ2VyIGluY29tZVVuaWQpIHsKICAgIHRoaXMuaW5jb21lVW5pZCA9IGluY29tZVVuaWQ7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldEluY29tZVV1aWQoKSB7CiAgICByZXR1cm4gdGhpcy5pbmNvbWVVdWlkOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SW5jb21lVXVpZChTdHJpbmcgaW5jb21lVXVpZCkgewogICAgdGhpcy5pbmNvbWVVdWlkID0gaW5jb21lVXVpZDsKICB9CgogIHB1YmxpYyBEYXRlIGdldEluY29tZUNkYXRlKCkgewogICAgcmV0dXJuIHRoaXMuaW5jb21lQ2RhdGU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRJbmNvbWVDZGF0ZShEYXRlIGluY29tZUNkYXRlKSB7CiAgICB0aGlzLmluY29tZUNkYXRlID0gaW5jb21lQ2RhdGU7CiAgfQoKICBwdWJsaWMgRGF0ZSBnZXRJbmNvbWVVZGF0ZSgpIHsKICAgIHJldHVybiB0aGlzLmluY29tZVVkYXRlOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SW5jb21lVWRhdGUoRGF0ZSBpbmNvbWVVZGF0ZSkgewogICAgdGhpcy5pbmNvbWVVZGF0ZSA9IGluY29tZVVkYXRlOwogIH0KCiAgcHVibGljIFN0cmluZyBnZXRJbmNvbWVDdXNyKCkgewogICAgcmV0dXJuIHRoaXMuaW5jb21lQ3VzcjsKICB9CgogIHB1YmxpYyB2b2lkIHNldEluY29tZUN1c3IoU3RyaW5nIGluY29tZUN1c3IpIHsKICAgIHRoaXMuaW5jb21lQ3VzciA9IGluY29tZUN1c3I7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldEluY29tZUJvb2tzdXVpZCgpIHsKICAgIHJldHVybiB0aGlzLmluY29tZUJvb2tzdXVpZDsKICB9CgogIHB1YmxpYyB2b2lkIHNldEluY29tZUJvb2tzdXVpZChTdHJpbmcgaW5jb21lQm9va3N1dWlkKSB7CiAgICB0aGlzLmluY29tZUJvb2tzdXVpZCA9IGluY29tZUJvb2tzdXVpZDsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0SW5jb21lVGFyZ2V0KCkgewogICAgcmV0dXJuIHRoaXMuaW5jb21lVGFyZ2V0OwogIH0KCiAgcHVibGljIHZvaWQgc2V0SW5jb21lVGFyZ2V0KFN0cmluZyBpbmNvbWVUYXJnZXQpIHsKICAgIHRoaXMuaW5jb21lVGFyZ2V0ID0gaW5jb21lVGFyZ2V0OwogIH0KCiAgcHVibGljIERvdWJsZSBnZXRJbmNvbWVNb25leSgpIHsKICAgIHJldHVybiB0aGlzLmluY29tZU1vbmV5OwogIH0KCiAgcHVibGljIHZvaWQgc2V0SW5jb21lTW9uZXkoRG91YmxlIGluY29tZU1vbmV5KSB7CiAgICB0aGlzLmluY29tZU1vbmV5ID0gaW5jb21lTW9uZXk7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldEluY29tZVJlbWFyaygpIHsKICAgIHJldHVybiB0aGlzLmluY29tZVJlbWFyazsKICB9CgogIHB1YmxpYyB2b2lkIHNldEluY29tZVJlbWFyayhTdHJpbmcgaW5jb21lUmVtYXJrKSB7CiAgICB0aGlzLmluY29tZVJlbWFyayA9IGluY29tZVJlbWFyazsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0SW5jb21lRGF0ZSgpIHsKICAgIHJldHVybiB0aGlzLmluY29tZURhdGU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRJbmNvbWVEYXRlKFN0cmluZyBpbmNvbWVEYXRlKSB7CiAgICB0aGlzLmluY29tZURhdGUgPSBpbmNvbWVEYXRlOwogIH0KCiAgcHVibGljIERvdWJsZSBnZXRJbmNvbWVDdXJyZW50KCkgewogICAgcmV0dXJuIHRoaXMuaW5jb21lQ3VycmVudDsKICB9CgogIHB1YmxpYyB2b2lkIHNldEluY29tZUN1cnJlbnQoRG91YmxlIGluY29tZUN1cnJlbnQpIHsKICAgIHRoaXMuaW5jb21lQ3VycmVudCA9IGluY29tZUN1cnJlbnQ7CiAgfQoKICBwdWJsaWMgRG91YmxlIGdldEluY29tZVBheW1vbmV5KCkgewogICAgcmV0dXJuIHRoaXMuaW5jb21lUGF5bW9uZXk7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRJbmNvbWVQYXltb25leShEb3VibGUgaW5jb21lUGF5bW9uZXkpIHsKICAgIHRoaXMuaW5jb21lUGF5bW9uZXkgPSBpbmNvbWVQYXltb25leTsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0SW5jb21lVHlwZSgpIHsKICAgIHJldHVybiB0aGlzLmluY29tZVR5cGU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRJbmNvbWVUeXBlKFN0cmluZyBpbmNvbWVUeXBlKSB7CiAgICB0aGlzLmluY29tZVR5cGUgPSBpbmNvbWVUeXBlOwogIH0KCiAgcHVibGljIFN0cmluZyBnZXRJbmNvbWVUYXJnZXRuYW1lKCkgewogICAgcmV0dXJuIHRoaXMuaW5jb21lVGFyZ2V0bmFtZTsKICB9CgogIHB1YmxpYyB2b2lkIHNldEluY29tZVRhcmdldG5hbWUoU3RyaW5nIGluY29tZVRhcmdldG5hbWUpIHsKICAgIHRoaXMuaW5jb21lVGFyZ2V0bmFtZSA9IGluY29tZVRhcmdldG5hbWU7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldEluY29tZUNvbmZpcm0oKSB7CiAgICByZXR1cm4gdGhpcy5pbmNvbWVDb25maXJtOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SW5jb21lQ29uZmlybShTdHJpbmcgaW5jb21lQ29uZmlybSkgewogICAgdGhpcy5pbmNvbWVDb25maXJtID0gaW5jb21lQ29uZmlybTsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0SW5jb21lQ3VzdXVpZCgpIHsKICAgIHJldHVybiB0aGlzLmluY29tZUN1c3V1aWQ7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRJbmNvbWVDdXN1dWlkKFN0cmluZyBpbmNvbWVDdXN1dWlkKSB7CiAgICB0aGlzLmluY29tZUN1c3V1aWQgPSBpbmNvbWVDdXN1dWlkOwogIH0KCiAgcHVibGljIEJ5dGUgZ2V0SW5jb21lSWdub3JlKCkgewogICAgcmV0dXJuIHRoaXMuaW5jb21lSWdub3JlOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SW5jb21lSWdub3JlKEJ5dGUgaW5jb21lSWdub3JlKSB7CiAgICB0aGlzLmluY29tZUlnbm9yZSA9IGluY29tZUlnbm9yZTsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0SW5jb21lV29ya09yZ1V1aWQoKSB7CiAgICByZXR1cm4gdGhpcy5pbmNvbWVXb3JrT3JnVXVpZDsKICB9CgogIHB1YmxpYyB2b2lkIHNldEluY29tZVdvcmtPcmdVdWlkKFN0cmluZyBpbmNvbWVXb3JrT3JnVXVpZCkgewogICAgdGhpcy5pbmNvbWVXb3JrT3JnVXVpZCA9IGluY29tZVdvcmtPcmdVdWlkOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgIFN0cmluZ0J1ZmZlciBidWZmZXIgPSBuZXcgU3RyaW5nQnVmZmVyKHN1cGVyLnRvU3RyaW5nKCkpOwogICAgYnVmZmVyLmFwcGVuZCgiXG4iKTsKICAgIGJ1ZmZlci5hcHBlbmQoIlx0aW5jb21lVW5pZChVTklEKToiKS5hcHBlbmQoaW5jb21lVW5pZCk7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZVV1aWQoVVVJRCk6IikuYXBwZW5kKGluY29tZVV1aWQpOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVDZGF0ZSjliJvlu7rml7bpl7QpOiIpLmFwcGVuZChpbmNvbWVDZGF0ZSk7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZVVkYXRlKOS/ruaUueaXtumXtCk6IikuYXBwZW5kKGluY29tZVVkYXRlKTsKICAgIGJ1ZmZlci5hcHBlbmQoIlxuIik7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZUN1c3Io5Yib5bu66ICFKToiKS5hcHBlbmQoaW5jb21lQ3Vzcik7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZUJvb2tzdXVpZCjotKbmiLdVVUlEKToiKS5hcHBlbmQoaW5jb21lQm9va3N1dWlkKTsKICAgIGJ1ZmZlci5hcHBlbmQoIlx0aW5jb21lVGFyZ2V0KOi1hOmHkeaWueWQkSk6IikuYXBwZW5kKGluY29tZVRhcmdldCk7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZU1vbmV5KOmHkeminSk6IikuYXBwZW5kKGluY29tZU1vbmV5KTsKICAgIGJ1ZmZlci5hcHBlbmQoIlxuIik7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZVJlbWFyayjmkZjopoEpOiIpLmFwcGVuZChpbmNvbWVSZW1hcmspOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVEYXRlKOaUtuaUr+aXpeacnyk6IikuYXBwZW5kKGluY29tZURhdGUpOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVDdXJyZW50KOW9k+WJjeS9meminSk6IikuYXBwZW5kKGluY29tZUN1cnJlbnQpOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVQYXltb25leSjmlK/lh7rph5Hpop0pOiIpLmFwcGVuZChpbmNvbWVQYXltb25leSk7CiAgICBidWZmZXIuYXBwZW5kKCJcbiIpOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVUeXBlKOaUtuaUr+exu+Weiyk6IikuYXBwZW5kKGluY29tZVR5cGUpOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVUYXJnZXRuYW1lKOWvueaWueaIt+WQjSk6IikuYXBwZW5kKGluY29tZVRhcmdldG5hbWUpOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVDb25maXJtKOaYr+WQpuehruiupOWujCk6IikuYXBwZW5kKGluY29tZUNvbmZpcm0pOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVDdXN1dWlkKOWuouaIt1VVSUQpOiIpLmFwcGVuZChpbmNvbWVDdXN1dWlkKTsKICAgIGJ1ZmZlci5hcHBlbmQoIlxuIik7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZUlnbm9yZSjmmK/lkKblv73nlaXorqHnrpflnKjliKnmtqbph4wgKDA65ZCmfDE65LiN5a6M5YWo5b+955WlfDI65a6M5YWo5b+955WlKSk6IikuYXBwZW5kKGluY29tZUlnbm9yZSk7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZVdvcmtPcmdVdWlkKOS4muWKoemDqOmXqFVVSUQpOiIpLmFwcGVuZChpbmNvbWVXb3JrT3JnVXVpZCk7CiAgICByZXR1cm4gYnVmZmVyLnRvU3RyaW5nKCk7CiAgfQogIC8vID09PT09PT09PT09PT09PT09PeWumuWItuWGheWuueW8gOWniz09PT09PT09PT09PT09PT09PT09PT0KCiAgLy8gPT09PT09PT09PT09PT09PT095a6a5Yi25YaF5a6557uT5p2fPT09PT09PT09PT09PT09PT09PT09PQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAvLyA9PT09PT09PT09PT09PT09PT09PT095a2X5q615YiX6KGoPT09PT09PT09PT09PT09PT09PT09PT09CiAgLyoqIFVOSUQgKi8KICBAQUNGKENGID0gQ0YuVU5JRCkKICBwcml2YXRlIEludGVnZXIgaW5jb21lVW5pZDsKCiAgLyoqIFVVSUQgKi8KICBAQUNGKENGID0gQ0YuVVVJRCkKICBwcml2YXRlIFN0cmluZyBpbmNvbWVVdWlkOwoKICAvKiog5Yib5bu65pe26Ze0ICovCiAgQEFDRihDRiA9IENGLkNSRUFURVRJTUUpCiAgcHJpdmF0ZSBEYXRlIGluY29tZUNkYXRlOwoKICAvKiog5L+u5pS55pe26Ze0ICovCiAgQEFDRihDRiA9IENGLkxBU1RVUERBVEVUSU1FKQogIHByaXZhdGUgRGF0ZSBpbmNvbWVVZGF0ZTsKCiAgLyoqIOWIm+W7uuiAhSAqLwogIEBBQ0YoQ0YgPSBDRi5DUkVBVE9SKQogIHByaXZhdGUgU3RyaW5nIGluY29tZUN1c3I7CgogIC8qKiDotKbmiLdVVUlEICovCiAgcHJpdmF0ZSBTdHJpbmcgaW5jb21lQm9va3N1dWlkOwoKICAvKiog6LWE6YeR5pa55ZCRICovCiAgcHJpdmF0ZSBTdHJpbmcgaW5jb21lVGFyZ2V0OwoKICAvKiog6YeR6aKdICovCiAgcHJpdmF0ZSBEb3VibGUgaW5jb21lTW9uZXk7CgogIC8qKiDmkZjopoEgKi8KICBwcml2YXRlIFN0cmluZyBpbmNvbWVSZW1hcms7CgogIC8qKiDmlLbmlK/ml6XmnJ8gKi8KICBwcml2YXRlIFN0cmluZyBpbmNvbWVEYXRlOwoKICAvKiog5b2T5YmN5L2Z6aKdICovCiAgcHJpdmF0ZSBEb3VibGUgaW5jb21lQ3VycmVudDsKCiAgLyoqIOaUr+WHuumHkeminSAqLwogIHByaXZhdGUgRG91YmxlIGluY29tZVBheW1vbmV5OwoKICAvKiog5pS25pSv57G75Z6LICovCiAgcHJpdmF0ZSBTdHJpbmcgaW5jb21lVHlwZTsKCiAgLyoqIOWvueaWueaIt+WQjSAqLwogIHByaXZhdGUgU3RyaW5nIGluY29tZVRhcmdldG5hbWU7CgogIC8qKiDmmK/lkKbnoa7orqTlrowgKi8KICBwcml2YXRlIFN0cmluZyBpbmNvbWVDb25maXJtOwoKICAvKiog5a6i5oi3VVVJRCAqLwogIHByaXZhdGUgU3RyaW5nIGluY29tZUN1c3V1aWQ7CgogIC8qKiDmmK/lkKblv73nlaXorqHnrpflnKjliKnmtqbph4wgKDA65ZCmfDE65LiN5a6M5YWo5b+955WlfDI65a6M5YWo5b+955WlKSAqLwogIHByaXZhdGUgQnl0ZSBpbmNvbWVJZ25vcmU7CgogIC8qKiDkuJrliqHpg6jpl6hVVUlEICovCiAgcHJpdmF0ZSBTdHJpbmcgaW5jb21lV29ya09yZ1V1aWQ7CgogIHB1YmxpYyBJbnRlZ2VyIGdldEluY29tZVVuaWQoKSB7CiAgICByZXR1cm4gdGhpcy5pbmNvbWVVbmlkOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SW5jb21lVW5pZChJbnRlZ2VyIGluY29tZVVuaWQpIHsKICAgIHRoaXMuaW5jb21lVW5pZCA9IGluY29tZVVuaWQ7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldEluY29tZVV1aWQoKSB7CiAgICByZXR1cm4gdGhpcy5pbmNvbWVVdWlkOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SW5jb21lVXVpZChTdHJpbmcgaW5jb21lVXVpZCkgewogICAgdGhpcy5pbmNvbWVVdWlkID0gaW5jb21lVXVpZDsKICB9CgogIHB1YmxpYyBEYXRlIGdldEluY29tZUNkYXRlKCkgewogICAgcmV0dXJuIHRoaXMuaW5jb21lQ2RhdGU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRJbmNvbWVDZGF0ZShEYXRlIGluY29tZUNkYXRlKSB7CiAgICB0aGlzLmluY29tZUNkYXRlID0gaW5jb21lQ2RhdGU7CiAgfQoKICBwdWJsaWMgRGF0ZSBnZXRJbmNvbWVVZGF0ZSgpIHsKICAgIHJldHVybiB0aGlzLmluY29tZVVkYXRlOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SW5jb21lVWRhdGUoRGF0ZSBpbmNvbWVVZGF0ZSkgewogICAgdGhpcy5pbmNvbWVVZGF0ZSA9IGluY29tZVVkYXRlOwogIH0KCiAgcHVibGljIFN0cmluZyBnZXRJbmNvbWVDdXNyKCkgewogICAgcmV0dXJuIHRoaXMuaW5jb21lQ3VzcjsKICB9CgogIHB1YmxpYyB2b2lkIHNldEluY29tZUN1c3IoU3RyaW5nIGluY29tZUN1c3IpIHsKICAgIHRoaXMuaW5jb21lQ3VzciA9IGluY29tZUN1c3I7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldEluY29tZUJvb2tzdXVpZCgpIHsKICAgIHJldHVybiB0aGlzLmluY29tZUJvb2tzdXVpZDsKICB9CgogIHB1YmxpYyB2b2lkIHNldEluY29tZUJvb2tzdXVpZChTdHJpbmcgaW5jb21lQm9va3N1dWlkKSB7CiAgICB0aGlzLmluY29tZUJvb2tzdXVpZCA9IGluY29tZUJvb2tzdXVpZDsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0SW5jb21lVGFyZ2V0KCkgewogICAgcmV0dXJuIHRoaXMuaW5jb21lVGFyZ2V0OwogIH0KCiAgcHVibGljIHZvaWQgc2V0SW5jb21lVGFyZ2V0KFN0cmluZyBpbmNvbWVUYXJnZXQpIHsKICAgIHRoaXMuaW5jb21lVGFyZ2V0ID0gaW5jb21lVGFyZ2V0OwogIH0KCiAgcHVibGljIERvdWJsZSBnZXRJbmNvbWVNb25leSgpIHsKICAgIHJldHVybiB0aGlzLmluY29tZU1vbmV5OwogIH0KCiAgcHVibGljIHZvaWQgc2V0SW5jb21lTW9uZXkoRG91YmxlIGluY29tZU1vbmV5KSB7CiAgICB0aGlzLmluY29tZU1vbmV5ID0gaW5jb21lTW9uZXk7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldEluY29tZVJlbWFyaygpIHsKICAgIHJldHVybiB0aGlzLmluY29tZVJlbWFyazsKICB9CgogIHB1YmxpYyB2b2lkIHNldEluY29tZVJlbWFyayhTdHJpbmcgaW5jb21lUmVtYXJrKSB7CiAgICB0aGlzLmluY29tZVJlbWFyayA9IGluY29tZVJlbWFyazsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0SW5jb21lRGF0ZSgpIHsKICAgIHJldHVybiB0aGlzLmluY29tZURhdGU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRJbmNvbWVEYXRlKFN0cmluZyBpbmNvbWVEYXRlKSB7CiAgICB0aGlzLmluY29tZURhdGUgPSBpbmNvbWVEYXRlOwogIH0KCiAgcHVibGljIERvdWJsZSBnZXRJbmNvbWVDdXJyZW50KCkgewogICAgcmV0dXJuIHRoaXMuaW5jb21lQ3VycmVudDsKICB9CgogIHB1YmxpYyB2b2lkIHNldEluY29tZUN1cnJlbnQoRG91YmxlIGluY29tZUN1cnJlbnQpIHsKICAgIHRoaXMuaW5jb21lQ3VycmVudCA9IGluY29tZUN1cnJlbnQ7CiAgfQoKICBwdWJsaWMgRG91YmxlIGdldEluY29tZVBheW1vbmV5KCkgewogICAgcmV0dXJuIHRoaXMuaW5jb21lUGF5bW9uZXk7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRJbmNvbWVQYXltb25leShEb3VibGUgaW5jb21lUGF5bW9uZXkpIHsKICAgIHRoaXMuaW5jb21lUGF5bW9uZXkgPSBpbmNvbWVQYXltb25leTsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0SW5jb21lVHlwZSgpIHsKICAgIHJldHVybiB0aGlzLmluY29tZVR5cGU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRJbmNvbWVUeXBlKFN0cmluZyBpbmNvbWVUeXBlKSB7CiAgICB0aGlzLmluY29tZVR5cGUgPSBpbmNvbWVUeXBlOwogIH0KCiAgcHVibGljIFN0cmluZyBnZXRJbmNvbWVUYXJnZXRuYW1lKCkgewogICAgcmV0dXJuIHRoaXMuaW5jb21lVGFyZ2V0bmFtZTsKICB9CgogIHB1YmxpYyB2b2lkIHNldEluY29tZVRhcmdldG5hbWUoU3RyaW5nIGluY29tZVRhcmdldG5hbWUpIHsKICAgIHRoaXMuaW5jb21lVGFyZ2V0bmFtZSA9IGluY29tZVRhcmdldG5hbWU7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldEluY29tZUNvbmZpcm0oKSB7CiAgICByZXR1cm4gdGhpcy5pbmNvbWVDb25maXJtOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SW5jb21lQ29uZmlybShTdHJpbmcgaW5jb21lQ29uZmlybSkgewogICAgdGhpcy5pbmNvbWVDb25maXJtID0gaW5jb21lQ29uZmlybTsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0SW5jb21lQ3VzdXVpZCgpIHsKICAgIHJldHVybiB0aGlzLmluY29tZUN1c3V1aWQ7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRJbmNvbWVDdXN1dWlkKFN0cmluZyBpbmNvbWVDdXN1dWlkKSB7CiAgICB0aGlzLmluY29tZUN1c3V1aWQgPSBpbmNvbWVDdXN1dWlkOwogIH0KCiAgcHVibGljIEJ5dGUgZ2V0SW5jb21lSWdub3JlKCkgewogICAgcmV0dXJuIHRoaXMuaW5jb21lSWdub3JlOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SW5jb21lSWdub3JlKEJ5dGUgaW5jb21lSWdub3JlKSB7CiAgICB0aGlzLmluY29tZUlnbm9yZSA9IGluY29tZUlnbm9yZTsKICB9CgogIHB1YmxpYyBTdHJpbmcgZ2V0SW5jb21lV29ya09yZ1V1aWQoKSB7CiAgICByZXR1cm4gdGhpcy5pbmNvbWVXb3JrT3JnVXVpZDsKICB9CgogIHB1YmxpYyB2b2lkIHNldEluY29tZVdvcmtPcmdVdWlkKFN0cmluZyBpbmNvbWVXb3JrT3JnVXVpZCkgewogICAgdGhpcy5pbmNvbWVXb3JrT3JnVXVpZCA9IGluY29tZVdvcmtPcmdVdWlkOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgIFN0cmluZ0J1ZmZlciBidWZmZXIgPSBuZXcgU3RyaW5nQnVmZmVyKHN1cGVyLnRvU3RyaW5nKCkpOwogICAgYnVmZmVyLmFwcGVuZCgiXG4iKTsKICAgIGJ1ZmZlci5hcHBlbmQoIlx0aW5jb21lVW5pZChVTklEKToiKS5hcHBlbmQoaW5jb21lVW5pZCk7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZVV1aWQoVVVJRCk6IikuYXBwZW5kKGluY29tZVV1aWQpOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVDZGF0ZSjliJvlu7rml7bpl7QpOiIpLmFwcGVuZChpbmNvbWVDZGF0ZSk7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZVVkYXRlKOS/ruaUueaXtumXtCk6IikuYXBwZW5kKGluY29tZVVkYXRlKTsKICAgIGJ1ZmZlci5hcHBlbmQoIlxuIik7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZUN1c3Io5Yib5bu66ICFKToiKS5hcHBlbmQoaW5jb21lQ3Vzcik7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZUJvb2tzdXVpZCjotKbmiLdVVUlEKToiKS5hcHBlbmQoaW5jb21lQm9va3N1dWlkKTsKICAgIGJ1ZmZlci5hcHBlbmQoIlx0aW5jb21lVGFyZ2V0KOi1hOmHkeaWueWQkSk6IikuYXBwZW5kKGluY29tZVRhcmdldCk7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZU1vbmV5KOmHkeminSk6IikuYXBwZW5kKGluY29tZU1vbmV5KTsKICAgIGJ1ZmZlci5hcHBlbmQoIlxuIik7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZVJlbWFyayjmkZjopoEpOiIpLmFwcGVuZChpbmNvbWVSZW1hcmspOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVEYXRlKOaUtuaUr+aXpeacnyk6IikuYXBwZW5kKGluY29tZURhdGUpOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVDdXJyZW50KOW9k+WJjeS9meminSk6IikuYXBwZW5kKGluY29tZUN1cnJlbnQpOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVQYXltb25leSjmlK/lh7rph5Hpop0pOiIpLmFwcGVuZChpbmNvbWVQYXltb25leSk7CiAgICBidWZmZXIuYXBwZW5kKCJcbiIpOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVUeXBlKOaUtuaUr+exu+Weiyk6IikuYXBwZW5kKGluY29tZVR5cGUpOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVUYXJnZXRuYW1lKOWvueaWueaIt+WQjSk6IikuYXBwZW5kKGluY29tZVRhcmdldG5hbWUpOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVDb25maXJtKOaYr+WQpuehruiupOWujCk6IikuYXBwZW5kKGluY29tZUNvbmZpcm0pOwogICAgYnVmZmVyLmFwcGVuZCgiXHRpbmNvbWVDdXN1dWlkKOWuouaIt1VVSUQpOiIpLmFwcGVuZChpbmNvbWVDdXN1dWlkKTsKICAgIGJ1ZmZlci5hcHBlbmQoIlxuIik7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZUlnbm9yZSjmmK/lkKblv73nlaXorqHnrpflnKjliKnmtqbph4wgKDA65ZCmfDE65LiN5a6M5YWo5b+955WlfDI65a6M5YWo5b+955WlKSk6IikuYXBwZW5kKGluY29tZUlnbm9yZSk7CiAgICBidWZmZXIuYXBwZW5kKCJcdGluY29tZVdvcmtPcmdVdWlkKOS4muWKoemDqOmXqFVVSUQpOiIpLmFwcGVuZChpbmNvbWVXb3JrT3JnVXVpZCk7CiAgICByZXR1cm4gYnVmZmVyLnRvU3RyaW5nKCk7CiAgfQogIC8vID09PT09PT09PT09PT09PT09PeWumuWItuWGheWuueW8gOWniz09PT09PT09PT09PT09PT09PT09PT0KCiAgLy8gPT09PT09PT09PT09PT09PT095a6a5Yi25YaF5a6557uT5p2fPT09PT09PT09PT09PT09PT09PT09PQ==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="u" type="4">
         <text>e</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXBkYXRlICAgYnN6Yl9idXNpbmVzcyBhcyBhYSBqb2luIGJzemJfZnVodWFxaV9idXNpbmVzcyBhcyBiYiBvbiBhYS5CVVNJTkVTU19VVUlEID0gYmIuQkZCVVNfQlVTVVVJRCBqb2luIGJzemJfZnVodWFxaV9zZXR0bGVkIGFzIGNjIG9uIGNjLkJGU0VUVExFX0JGQlVTVVVJRCA9IGJiLkJGQlVTX1VVSUQKam9pbiB3Zl9lbmdpbmUgYXMgZWUgb24gZWUuV0ZFTkdJTkVfSVRFTVVVSUQgPSBjYy5CRlNFVFRMRV9VVUlECnNldCBhYS5CVVNJTkVTU19TVEFUVVMgPSAzICxiYi5CRkJVU19TVEFUVVMgPSAzLGNjLkJGU0VUVExFX1NUQVRVUyA9IDMKd2hlcmUgYWEuQlVTSU5FU1NfU1RBVFVTID0gMSBhbmQgZWUuV0ZFTkdJTkVfV09SS0ZMT1dTVEFUVVMgPSAnRklOSVNIJzsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXBkYXRlICAgYnN6Yl9idXNpbmVzcyBhcyBhYSBqb2luIGJzemJfZnVodWFxaV9idXNpbmVzcyBhcyBiYiBvbiBhYS5CVVNJTkVTU19VVUlEID0gYmIuQkZCVVNfQlVTVVVJRCBqb2luIGJzemJfZnVodWFxaV9zZXR0bGVkIGFzIGNjIG9uIGNjLkJGU0VUVExFX0JGQlVTVVVJRCA9IGJiLkJGQlVTX1VVSUQKICAgIGpvaW4gd2ZfZW5naW5lIGFzIGVlIG9uIGVlLldGRU5HSU5FX0lURU1VVUlEID0gY2MuQkZTRVRUTEVfVVVJRApzZXQgYWEuQlVTSU5FU1NfU1RBVFVTID0gMyAsYmIuQkZCVVNfU1RBVFVTID0gMyxjYy5CRlNFVFRMRV9TVEFUVVMgPSAzCndoZXJlIGFhLkJVU0lORVNTX1NUQVRVUyA9IDEgYW5kIGVlLldGRU5HSU5FX1dPUktGTE9XU1RBVFVTID0gJ0ZJTklTSCc7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgQU5EIG5vdygpIGJldHdlZW4gYmIuQlVTSU5FU1NfQkVHSU5fREFURSBBTkQgYmIuQlVTSU5FU1NfRU5EX0RBVEUK</text>
+        <text encoding="base64">dXBkYXRlICAgYnN6Yl9idXNpbmVzcyBhcyBhYSBqb2luIGJzemJfZnVodWFxaV9idXNpbmVzcyBhcyBiYiBvbiBhYS5CVVNJTkVTU19VVUlEID0gYmIuQkZCVVNfQlVTVVVJRCBqb2luIGJzemJfZnVodWFxaV9zZXR0bGVkIGFzIGNjIG9uIGNjLkJGU0VUVExFX0JGQlVTVVVJRCA9IGJiLkJGQlVTX1VVSUQKam9pbiB3Zl9lbmdpbmUgYXMgZWUgb24gZWUuV0ZFTkdJTkVfSVRFTVVVSUQgPSBjYy5CRlNFVFRMRV9VVUlECnNldCBhYS5CVVNJTkVTU19TVEFUVVMgPSAzICxiYi5CRkJVU19TVEFUVVMgPSAzLGNjLkJGU0VUVExFX1NUQVRVUyA9IDMKd2hlcmUgYWEuQlVTSU5FU1NfU1RBVFVTID0gMSBhbmQgZWUuV0ZFTkdJTkVfV09SS0ZMT1dTVEFUVVMgPSAnRklOSVNIJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgYW5kIChidC5URVJNX1VVSUQgaXMgbnVsbCBvcgogICAgICAgIChidC5URVJNX1VVSUQgaXMgbm90IG51bGwgYW5kIEJULlRFUk1fU1RBVFVTID0gMSBhbmQgbm93KCkgPD0gYnQuVEVSTV9CRUdJTl9EQVRFKSkK</text>
+        <text encoding="base64">dXBkYXRlICAgYnN6Yl9idXNpbmVzcyBhcyBhYSBqb2luIGJzemJfZnVodWFxaV9idXNpbmVzcyBhcyBiYiBvbiBhYS5CVVNJTkVTU19VVUlEID0gYmIuQkZCVVNfQlVTVVVJRCBqb2luIGJzemJfZnVodWFxaV9zZXR0bGVkIGFzIGNjIG9uIGNjLkJGU0VUVExFX0JGQlVTVVVJRCA9IGJiLkJGQlVTX1VVSUQKICAgIGpvaW4gd2ZfZW5naW5lIGFzIGVlIG9uIGVlLldGRU5HSU5FX0lURU1VVUlEID0gY2MuQkZTRVRUTEVfVVVJRApzZXQgYWEuQlVTSU5FU1NfU1RBVFVTID0gMyAsYmIuQkZCVVNfU1RBVFVTID0gMyxjYy5CRlNFVFRMRV9TVEFUVVMgPSAzCndoZXJlIGFhLkJVU0lORVNTX1NUQVRVUyA9IDEgYW5kIGVlLldGRU5HSU5FX1dPUktGTE9XU1RBVFVTID0gJ0ZJTklTSCc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action GotoTest</text>
       </register>
     </registers>
     <search>
@@ -508,7 +503,7 @@
       <last-replace />
       <last-substitute>default</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -534,26 +529,26 @@
         <entry encoding="base64">XDxwZW5kaW5nUmVmdW5kXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action SonarLint.AnalyzeChangedFiles</entry>
-        <entry>action SonarLint.AnalyzeFiles</entry>
-        <entry>sp</entry>
-        <entry>action RearrangeCode</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action GotoNextError</entry>
-        <entry>action Back</entry>
-        <entry>action VcsShowPrevChangeMarker</entry>
-        <entry>action VcsShowNextChangeMarker</entry>
-        <entry>action ShowFilePath</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action MethodDown</entry>
-        <entry>action MethodUp</entry>
-        <entry>%s/default//g</entry>
-        <entry>action EditorStartNewLine</entry>
-        <entry>action TypeHierarchy</entry>
-        <entry>action Replace</entry>
-        <entry>action GotoDeclaration</entry>
-        <entry>action Find</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action RecentFiles</entry>
+        <entry>action GotoAction</entry>
+        <entry>action FindUsages</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoClass</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry>action FindInPath</entry>
+        <entry>action EditorToggleCase</entry>
+        <entry>action NewClass</entry>
+        <entry>action ImplementMethods</entry>
+        <entry>action Generate</entry>
+        <entry>action Vcs.QuickListPopupAction</entry>
+        <entry>action CheckinProject</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action LocalHistory.ShowHistory</entry>
+        <entry>action ToggleLineBreakpoint</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>action GotoTest</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -652,8 +647,149 @@
       <shortcut-conflict owner="vim">
         <text>alt pressed M</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F8</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed F2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift alt pressed UP</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed F2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed F3</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed F10</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed F4</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed LEFT</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F3</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift alt pressed DOWN</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed UP</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F4</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed UP</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F5</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed F8</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed DOWN</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed F2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed F3</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed RIGHT</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed F4</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F8</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F9</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed F7</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed F7</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F10</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>alt pressed DOWN</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed F8</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F3</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed F9</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F5</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F4</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift pressed F10</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F7</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F9</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed EQUALS</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

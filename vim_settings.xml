@@ -257,6 +257,12 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F7</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift alt pressed F10</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift alt pressed F9</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
     <editor />
     <notifications>

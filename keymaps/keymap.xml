@@ -1,5 +1,0 @@
-<keymap version="1" name="keymap" parent="$default">
-  <action id="VimPluginToggle">
-    <keyboard-shortcut first-keystroke="ctrl comma" />
-  </action>
-</keymap>
